@@ -2,6 +2,8 @@
 tap 'rcmdnk/brewall'
 brew 'brewall'
 
+tap 'rcmdnk/rcmdnkpac'
+
 # Cask packages
 
 # Other Homebrew packages
