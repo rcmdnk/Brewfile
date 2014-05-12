@@ -17,7 +17,44 @@ tap thoughtbot/formulae
 brew gitsh
 
 
-# Cask packages
+# Homebrew packages
+install autoconf
+install automake
+install bash
+install bash-completion
+install bdw-gc
+install boost
+install checkbashisms
+install colordiff
+install cscope
+install dash
+install freetype
+install gdbm
+install git
+install imagemagick
+install jpeg
+install libevent
+install libpng
+install libtool
+install lua
+install macvim --with-lua
+install mercurial
+install node
+install openssl
+install pkg-config
+install python
+install readline
+install sqlite
+install stow
+install tig
+install tmux
+install tree
+install w3m
+install wdiff
+install wget
+install xz
+
+# Cask Applications
 cask install adobe-reader
 cask install appcleaner
 cask install audacity
@@ -72,40 +109,3 @@ cask install xquartz
 cask install xrg
 cask install xtrafinder
 cask install zipeg
-
-# Other Homebrew packages
-install autoconf
-install automake
-install bash
-install bash-completion
-install bdw-gc
-install boost
-install checkbashisms
-install colordiff
-install cscope
-install dash
-install freetype
-install gdbm
-install git
-install imagemagick
-install jpeg
-install libevent
-install libpng
-install libtool
-install lua
-install macvim --with-lua
-install mercurial
-install node
-install openssl
-install pkg-config
-install python
-install readline
-install sqlite
-install stow
-install tig
-install tmux
-install tree
-install w3m
-install wdiff
-install wget
-install xz
