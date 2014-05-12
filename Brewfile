@@ -1,143 +1,111 @@
 # Tap repositories and their packages
-tap 'homebrew/dupes'
+tap caskroom/cask
+brew brew-cask
 
-tap 'homebrew/versions'
+tap caskroom/versions
 
-tap 'phinze/cask'
+tap homebrew/dupes
 
-tap 'rcmdnk/brewall'
+tap homebrew/versions
 
-tap 'thoughtbot/formulae'
+tap rcmdnk/brewall
+brew brewall
+
+tap rcmdnk/rcmdnkcask
+
+tap thoughtbot/formulae
+brew gitsh
 
 
 # Cask packages
-cask 'adobe-reader'
-cask 'alfred'
-cask 'appcleaner'
-cask 'audacity'
-cask 'bathyscaphe'
-cask 'bettertouchtool'
-cask 'caffeine'
-cask 'callnote'
-cask 'candybar'
-cask 'cathode'
-cask 'cheatsheet'
-cask 'clamxav'
-cask 'clipmenu'
-cask 'cloud'
-cask 'cooviewer'
-cask 'copy'
-cask 'cyberduck'
-cask 'deeper'
-cask 'disk-drill'
-cask 'dropbox'
-cask 'dupscanub'
-cask 'evasi0n'
-cask 'evernote'
-cask 'filezilla'
-cask 'firefox'
-cask 'flip4mac'
-cask 'fluid'
-cask 'flux'
-cask 'geektool'
-cask 'gimp'
-cask 'github'
-cask 'google-chrome'
-cask 'google-drive'
-cask 'google-japanese-ime'
-cask 'google-notifier'
-cask 'gyazo'
-cask 'hyperswitch'
-cask 'icefloor'
-cask 'iexplorer'
-cask 'ifunbox'
-cask 'imageoptim'
-cask 'img2icns'
-cask 'iterm2'
-cask 'keyboardcleantool'
-cask 'keyremap4macbook'
-cask 'kuaipan'
-cask 'launchbar'
-cask 'licecap'
-cask 'linein'
-cask 'liteicon'
-cask 'madruby'
-cask 'magican'
-cask 'mendeley-desktop'
-cask 'menubarfilter'
-cask 'meteorologist'
-cask 'mou'
-cask 'netbeans'
-cask 'netnewswire'
-cask 'nocturne'
-cask 'notational-velocity'
-cask 'onyx'
-cask 'openoffice'
-cask 'picasa'
-cask 'quicksilver'
-cask 'rightzoom'
-cask 'secondbar'
-cask 'simplecap'
-cask 'simplefloatingclock'
-cask 'skim'
-cask 'skitch'
-cask 'skydrive'
-cask 'skype'
-cask 'slate'
-cask 'smcfancontrol'
-cask 'spark'
-cask 'startninja'
-cask 'synergy'
-cask 'teamviewer'
-cask 'the-unarchiver'
-cask 'thunderbird'
-cask 'timemachineeditor'
-cask 'tinkertool'
-cask 'ukelele'
-cask 'virtualbox'
-cask 'vlc'
-cask 'wireshark'
-cask 'xquartz'
-cask 'xrg'
-cask 'xtrafinder'
-cask 'yorufukurou'
-cask 'zipeg'
+cask install adobe-reader
+cask install appcleaner
+cask install audacity
+cask install bathyscaphe
+cask install bettertouchtool
+cask install caffeine
+cask install callnote
+cask install cathode
+cask install cheatsheet
+cask install clipmenu
+cask install cooviewer
+cask install copy
+cask install cyberduck
+cask install deeper
+cask install dropbox
+cask install dupscanub
+cask install evernote
+cask install filezilla
+cask install firefox-ja
+cask install flip4mac
+cask install geektool
+cask install gimp
+cask install google-chrome
+cask install google-drive
+cask install google-japanese-ime
+cask install hyperswitch
+cask install iexplorer
+cask install ifunbox
+cask install imageoptim
+cask install img2icns
+cask install iterm2
+cask install keyboardcleantool
+cask install keyremap4macbook
+cask install licecap
+cask install liteicon
+cask install madruby
+cask install mendeley-desktop
+cask install mou
+cask install netbeans
+cask install onyx
+cask install openoffice
+cask install picasa
+cask install simplefloatingclock
+cask install skitch
+cask install skype
+cask install teamviewer
+cask install the-unarchiver
+cask install tinkertool
+cask install virtualbox
+cask install vlc
+cask install xquartz
+cask install xrg
+cask install xtrafinder
+cask install zipeg
 
 # Other Homebrew packages
-brew 'autoconf'
-brew 'automake'
-brew 'bash'
-brew 'bash-completion'
-brew 'bdw-gc'
-brew 'boost'
-brew 'brew-cask'
-brew 'brewall'
-brew 'checkbashisms'
-brew 'colordiff'
-brew 'cscope'
-brew 'dash'
-brew 'freetype'
-brew 'gdbm'
-brew 'git'
-brew 'gitsh'
-brew 'imagemagick'
-brew 'jpeg'
-brew 'libevent'
-brew 'libpng'
-brew 'libtool'
-brew 'lua'
-brew 'macvim --with-lua'
-brew 'mercurial'
-brew 'openssl'
-brew 'pkg-config'
-brew 'python'
-brew 'readline'
-brew 'sqlite'
-brew 'stow'
-brew 'tig'
-brew 'tmux'
-brew 'tree'
-brew 'w3m'
-brew 'wdiff'
-brew 'wget'
-brew 'xz'
+install autoconf
+install automake
+install bash
+install bash-completion
+install bdw-gc
+install boost
+install checkbashisms
+install colordiff
+install cscope
+install dash
+install freetype
+install gdbm
+install git
+install imagemagick
+install jpeg
+install libevent
+install libpng
+install libtool
+install lua
+install macvim --with-lua
+install mercurial
+install node
+install openssl
+install pkg-config
+install python
+install readline
+install sqlite
+install stow
+install tig
+install tmux
+install tree
+install w3m
+install wdiff
+install wget
+install xz
