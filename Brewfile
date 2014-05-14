@@ -1,6 +1,6 @@
 # Tap repositories and their packages
 tap caskroom/cask
-brew brew-cask
+install brew-cask
 
 tap caskroom/versions
 
@@ -9,12 +9,12 @@ tap homebrew/dupes
 tap homebrew/versions
 
 tap rcmdnk/brewall
-brew brewall
+install brewall
 
 tap rcmdnk/rcmdnkcask
 
 tap thoughtbot/formulae
-brew gitsh
+install gitsh
 
 
 # Homebrew packages
