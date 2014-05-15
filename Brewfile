@@ -75,6 +75,7 @@ cask install evernote
 cask install filezilla
 cask install firefox-ja
 cask install flip4mac
+cask install free-ruler
 cask install geektool
 cask install gimp
 cask install google-chrome
@@ -94,6 +95,7 @@ cask install madruby
 cask install mendeley-desktop
 cask install mou
 cask install netbeans
+cask install notify
 cask install onyx
 cask install openoffice
 cask install picasa
