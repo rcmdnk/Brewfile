@@ -24,6 +24,8 @@ install bash
 install bash-completion
 install bdw-gc
 install boost
+install brew-gem
+install brew-pip
 install checkbashisms
 install colordiff
 install cscope
@@ -53,6 +55,9 @@ install w3m
 install wdiff
 install wget
 install xz
+
+# pip packages
+pip pip-asciinema
 
 # Cask Applications
 cask install adobe-reader
@@ -87,6 +92,7 @@ cask install ifunbox
 cask install imageoptim
 cask install img2icns
 cask install iterm2
+cask install java7
 cask install keyboardcleantool
 cask install keyremap4macbook
 cask install licecap
@@ -107,6 +113,7 @@ cask install the-unarchiver
 cask install tinkertool
 cask install virtualbox
 cask install vlc
+cask install voipconnect
 cask install xquartz
 cask install xrg
 cask install xtrafinder
