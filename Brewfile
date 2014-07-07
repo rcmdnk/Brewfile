@@ -41,9 +41,11 @@ install libtool
 install lua
 install macvim --with-lua
 install mercurial
+install mobile-shell
 install node
 install openssl
 install pkg-config
+install protobuf
 install python
 install readline
 install sqlite
@@ -96,6 +98,7 @@ cask install java7
 cask install keyboardcleantool
 cask install keyremap4macbook
 cask install licecap
+cask install lightningkeyboard
 cask install liteicon
 cask install madruby
 cask install mendeley-desktop
