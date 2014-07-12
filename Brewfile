@@ -60,6 +60,7 @@ install xz
 
 # pip packages
 pip pip-asciinema
+pip pip-jedi
 
 # Cask Applications
 cask install adobe-reader
@@ -97,6 +98,7 @@ cask install iterm2
 cask install java7
 cask install keyboardcleantool
 cask install keyremap4macbook
+cask install (!)
 cask install licecap
 cask install lightningkeyboard
 cask install liteicon
