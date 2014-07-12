@@ -25,7 +25,6 @@ install bash-completion
 install bdw-gc
 install boost
 install brew-gem
-install brew-pip
 install checkbashisms
 install colordiff
 install cscope
@@ -53,6 +52,7 @@ install stow
 install tig
 install tmux
 install tree
+install vim --with-lua
 install w3m
 install wdiff
 install wget
@@ -60,7 +60,6 @@ install xz
 
 # pip packages
 pip pip-asciinema
-pip pip-jedi
 
 # Cask Applications
 cask install adobe-reader
@@ -96,9 +95,8 @@ cask install imageoptim
 cask install img2icns
 cask install iterm2
 cask install java7
+cask install karabiner
 cask install keyboardcleantool
-cask install keyremap4macbook
-cask install (!)
 cask install licecap
 cask install lightningkeyboard
 cask install liteicon
