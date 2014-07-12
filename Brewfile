@@ -13,6 +13,9 @@ install brewall
 
 tap rcmdnk/rcmdnkcask
 
+tap rcmdnk/rcmdnkpac
+install screenutf8--utf8 --HEAD
+
 tap thoughtbot/formulae
 install gitsh
 
@@ -38,7 +41,7 @@ install libevent
 install libpng
 install libtool
 install lua
-install macvim --with-lua
+install macvim--with-lua
 install mercurial
 install mobile-shell
 install node
@@ -52,7 +55,7 @@ install stow
 install tig
 install tmux
 install tree
-install vim --with-lua
+install vim--with-lua --HEAD
 install w3m
 install wdiff
 install wget
