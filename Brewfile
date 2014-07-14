@@ -14,7 +14,7 @@ install brewall
 tap rcmdnk/rcmdnkcask
 
 tap rcmdnk/rcmdnkpac
-install screenutf8 --utf8 --HEAD
+install screenutf8
 
 tap thoughtbot/formulae
 install gitsh
@@ -55,7 +55,7 @@ install stow
 install tig
 install tmux
 install tree
-install vim --with-lua --HEAD
+install vim --with-lua
 install w3m
 install wdiff
 install wget
@@ -85,6 +85,7 @@ cask install evernote
 cask install filezilla
 cask install firefox-ja
 cask install flip4mac
+cask install font-migu1m
 cask install free-ruler
 cask install geektool
 cask install gimp
