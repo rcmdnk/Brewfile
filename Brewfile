@@ -1,24 +1,92 @@
 # Tap repositories and their packages
+
+## caskroom/cask
 tap caskroom/cask
 install brew-cask
+cask install adobe-reader
+cask install appcleaner
+cask install audacity
+cask install bathyscaphe
+cask install bettertouchtool
+cask install caffeine
+cask install callnote
+cask install cheatsheet
+cask install clipmenu
+cask install cooviewer
+cask install copy
+cask install cyberduck
+cask install deeper
+cask install dropbox
+cask install dupscanub
+cask install evernote
+cask install filezilla
+cask install flip4mac
+cask install free-ruler
+cask install geektool
+cask install gimp
+cask install google-chrome
+cask install google-drive
+cask install google-japanese-ime
+cask install hyperswitch
+cask install iexplorer
+cask install ifunbox
+cask install imageoptim
+cask install img2icns
+cask install iterm2
+cask install karabiner
+cask install keyboardcleantool
+cask install licecap
+cask install liteicon
+cask install mendeley-desktop
+cask install mou
+cask install netbeans
+cask install onyx
+cask install openoffice
+cask install picasa
+cask install skitch
+cask install skype
+cask install teamviewer
+cask install the-unarchiver
+cask install tinkertool
+cask install virtualbox
+cask install vlc
+cask install xquartz
+cask install xrg
+cask install xtrafinder
+cask install zipeg
 
+## caskroom/versions
 tap caskroom/versions
+cask install firefox-ja
+cask install java7
 
+## homebrew/dupes
 tap homebrew/dupes
 
+## homebrew/versions
 tap homebrew/versions
 
+## rcmdnk/brewall
 tap rcmdnk/brewall
 install brewall
 
+## rcmdnk/rcmdnkcask
 tap rcmdnk/rcmdnkcask
+cask install cathode
+cask install font-migu1m
+cask install lightningkeyboard
+cask install madruby
+cask install notify
+cask install simplefloatingclock
+cask install voipconnect
 
+## rcmdnk/rcmdnkpac
 tap rcmdnk/rcmdnkpac
-install screenutf8
+install screenutf8 --utf8 --HEAD
 
+## thoughtbot/formulae
 tap thoughtbot/formulae
 install gitsh
-
 
 # Homebrew packages
 install autoconf
@@ -55,7 +123,7 @@ install stow
 install tig
 install tmux
 install tree
-install vim --with-lua
+install vim --with-lua --HEAD
 install w3m
 install wdiff
 install wget
@@ -63,65 +131,3 @@ install xz
 
 # pip packages
 pip pip-asciinema
-
-# Cask Applications
-cask install adobe-reader
-cask install appcleaner
-cask install audacity
-cask install bathyscaphe
-cask install bettertouchtool
-cask install caffeine
-cask install callnote
-cask install cathode
-cask install cheatsheet
-cask install clipmenu
-cask install cooviewer
-cask install copy
-cask install cyberduck
-cask install deeper
-cask install dropbox
-cask install dupscanub
-cask install evernote
-cask install filezilla
-cask install firefox-ja
-cask install flip4mac
-cask install font-migu1m
-cask install free-ruler
-cask install geektool
-cask install gimp
-cask install google-chrome
-cask install google-drive
-cask install google-japanese-ime
-cask install hyperswitch
-cask install iexplorer
-cask install ifunbox
-cask install imageoptim
-cask install img2icns
-cask install iterm2
-cask install java7
-cask install karabiner
-cask install keyboardcleantool
-cask install licecap
-cask install lightningkeyboard
-cask install liteicon
-cask install madruby
-cask install mendeley-desktop
-cask install mou
-cask install netbeans
-cask install notify
-cask install onyx
-cask install openoffice
-cask install picasa
-cask install simplefloatingclock
-cask install skitch
-cask install skype
-cask install teamviewer
-cask install the-unarchiver
-cask install tinkertool
-cask install virtualbox
-cask install vlc
-cask install voipconnect
-cask install xquartz
-cask install xrg
-cask install xtrafinder
-cask install zipeg
