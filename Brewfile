@@ -97,7 +97,6 @@ install bash-completion
 install bdw-gc
 install boost
 install brew-gem
-install brew-pip
 install checkbashisms
 install colordiff
 install cscope
