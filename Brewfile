@@ -82,6 +82,7 @@ cask install voipconnect
 
 ## rcmdnk/rcmdnkpac
 tap rcmdnk/rcmdnkpac
+install asciinema
 install screenutf8 --utf8 --HEAD
 
 ## thoughtbot/formulae
@@ -96,6 +97,7 @@ install bash-completion
 install bdw-gc
 install boost
 install brew-gem
+install brew-pip
 install checkbashisms
 install colordiff
 install cscope
@@ -128,6 +130,3 @@ install w3m
 install wdiff
 install wget
 install xz
-
-# pip packages
-pip pip-asciinema
