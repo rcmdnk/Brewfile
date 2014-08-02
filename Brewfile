@@ -90,7 +90,7 @@ install screenutf8 --utf8 --HEAD
 tap thoughtbot/formulae
 install gitsh
 
-# Homebrew packages
+# Other Homebrew packages
 install atk
 install autoconf
 install automake
