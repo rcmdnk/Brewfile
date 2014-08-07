@@ -86,6 +86,10 @@ tap rcmdnk/rcmdnkpac
 install asciinema
 install screenutf8 --utf8 --HEAD
 
+## tcr/tcr
+tap tcr/tcr
+install clang-format
+
 ## thoughtbot/formulae
 tap thoughtbot/formulae
 install gitsh
