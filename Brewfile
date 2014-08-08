@@ -10,6 +10,7 @@ cask install bathyscaphe
 cask install bettertouchtool
 cask install caffeine
 cask install callnote
+cask install cathode
 cask install cheatsheet
 cask install clipmenu
 cask install cooviewer
@@ -72,7 +73,6 @@ install brewall
 
 ## rcmdnk/rcmdnkcask
 tap rcmdnk/rcmdnkcask
-cask install cathode
 cask install font-migu1m
 cask install keycastr
 cask install lightningkeyboard
