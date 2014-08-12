@@ -44,6 +44,7 @@ cask install netbeans
 cask install onyx
 cask install openoffice
 cask install picasa
+cask install simplefloatingclock
 cask install skitch
 cask install skype
 cask install teamviewer
@@ -78,7 +79,6 @@ cask install keycastr
 cask install lightningkeyboard
 cask install madruby
 cask install notify
-cask install simplefloatingclock
 cask install voipconnect
 
 ## rcmdnk/rcmdnkpac
