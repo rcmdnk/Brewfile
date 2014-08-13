@@ -36,8 +36,10 @@ cask install img2icns
 cask install iterm2
 cask install karabiner
 cask install keyboardcleantool
+cask install keycastr
 cask install licecap
 cask install liteicon
+cask install madruby
 cask install mendeley-desktop
 cask install mou
 cask install netbeans
@@ -57,6 +59,9 @@ cask install xrg
 cask install xtrafinder
 cask install zipeg
 
+## caskroom/fonts
+tap caskroom/fonts
+
 ## caskroom/versions
 tap caskroom/versions
 cask install firefox-ja
@@ -75,9 +80,7 @@ install brewall
 ## rcmdnk/rcmdnkcask
 tap rcmdnk/rcmdnkcask
 cask install font-migu1m
-cask install keycastr
 cask install lightningkeyboard
-cask install madruby
 cask install notify
 cask install voipconnect
 
