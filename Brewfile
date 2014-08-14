@@ -82,7 +82,6 @@ tap rcmdnk/rcmdnkcask
 cask install font-migu1m
 cask install lightningkeyboard
 cask install notify
-cask install voipconnect
 
 ## rcmdnk/rcmdnkpac
 tap rcmdnk/rcmdnkpac
