@@ -121,6 +121,7 @@ install glib
 install gobject-introspection
 install gtk+
 install harfbuzz
+install horndis
 install icu4c
 install imagemagick
 install jp2a
