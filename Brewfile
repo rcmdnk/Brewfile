@@ -123,6 +123,7 @@ install gobject-introspection
 install gtk+
 install harfbuzz
 install horndis
+install hub
 install icu4c
 install imagemagick
 install jp2a
