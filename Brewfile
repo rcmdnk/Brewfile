@@ -53,6 +53,7 @@ cask install skype
 cask install teamviewer
 cask install the-unarchiver
 cask install tinkertool
+cask install unetbootin
 cask install virtualbox
 cask install vlc
 cask install xquartz
