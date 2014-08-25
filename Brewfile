@@ -77,7 +77,10 @@ tap homebrew/versions
 
 ## rcmdnk/brewall
 tap rcmdnk/brewall
-install brewall
+install brew-file
+
+## rcmdnk/file
+tap rcmdnk/file
 
 ## rcmdnk/rcmdnkcask
 tap rcmdnk/rcmdnkcask
