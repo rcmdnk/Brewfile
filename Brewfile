@@ -164,3 +164,7 @@ install w3m
 install wdiff
 install wget
 install xz
+
+# Cask Applications
+cask install mytest
+cask install (!)
