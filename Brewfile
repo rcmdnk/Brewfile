@@ -75,12 +75,9 @@ tap homebrew/dupes
 ## homebrew/versions
 tap homebrew/versions
 
-## rcmdnk/brewall
-tap rcmdnk/brewall
-install brew-file
-
 ## rcmdnk/file
 tap rcmdnk/file
+install brew-file
 
 ## rcmdnk/rcmdnkcask
 tap rcmdnk/rcmdnkcask
@@ -164,7 +161,3 @@ install w3m
 install wdiff
 install wget
 install xz
-
-# Cask Applications
-cask install mytest
-cask install (!)
