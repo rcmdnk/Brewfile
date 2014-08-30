@@ -3,12 +3,71 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
+cask install adobe-reader
+cask install appcleaner
+cask install audacity
+cask install bathyscaphe
+cask install bettertouchtool
+cask install caffeine
+cask install callnote
+cask install cathode
+cask install cheatsheet
+cask install clipmenu
+cask install cooviewer
+cask install copy
+cask install cyberduck
+cask install deeper
+cask install dropbox
+cask install dupscanub
+cask install evernote
+cask install filezilla
+cask install flip4mac
+cask install free-ruler
+cask install geektool
+cask install gimp
+cask install google-chrome
+cask install google-drive
+cask install google-japanese-ime
+cask install hyperswitch
+cask install iexplorer
+cask install ifunbox
+cask install imageoptim
+cask install img2icns
+cask install iterm2
+cask install karabiner
+cask install keyboardcleantool
+cask install keycastr
+cask install licecap
+cask install liteicon
+cask install madruby
+cask install mendeley-desktop
+cask install mou
+cask install netbeans
+cask install no-ip-duc
+cask install onyx
+cask install openoffice
+cask install picasa
+cask install simplefloatingclock
+cask install skitch
+cask install skype
+cask install teamviewer
+cask install the-unarchiver
+cask install tinkertool
+cask install unetbootin
+cask install virtualbox
+cask install vlc
+cask install xquartz
+cask install xrg
+cask install xtrafinder
+cask install zipeg
 
 ## caskroom/fonts
 tap caskroom/fonts
 
 ## caskroom/versions
 tap caskroom/versions
+cask install firefox-ja
+cask install java7
 
 ## homebrew/dupes
 tap homebrew/dupes
@@ -22,6 +81,9 @@ install brew-file
 
 ## rcmdnk/rcmdnkcask
 tap rcmdnk/rcmdnkcask
+cask install font-migu1m
+cask install lightningkeyboard
+cask install notify
 
 ## rcmdnk/rcmdnkpac
 tap rcmdnk/rcmdnkpac
