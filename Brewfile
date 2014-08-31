@@ -107,6 +107,7 @@ install bash-completion
 install bdw-gc
 install boost
 install brew-gem
+install brew-pip
 install cairo
 install checkbashisms
 install colordiff
