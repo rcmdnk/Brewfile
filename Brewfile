@@ -88,7 +88,7 @@ cask install notify
 ## rcmdnk/rcmdnkpac
 tap rcmdnk/rcmdnkpac
 install asciinema
-install screenutf8 --HEAD --utf8
+install screenutf8
 
 ## tcr/tcr
 tap tcr/tcr
