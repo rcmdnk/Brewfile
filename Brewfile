@@ -88,7 +88,7 @@ cask install notify
 ## rcmdnk/rcmdnkpac
 tap rcmdnk/rcmdnkpac
 install asciinema
-install screenutf8 --HEAD --utf8
+install screenutf8 --utf8
 
 ## tcr/tcr
 tap tcr/tcr
@@ -156,7 +156,7 @@ install stow
 install tig
 install tmux
 install tree
-install vim --HEAD --with-lua
+install vim --with-lua
 install w3m
 install wdiff
 install wget
