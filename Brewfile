@@ -61,8 +61,44 @@ cask install xrg
 cask install xtrafinder
 cask install zipeg
 
-# Other Homebrew packages
+## caskroom/fonts
+tap caskroom/fonts
+
+## caskroom/versions
+tap caskroom/versions
+cask install firefox-ja
+cask install java7
+
+## homebrew/dupes
+tap homebrew/dupes
+
+## homebrew/versions
+tap homebrew/versions
+
+## rcmdnk/file
+tap rcmdnk/file
+install brew-file
+
+## rcmdnk/rcmdnkcask
+tap rcmdnk/rcmdnkcask
+cask install font-migu1m
+cask install lightningkeyboard
+cask install notify
+
+## rcmdnk/rcmdnkpac
+tap rcmdnk/rcmdnkpac
 install asciinema
+install screenutf8 --HEAD --utf8
+
+## tcr/tcr
+tap tcr/tcr
+install clang-format
+
+## thoughtbot/formulae
+tap thoughtbot/formulae
+install gitsh
+
+# Other Homebrew packages
 install atk
 install autoconf
 install automake
@@ -70,12 +106,9 @@ install bash
 install bash-completion
 install bdw-gc
 install boost
-install brew-file
-install brew-gem
 install brew-pip
 install cairo
 install checkbashisms
-install clang-format
 install colordiff
 install cscope
 install ctags
@@ -86,7 +119,6 @@ install gdbm
 install gdk-pixbuf
 install gettext
 install git
-install gitsh
 install glib
 install gobject-introspection
 install gtk+
@@ -119,7 +151,6 @@ install pygobject
 install pygtk --with-libglade
 install python
 install readline
-install screenutf8
 install sqlite
 install stow
 install tig
@@ -130,12 +161,3 @@ install w3m
 install wdiff
 install wget
 install xz
-
-# Below applications were installed by Cask,
-but not corresponding casks were found.
-
-#cask  install firefox-ja (!)
-#cask  install font-migu1m (!)
-#cask  install java7 (!)
-#cask  install lightningkeyboard (!)
-#cask  install notify (!)
