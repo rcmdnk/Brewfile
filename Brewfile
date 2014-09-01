@@ -1,4 +1,4 @@
-# tap repositories and their packages
+# Tap repositories and their packages
 
 ## caskroom/cask
 tap caskroom/cask
@@ -88,7 +88,7 @@ cask install notify
 ## rcmdnk/rcmdnkpac
 tap rcmdnk/rcmdnkpac
 install asciinema
-install screenutf8 --utf8
+install screenutf8 --utf8 --HEAD
 
 ## tcr/tcr
 tap tcr/tcr
@@ -156,7 +156,7 @@ install stow
 install tig
 install tmux
 install tree
-install vim --with-lua
+install vim --with-lua --HEAD
 install w3m
 install wdiff
 install wget
