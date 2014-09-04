@@ -37,6 +37,7 @@ cask install iterm2
 cask install karabiner
 cask install keyboardcleantool
 cask install keycastr
+cask install lastpass-universal
 cask install licecap
 cask install liteicon
 cask install madruby
