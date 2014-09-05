@@ -146,6 +146,7 @@ install openssl
 install pango
 install pixman
 install pkg-config
+install pow
 install protobuf
 install py2cairo
 install pygobject
