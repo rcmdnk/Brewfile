@@ -78,7 +78,7 @@ tap homebrew/versions
 
 ## rcmdnk/file
 tap rcmdnk/file
-install brew-file
+install brew-file --devel
 
 ## rcmdnk/rcmdnkcask
 tap rcmdnk/rcmdnkcask
