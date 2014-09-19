@@ -78,7 +78,7 @@ tap homebrew/versions
 
 ## rcmdnk/file
 tap rcmdnk/file
-install brew-file
+install brew-file --devel
 
 ## rcmdnk/rcmdnkcask
 tap rcmdnk/rcmdnkcask
@@ -139,7 +139,7 @@ install libtiff
 install libtool
 install libxml2
 install lua
-install macvim --with-lua --with-lua
+install macvim --with-lua
 install mercurial
 install mobile-shell
 install node
@@ -162,5 +162,5 @@ install tree
 install vim --HEAD --with-lua
 install w3m
 install wdiff
-install wget --enable-debug, --enable-iri
+install wget --enable-debug --enable-iri
 install xz
