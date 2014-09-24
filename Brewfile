@@ -139,7 +139,7 @@ install libtiff
 install libtool
 install libxml2
 install lua
-install macvim --with-lua
+install macvim --HEAD --with-lua
 install mercurial
 install mobile-shell
 install node
