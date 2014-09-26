@@ -4,6 +4,7 @@
 tap caskroom/cask
 install brew-cask
 cask install adobe-reader
+cask install android-file-transfer
 cask install appcleaner
 cask install audacity
 cask install bathyscaphe
