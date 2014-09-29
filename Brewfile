@@ -41,6 +41,7 @@ cask install keycastr
 cask install lastpass-universal
 cask install licecap
 cask install liteicon
+cask install mactex
 cask install madruby
 cask install mendeley-desktop
 cask install mou
@@ -79,7 +80,7 @@ tap homebrew/versions
 
 ## rcmdnk/file
 tap rcmdnk/file
-install brew-file --devel
+install brew-file
 
 ## rcmdnk/rcmdnkcask
 tap rcmdnk/rcmdnkcask
@@ -120,6 +121,7 @@ install freetype
 install gdbm
 install gdk-pixbuf
 install gettext
+install ghostscript
 install git
 install glib
 install gobject-introspection
@@ -129,6 +131,7 @@ install horndis
 install hub
 install icu4c
 install imagemagick
+install jbig2dec
 install jp2a
 install jpeg
 install libevent
@@ -139,6 +142,7 @@ install libpng
 install libtiff
 install libtool
 install libxml2
+install little-cms2
 install lua
 install macvim --HEAD --with-lua
 install mercurial
