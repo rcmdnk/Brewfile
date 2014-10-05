@@ -39,6 +39,7 @@ cask install karabiner
 cask install keyboardcleantool
 cask install keycastr
 cask install lastpass-universal
+cask install libreoffice
 cask install licecap
 cask install liteicon
 cask install mactex
@@ -48,11 +49,11 @@ cask install mou
 cask install netbeans
 cask install no-ip-duc
 cask install onyx
-cask install openoffice
 cask install picasa
 cask install simplefloatingclock
 cask install skitch
 cask install skype
+cask install sophos-anti-virus-home-edition
 cask install teamviewer
 cask install the-unarchiver
 cask install tinkertool
