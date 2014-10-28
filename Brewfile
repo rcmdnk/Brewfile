@@ -167,5 +167,5 @@ install tree
 install vim --HEAD --with-lua
 install w3m
 install wdiff
-install wget --enable-debug --enable-iri --with-iri --with-debug
+install wget --with-iri --with-debug
 install xz
