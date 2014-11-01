@@ -48,7 +48,6 @@ cask install mendeley-desktop
 cask install mou
 cask install netbeans
 cask install no-ip-duc
-cask install onyx
 cask install picasa
 cask install simplefloatingclock
 cask install skitch
