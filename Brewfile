@@ -102,6 +102,7 @@ tap thoughtbot/formulae
 install gitsh
 
 # Other Homebrew packages
+install asciidoc
 install atk
 install autoconf
 install automake
@@ -116,6 +117,7 @@ install colordiff
 install cscope
 install ctags
 install dash
+install docbook
 install fontconfig
 install freetype
 install gdbm
@@ -134,6 +136,7 @@ install imagemagick
 install jbig2dec
 install jp2a
 install jpeg
+install lastpass-cli --with-doc
 install libevent
 install libffi
 install libglade
