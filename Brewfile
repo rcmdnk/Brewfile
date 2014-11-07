@@ -42,13 +42,14 @@ cask install lastpass-universal
 cask install libreoffice
 cask install licecap
 cask install liteicon
+cask install macdown
 cask install mactex
 cask install madruby
 cask install mendeley-desktop
-cask install mou
 cask install netbeans
 cask install no-ip-duc
 cask install picasa
+cask install qlmarkdown
 cask install simplefloatingclock
 cask install skitch
 cask install skype
