@@ -150,7 +150,7 @@ install little-cms2
 install lua
 install macvim --HEAD --with-lua
 install mercurial
-install mobile-shell
+install mobile-shell --with-check
 install node
 install openssl
 install pango
