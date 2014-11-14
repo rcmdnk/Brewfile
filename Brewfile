@@ -127,6 +127,7 @@ install gettext
 install ghostscript
 install git
 install glib
+install gmp
 install gobject-introspection
 install gtk+
 install harfbuzz
@@ -162,6 +163,7 @@ install pygobject
 install pygtk --with-libglade
 install python
 install readline
+install shellcheck
 install sqlite
 install stow
 install tig
@@ -172,3 +174,17 @@ install w3m
 install wdiff
 install wget --with-iri --with-debug
 install xz
+
+# App Store applications
+appstore App Language Chooser
+appstore GarageBand
+appstore iMovie
+appstore iPhoto
+appstore Keynote
+appstore LINE
+appstore Numbers
+appstore Pages
+appstore Pocket
+appstore Should I Sleep
+appstore Wake Up Time
+appstore Xcode
