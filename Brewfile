@@ -179,6 +179,8 @@ install xz
 
 # App Store applications
 appstore App Language Chooser
+appstore Degrees
+appstore Farensius
 appstore GarageBand
 appstore iMovie
 appstore iPhoto
