@@ -1,11 +1,11 @@
-
 # Before commands
 before echo before
+
 # tap repositories and their packages
 
 ## caskroom/cask
 tap caskroom/cask
-install brew-cask 
+install brew-cask
 cask install adobe-reader
 cask install android-file-transfer
 cask install appcleaner
@@ -84,7 +84,7 @@ tap homebrew/versions
 
 ## rcmdnk/file
 tap rcmdnk/file
-install brew-file 
+install brew-file
 
 ## rcmdnk/rcmdnkcask
 tap rcmdnk/rcmdnkcask
@@ -94,16 +94,16 @@ cask install notify
 
 ## rcmdnk/rcmdnkpac
 tap rcmdnk/rcmdnkpac
-install asciinema 
-install screenutf8  --HEAD --utf8
+install asciinema
+install screenutf8 --HEAD --utf8
 
 ## tcr/tcr
 tap tcr/tcr
-install clang-format 
+install clang-format
 
 ## thoughtbot/formulae
 tap thoughtbot/formulae
-install gitsh 
+install gitsh
 
 # Other Homebrew packages
 install asciidoc
@@ -193,5 +193,8 @@ appstore Should I Sleep
 appstore Wake Up Time
 appstore Xcode
 
+# Other commands
+echo other commands
+
 # After commands
-after echo before
+after echo after
