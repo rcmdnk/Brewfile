@@ -31,6 +31,7 @@ cask install gimp
 cask install google-chrome
 cask install google-drive
 cask install google-japanese-ime
+cask install horndis
 cask install hyperswitch
 cask install iexplorer
 cask install ifunbox
