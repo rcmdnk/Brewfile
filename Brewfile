@@ -143,7 +143,7 @@ install jbig2dec
 install jp2a
 install jpeg
 install lame
-install lastpass-cli --with-doc --with-doc
+install lastpass-cli --with-doc
 install libevent
 install libffi
 install libglade
@@ -182,7 +182,7 @@ install tree
 install vim --HEAD --with-lua
 install w3m
 install wdiff
-install wget --with-iri --with-debug --with-iri --with-debug
+install wget --with-iri --with-debug
 install x264
 install xvid
 install xz
