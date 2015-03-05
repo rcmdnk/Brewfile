@@ -165,6 +165,7 @@ install nmap
 install node
 install openssl
 install pango
+install peco
 install pixman
 install pkg-config
 install protobuf
