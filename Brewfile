@@ -64,6 +64,7 @@ cask install timer
 cask install unetbootin
 cask install virtualbox
 cask install vlc
+cask install vmware-fusion
 cask install xquartz
 cask install xrg
 cask install xtrafinder
