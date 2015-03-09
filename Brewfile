@@ -197,7 +197,6 @@ appstore GarageBand
 appstore iMovie
 appstore iPhoto
 appstore Keynote
-appstore LastPass
 appstore LINE
 appstore Numbers
 appstore Pages
