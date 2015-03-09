@@ -41,7 +41,6 @@ cask install iterm2
 cask install karabiner
 cask install keyboardcleantool
 cask install keycastr
-cask install lastpass
 cask install libreoffice
 cask install licecap
 cask install liteicon
