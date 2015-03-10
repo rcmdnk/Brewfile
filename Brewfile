@@ -50,7 +50,6 @@ cask install madruby
 cask install mendeley-desktop
 cask install netbeans
 cask install no-ip-duc
-cask install pandoc
 cask install picasa
 cask install qlmarkdown
 cask install simplefloatingclock
@@ -164,6 +163,7 @@ install mobile-shell --with-check
 install nmap
 install node
 install openssl
+install pandoc
 install pango
 install peco
 install pixman
@@ -184,7 +184,7 @@ install tree
 install vim --HEAD --with-lua
 install w3m
 install wdiff
-install wget --with-iri --with-debug
+install wget --with-iri --with-debug --with-iri --with-debug
 install x264
 install xvid
 install xz
