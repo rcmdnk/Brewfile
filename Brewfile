@@ -184,7 +184,7 @@ install tree
 install vim --HEAD --with-lua
 install w3m
 install wdiff
-install wget --with-iri --with-debug --with-iri --with-debug
+install wget --with-iri --with-debug
 install x264
 install xvid
 install xz
