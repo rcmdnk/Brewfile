@@ -155,6 +155,7 @@ install libvo-aacenc
 install libxml2
 install little-cms2
 install lua
+install mackup
 install macvim --HEAD --with-lua
 install makedepend
 install maven
