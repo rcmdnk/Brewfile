@@ -143,7 +143,7 @@ install jbig2dec
 install jp2a
 install jpeg
 install lame
-install lastpass-cli --with-doc --with-doc
+install lastpass-cli --with-doc
 install libevent
 install libffi
 install libglade
