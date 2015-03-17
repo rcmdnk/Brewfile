@@ -47,9 +47,11 @@ cask install liteicon
 cask install macdown
 cask install mactex
 cask install madruby
+cask install maintenance
 cask install mendeley-desktop
 cask install netbeans
 cask install no-ip-duc
+cask install onyx
 cask install picasa
 cask install qlmarkdown
 cask install simplefloatingclock
@@ -201,8 +203,10 @@ appstore Keynote
 appstore LINE
 appstore Numbers
 appstore Pages
+appstore Photobricks
 appstore Pocket
 appstore Should I Sleep
+appstore Volume Reset
 appstore Wake Up Time
 appstore Xcode
 
