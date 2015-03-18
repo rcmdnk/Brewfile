@@ -19,7 +19,6 @@ cask install clipmenu
 cask install cooviewer
 cask install copy
 cask install cyberduck
-cask install deeper
 cask install dropbox
 cask install dupscanub
 cask install evernote
@@ -47,7 +46,6 @@ cask install liteicon
 cask install macdown
 cask install mactex
 cask install madruby
-cask install maintenance
 cask install mendeley-desktop
 cask install netbeans
 cask install no-ip-duc
