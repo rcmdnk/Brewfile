@@ -76,6 +76,9 @@ tap caskroom/versions
 cask install firefox-ja
 cask install java7
 
+## homebrew/brewdler
+tap homebrew/brewdler
+
 ## homebrew/dupes
 tap homebrew/dupes
 
