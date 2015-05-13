@@ -170,6 +170,7 @@ brew maven
 brew mercurial
 brew mobile-shell --with-check
 brew mpfr
+brew multitail
 brew mysql
 brew nmap
 brew node
@@ -205,6 +206,7 @@ brew wget --with-iri --with-debug
 brew x264
 brew xvid
 brew xz
+brew zsh-completions
 
 # App Store applications
 appstore App Language Chooser
