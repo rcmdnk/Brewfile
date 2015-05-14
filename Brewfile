@@ -82,6 +82,10 @@ tap homebrew/brewdler
 ## homebrew/dupes
 tap homebrew/dupes
 
+## homebrew/science
+tap homebrew/science
+brew root
+
 ## homebrew/versions
 tap homebrew/versions
 
@@ -138,6 +142,7 @@ brew glib
 brew gmp
 brew go
 brew gobject-introspection
+brew gsl
 brew gtk+
 brew harfbuzz
 brew htop-osx
@@ -204,6 +209,7 @@ brew w3m
 brew wdiff
 brew wget --with-iri --with-debug
 brew x264
+brew xrootd
 brew xvid
 brew xz
 brew zsh-completions
