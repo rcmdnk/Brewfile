@@ -92,7 +92,7 @@ tap homebrew/versions
 
 ## rcmdnk/file
 tap rcmdnk/file
-brew brew-file
+brew brew-file --HEAD
 
 ## rcmdnk/rcmdnkcask
 tap rcmdnk/rcmdnkcask
