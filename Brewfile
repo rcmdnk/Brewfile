@@ -5,68 +5,39 @@ before echo before
 
 ## caskroom/cask
 tap caskroom/cask
-brew brew-cask
-cask adobe-reader
 cask android-file-transfer
-cask appcleaner
 cask audacity
-cask bathyscaphe
 cask bettertouchtool
-cask caffeine
 cask cathode
-cask cheatsheet
 cask clipmenu
 cask cooviewer
-cask copy
 cask cyberduck
-cask dropbox
 cask dupscanub
-cask evernote
 cask filezilla
 cask flip4mac
 cask free-ruler
-cask geektool
 cask gimp
-cask google-chrome
 cask google-drive
-cask google-japanese-ime
 cask horndis
-cask hyperswitch
 cask iexplorer
-cask ifunbox
 cask imageoptim
-cask img2icns
 cask iterm2
 cask karabiner
-cask keyboardcleantool
 cask keycastr
-cask libreoffice
 cask licecap
 cask liteicon
-cask macdown
 cask mactex
-cask madruby
 cask mendeley-desktop
-cask netbeans
 cask no-ip-duc
 cask onyx
-cask picasa
 cask pixlr
-cask qlmarkdown
 cask simplefloatingclock
-cask skitch
 cask skype
-cask sophos-anti-virus-home-edition
 cask teamviewer
-cask the-unarchiver
 cask timer
-cask unetbootin
 cask virtualbox
-cask vlc
 cask vmware-fusion
-cask xquartz
 cask xrg
-cask xtrafinder
 cask zipeg
 
 ## caskroom/fonts
@@ -74,8 +45,6 @@ tap caskroom/fonts
 
 ## caskroom/versions
 tap caskroom/versions
-cask firefox-ja
-cask java7
 
 ## homebrew/brewdler
 tap homebrew/brewdler
@@ -85,7 +54,6 @@ tap homebrew/dupes
 
 ## homebrew/science
 tap homebrew/science
-brew root
 
 ## homebrew/versions
 tap homebrew/versions
@@ -96,10 +64,6 @@ brew brew-file --HEAD
 
 ## rcmdnk/rcmdnkcask
 tap rcmdnk/rcmdnkcask
-cask configureapplicationdocktile
-cask font-migu1m
-cask lightningkeyboard
-cask notify
 
 ## rcmdnk/rcmdnkpac
 tap rcmdnk/rcmdnkpac
@@ -110,127 +74,66 @@ tap thoughtbot/formulae
 brew gitsh
 
 # Other Homebrew packages
-brew asciidoc
 brew asciinema
-brew atk
 brew autoconf
-brew automake
 brew bash
-brew bash-completion
 brew bazaar
-brew bdw-gc
 brew boost
-brew cairo
 brew checkbashisms
-brew clang-format
 brew cloog
-brew cmatrix
 brew colordiff
-brew cscope
 brew ctags
-brew dash
 brew docbook
-brew ffmpeg
 brew fontconfig
-brew freetype
 brew gcc
-brew gdbm
 brew gdk-pixbuf
-brew gettext
 brew ghostscript
-brew git
-brew glib
 brew gmp
-brew go
 brew gobject-introspection
-brew gsl
 brew gtk+
-brew harfbuzz
 brew htop-osx
-brew hub --HEAD
 brew hugo
-brew icu4c
 brew imagemagick
-brew isl
 brew jbig2dec
-brew jp2a
 brew jpeg
-brew lame
 brew lastpass-cli --with-doc
-brew libevent
 brew libffi
-brew libglade
 brew libidn
-brew libmpc
 brew libpng
-brew libtiff
 brew libtool
-brew libvo-aacenc
 brew libxml2
-brew little-cms2
 brew lua
-brew mackup
 brew macvim --HEAD --with-lua
-brew makedepend
 brew maven
-brew mercurial
 brew mobile-shell --with-check
-brew mpfr
 brew multitail
-brew mysql
 brew nmap
-brew node
 brew nspr
-brew openssl
 brew pandoc
-brew pango
 brew peco
-brew pixman
 brew pkg-config
-brew protobuf
 brew py2cairo
-brew pygobject
 brew pygtk --with-libglade
-brew python
 brew readline
-brew shellcheck
 brew sl
-brew socat
 brew source-highlight
-brew spark
 brew spidermonkey
-brew sqlite
 brew stow
-brew thefuck
 brew tig
-brew tmux --HEAD
 brew tree
-brew vim --HEAD --with-lua
 brew w3m
-brew wdiff
 brew wget --with-iri --with-debug
-brew x264
 brew xrootd
-brew xvid
 brew xz
-brew zsh-completions
 
 # App Store applications
-appstore App Language Chooser
 appstore Degrees
-appstore Farensius
 appstore GarageBand
-appstore iMovie
 appstore iPhoto
-appstore Keynote
 appstore LINE
-appstore Numbers
 appstore Pages
-appstore Photobricks
 appstore Pocket
-appstore Should I Sleep
 appstore Volume Reset
-appstore Wake Up Time
 appstore Xcode
 
 # Other commands
