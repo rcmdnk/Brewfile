@@ -26,7 +26,8 @@ cask karabiner
 cask keycastr
 cask licecap
 cask liteicon
-cask mactex
+cask macdown
+cask madruby
 cask mendeley-desktop
 cask no-ip-duc
 cask onyx
