@@ -5,47 +5,44 @@ before echo before
 
 ## caskroom/cask
 tap caskroom/cask
-cask android-file-transfer
-cask audacity
-cask bettertouchtool
-cask cathode
-cask clipmenu
-cask cooviewer
-cask cyberduck
-cask dupscanub
-cask filezilla
-cask flip4mac
-cask free-ruler
-cask gimp
-cask google-drive
-cask horndis
-cask iexplorer
-cask imageoptim
-cask iterm2
-cask karabiner
-cask keycastr
-cask licecap
-cask liteicon
-cask macdown
-cask madruby
+brew brew-cask
+cask adobe-reader
+cask appcleaner
+cask bathyscaphe
+cask caffeine
+cask cheatsheet
+cask copy
+cask dropbox
+cask evernote
+cask geektool
+cask google-chrome
+cask google-japanese-ime
+cask hyperswitch
+cask ifunbox
+cask img2icns
+cask keyboardcleantool
+cask libreoffice
+cask loading
+cask mactex
 cask mendeley-desktop
-cask no-ip-duc
-cask onyx
-cask pixlr
-cask simplefloatingclock
-cask skype
-cask teamviewer
-cask timer
-cask virtualbox
-cask vmware-fusion
-cask xrg
-cask zipeg
+cask netbeans
+cask picasa
+cask qlmarkdown
+cask skitch
+cask sophos-anti-virus-home-edition
+cask the-unarchiver
+cask unetbootin
+cask vlc
+cask xquartz
+cask xtrafinder
 
 ## caskroom/fonts
 tap caskroom/fonts
 
 ## caskroom/versions
 tap caskroom/versions
+cask firefox-ja
+cask java7
 
 ## homebrew/brewdler
 tap homebrew/brewdler
@@ -55,87 +52,91 @@ tap homebrew/dupes
 
 ## homebrew/science
 tap homebrew/science
+brew root
 
 ## homebrew/versions
 tap homebrew/versions
 
 ## rcmdnk/file
 tap rcmdnk/file
-brew brew-file --HEAD
 
 ## rcmdnk/rcmdnkcask
 tap rcmdnk/rcmdnkcask
+cask configureapplicationdocktile
+cask font-migu1m
+cask lightningkeyboard
+cask notify
 
 ## rcmdnk/rcmdnkpac
 tap rcmdnk/rcmdnkpac
-brew screenutf8 --HEAD --utf8
 
 ## thoughtbot/formulae
 tap thoughtbot/formulae
-brew gitsh
 
 # Other Homebrew packages
-brew asciinema
-brew autoconf
-brew bash
-brew bazaar
-brew boost
-brew checkbashisms
-brew cloog
-brew colordiff
-brew ctags
-brew docbook
-brew fontconfig
-brew gcc
-brew gdk-pixbuf
-brew ghostscript
-brew gmp
-brew gobject-introspection
-brew gtk+
-brew htop-osx
-brew hugo
-brew imagemagick
-brew jbig2dec
-brew jpeg
-brew lastpass-cli --with-doc
-brew libffi
-brew libidn
-brew libpng
-brew libtool
-brew libxml2
-brew lua
-brew macvim --HEAD --with-lua
-brew maven
-brew mobile-shell --with-check
-brew multitail
-brew nmap
-brew nspr
-brew pandoc
-brew peco
-brew pkg-config
-brew py2cairo
-brew pygtk --with-libglade
-brew readline
-brew sl
-brew source-highlight
-brew spidermonkey
-brew stow
-brew tig
-brew tree
-brew w3m
-brew wget --with-iri --with-debug
-brew xrootd
-brew xz
+brew asciidoc
+brew atk
+brew automake
+brew bash-completion
+brew bdw-gc
+brew cairo
+brew clang-format
+brew cmatrix
+brew cscope
+brew dash
+brew ffmpeg
+brew freetype
+brew gdbm
+brew gettext
+brew git
+brew glib
+brew go
+brew gsl
+brew harfbuzz
+brew hub --HEAD
+brew icu4c
+brew isl
+brew jp2a
+brew lame
+brew libevent
+brew libglade
+brew libmpc
+brew libtiff
+brew libvo-aacenc
+brew little-cms2
+brew mackup
+brew makedepend
+brew mercurial
+brew mpfr
+brew mysql
+brew node
+brew openssl
+brew pango
+brew pixman
+brew protobuf
+brew pygobject
+brew python
+brew shellcheck
+brew socat
+brew spark
+brew sqlite
+brew thefuck
+brew tmux --HEAD
+brew vim --HEAD --with-lua
+brew wdiff
+brew x264
+brew xvid
+brew zsh-completions
 
 # App Store applications
-appstore Degrees
-appstore GarageBand
-appstore iPhoto
-appstore LINE
-appstore Pages
-appstore Pocket
-appstore Volume Reset
-appstore Xcode
+appstore App Language Chooser
+appstore Farensius
+appstore iMovie
+appstore Keynote
+appstore Numbers
+appstore Photobricks
+appstore Should I Sleep
+appstore Wake Up Time
 
 # Other commands
 echo other commands
