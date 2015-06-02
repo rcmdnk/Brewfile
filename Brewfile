@@ -25,7 +25,7 @@ cask libreoffice
 cask loading
 cask mactex
 cask mendeley-desktop
-cask netbeans
+cask no-ip-duc
 cask picasa
 cask qlmarkdown
 cask skitch
