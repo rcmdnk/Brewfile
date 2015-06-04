@@ -28,7 +28,6 @@ cask free-ruler
 cask geektool
 cask gimp
 cask google-chrome
-cask google-drive
 cask google-japanese-ime
 cask horndis
 cask hyperswitch
@@ -131,6 +130,7 @@ brew cscope
 brew ctags
 brew dash
 brew docbook
+brew docbook-xsl
 brew ffmpeg
 brew fontconfig
 brew freetype
@@ -142,6 +142,7 @@ brew ghostscript
 brew git
 brew glib
 brew gmp
+brew gnu-getopt
 brew go
 brew gobject-introspection
 brew gsl
@@ -203,7 +204,7 @@ brew spidermonkey
 brew sqlite
 brew stow
 brew thefuck
-brew tig
+brew tig --HEAD --with-docs
 brew tmux --HEAD
 brew tree
 brew vim --HEAD --with-lua
@@ -211,6 +212,7 @@ brew w3m
 brew wdiff
 brew wget --with-iri --with-debug
 brew x264
+brew xmlto
 brew xrootd
 brew xvid
 brew xz
