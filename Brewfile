@@ -50,7 +50,6 @@ cask mendeley-desktop
 cask netbeans
 cask no-ip-duc
 cask onyx
-cask picasa
 cask pixlr
 cask qlmarkdown
 cask simplefloatingclock
