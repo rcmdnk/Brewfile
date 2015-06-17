@@ -144,7 +144,6 @@ brew gmp
 brew gnu-getopt
 brew go
 brew gobject-introspection
-brew gsl
 brew gtk+
 brew harfbuzz
 brew htop-osx
@@ -191,7 +190,7 @@ brew pkg-config
 brew protobuf
 brew py2cairo
 brew pygobject
-brew pygtk --with-libglade
+brew pygtk --with-libglade --with-libglade
 brew python
 brew readline
 brew shellcheck
