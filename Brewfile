@@ -35,6 +35,7 @@ cask iexplorer
 cask ifunbox
 cask imageoptim
 cask img2icns
+cask inkscape
 cask iterm2
 cask karabiner
 cask keyboardcleantool
@@ -190,7 +191,7 @@ brew pkg-config
 brew protobuf
 brew py2cairo
 brew pygobject
-brew pygtk --with-libglade --with-libglade
+brew pygtk --with-libglade
 brew python
 brew readline
 brew shellcheck
