@@ -16,6 +16,7 @@ cask caffeine
 cask cathode
 cask cheatsheet
 cask clipmenu
+cask controlplane
 cask cooviewer
 cask copy
 cask cyberduck
@@ -77,9 +78,6 @@ tap caskroom/versions
 cask firefox-ja
 cask java7
 
-## homebrew/brewdler
-tap homebrew/brewdler
-
 ## homebrew/dupes
 tap homebrew/dupes
 
@@ -87,12 +85,8 @@ tap homebrew/dupes
 tap homebrew/science
 brew root
 
-## homebrew/versions
-tap homebrew/versions
-
 ## rcmdnk/file
 tap rcmdnk/file
-brew brew-file
 
 ## rcmdnk/rcmdnkcask
 tap rcmdnk/rcmdnkcask
@@ -103,7 +97,7 @@ cask notify
 
 ## rcmdnk/rcmdnkpac
 tap rcmdnk/rcmdnkpac
-brew screenutf8 --HEAD --utf8
+brew screenutf8 --utf8
 
 ## thoughtbot/formulae
 tap thoughtbot/formulae
@@ -122,6 +116,7 @@ brew bdw-gc
 brew boost
 brew cairo
 brew checkbashisms
+brew checkstyle
 brew clang-format
 brew cloog
 brew cmatrix
@@ -174,6 +169,7 @@ brew mackup
 brew macvim --HEAD --with-lua
 brew makedepend
 brew maven
+brew md5sha1sum
 brew mercurial
 brew mobile-shell --with-check
 brew mpfr
