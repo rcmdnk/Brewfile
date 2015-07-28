@@ -140,6 +140,7 @@ brew gmp
 brew gnu-getopt
 brew go
 brew gobject-introspection
+brew gsl
 brew gtk+
 brew harfbuzz
 brew htop-osx
@@ -171,7 +172,7 @@ brew makedepend
 brew maven
 brew md5sha1sum
 brew mercurial
-brew mobile-shell --with-check
+brew mobile-shell
 brew mpfr
 brew multitail
 brew mysql
