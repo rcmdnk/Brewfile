@@ -87,6 +87,7 @@ brew root
 
 ## rcmdnk/file
 tap rcmdnk/file
+brew brew-file
 
 ## rcmdnk/rcmdnkcask
 tap rcmdnk/rcmdnkcask
