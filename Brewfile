@@ -215,6 +215,16 @@ brew xvid
 brew xz
 brew zsh-completions
 
+# App Store applications
+appstore Degrees
+appstore GarageBand
+appstore iPhoto
+appstore LINE
+appstore Pages
+appstore Pocket
+appstore Volume Reset
+appstore Xcode
+
 # Additional files
 file ~/.brewfile-app
 
