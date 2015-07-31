@@ -215,8 +215,23 @@ brew xvid
 brew xz
 brew zsh-completions
 
-# Additional files
-file ~/.brewfile-app
+# App Store applications
+appstore App Language Chooser
+appstore Degrees
+appstore Farensius
+appstore GarageBand
+appstore iMovie
+appstore iPhoto
+appstore Keynote
+appstore LINE
+appstore Numbers
+appstore Pages
+appstore Photobricks
+appstore Pocket
+appstore Should I Sleep
+appstore Volume Reset
+appstore Wake Up Time
+appstore Xcode
 
 # Other commands
 echo other commands
