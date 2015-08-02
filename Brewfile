@@ -9,7 +9,6 @@ brew brew-cask
 cask adobe-reader
 cask android-file-transfer
 cask appcleaner
-cask audacity
 cask bathyscaphe
 cask bettertouchtool
 cask caffeine
@@ -214,6 +213,11 @@ brew xrootd
 brew xvid
 brew xz
 brew zsh-completions
+
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask audacity (!)
 
 # App Store applications
 appstore App Language Chooser
