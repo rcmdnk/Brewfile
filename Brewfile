@@ -74,6 +74,7 @@ tap caskroom/fonts
 
 ## caskroom/versions
 tap caskroom/versions
+cask audacity210
 cask firefox-ja
 cask java7
 
@@ -213,11 +214,6 @@ brew xrootd
 brew xvid
 brew xz
 brew zsh-completions
-
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask audacity (!)
 
 # App Store applications
 appstore App Language Chooser
