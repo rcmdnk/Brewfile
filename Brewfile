@@ -34,7 +34,6 @@ cask hyperswitch
 cask iexplorer
 cask ifunbox
 cask imageoptim
-cask img2icns
 cask inkscape
 cask iterm2
 cask karabiner
@@ -45,6 +44,7 @@ cask licecap
 cask liteicon
 cask loading
 cask macdown
+cask macs-fan-control
 cask mactex
 cask madruby
 cask mendeley-desktop
@@ -53,6 +53,7 @@ cask no-ip-duc
 cask onyx
 cask pixlr
 cask qlmarkdown
+cask silverlight
 cask simplefloatingclock
 cask skitch
 cask skype
@@ -214,6 +215,11 @@ brew xrootd
 brew xvid
 brew xz
 brew zsh-completions
+
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask img2icns (!)
 
 # App Store applications
 appstore App Language Chooser
