@@ -33,6 +33,7 @@ cask horndis
 cask hyperswitch
 cask iexplorer
 cask ifunbox
+cask image2icon
 cask imageoptim
 cask inkscape
 cask iterm2
@@ -215,11 +216,6 @@ brew xrootd
 brew xvid
 brew xz
 brew zsh-completions
-
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask img2icns (!)
 
 # App Store applications
 appstore App Language Chooser
