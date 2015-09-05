@@ -106,6 +106,10 @@ brew screenutf8 --utf8
 tap thoughtbot/formulae
 brew gitsh
 
+## yudai/gotty
+tap yudai/gotty
+brew gotty
+
 # Other Homebrew packages
 brew asciidoc
 brew asciinema
