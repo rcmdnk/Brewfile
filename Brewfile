@@ -160,7 +160,7 @@ brew jbig2dec
 brew jp2a
 brew jpeg
 brew lame
-brew lastpass-cli --with-doc
+brew lastpass-cli --with-doc --with-doc
 brew libevent
 brew libffi
 brew libglade
@@ -227,9 +227,9 @@ appstore Degrees
 appstore Farensius
 appstore GarageBand
 appstore iMovie
-appstore iPhoto
 appstore Keynote
 appstore LINE
+appstore Mia for Gmail
 appstore Numbers
 appstore Pages
 appstore Photobricks
