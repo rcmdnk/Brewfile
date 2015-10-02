@@ -150,6 +150,7 @@ brew gobject-introspection
 brew gsl
 brew gtk+
 brew harfbuzz
+brew hicolor-icon-theme
 brew htop-osx
 brew hub --HEAD
 brew hugo
@@ -160,7 +161,7 @@ brew jbig2dec
 brew jp2a
 brew jpeg
 brew lame
-brew lastpass-cli --with-doc --with-doc
+brew lastpass-cli --with-doc
 brew libevent
 brew libffi
 brew libglade
