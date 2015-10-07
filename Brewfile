@@ -230,7 +230,6 @@ appstore GarageBand
 appstore iMovie
 appstore Keynote
 appstore LINE
-appstore Mia for Gmail
 appstore Numbers
 appstore Pages
 appstore Photobricks
