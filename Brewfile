@@ -58,7 +58,6 @@ cask silverlight
 cask simplefloatingclock
 cask skitch
 cask skype
-cask sophos-anti-virus-home-edition
 cask teamviewer
 cask the-unarchiver
 cask timer
