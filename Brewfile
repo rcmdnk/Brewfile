@@ -140,6 +140,7 @@ brew gdbm
 brew gdk-pixbuf
 brew gettext
 brew ghostscript
+brew giflib
 brew git
 brew glib
 brew gmp
