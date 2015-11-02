@@ -33,7 +33,6 @@ cask horndis
 cask hyperswitch
 cask iexplorer
 cask ifunbox
-cask image2icon
 cask imageoptim
 cask inkscape
 cask iterm2
@@ -227,6 +226,7 @@ appstore App Language Chooser
 appstore Degrees
 appstore Farensius
 appstore GarageBand
+appstore Image2Icon
 appstore iMovie
 appstore Keynote
 appstore LINE
