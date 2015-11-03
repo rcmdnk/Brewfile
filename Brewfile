@@ -161,6 +161,7 @@ brew jp2a
 brew jpeg
 brew lame
 brew lastpass-cli --with-doc
+brew latex2rtf
 brew libevent
 brew libffi
 brew libglade
