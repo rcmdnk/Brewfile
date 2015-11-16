@@ -94,6 +94,7 @@ tap rcmdnk/rcmdnkcask
 cask configureapplicationdocktile
 cask font-migu1m
 cask lightningkeyboard
+cask menubargmail
 cask notify
 
 ## rcmdnk/rcmdnkpac
