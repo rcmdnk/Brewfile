@@ -216,7 +216,7 @@ brew tree
 brew vim --with-lua
 brew w3m
 brew wdiff
-brew wget --with-iri --with-debug
+brew wget --with-iri --with-debug --with-iri --with-debug
 brew x264
 brew xmlto
 brew xrootd
