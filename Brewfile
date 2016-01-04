@@ -1,11 +1,8 @@
-# Before commands
-before echo before
 
 # tap repositories and their packages
 
 ## caskroom/cask
 tap caskroom/cask
-brew brew-cask
 cask adobe-reader
 cask android-file-transfer
 cask appcleaner
@@ -14,11 +11,12 @@ cask bettertouchtool
 cask caffeine
 cask cathode
 cask cheatsheet
-cask clipmenu
+cask clipy
 cask controlplane
 cask cooviewer
 cask copy
 cask cyberduck
+cask dockertoolbox
 cask dropbox
 cask dupscanub
 cask evernote
@@ -48,6 +46,7 @@ cask macs-fan-control
 cask mactex
 cask madruby
 cask mendeley-desktop
+cask mpv
 cask netbeans
 cask no-ip-duc
 cask onyx
@@ -76,7 +75,6 @@ tap caskroom/fonts
 ## caskroom/versions
 tap caskroom/versions
 cask audacity210
-cask firefox-ja
 cask java7
 
 ## homebrew/dupes
@@ -92,7 +90,6 @@ brew brew-file
 
 ## rcmdnk/rcmdnkcask
 tap rcmdnk/rcmdnkcask
-cask configureapplicationdocktile
 cask font-migu1m
 cask lightningkeyboard
 cask menubargmail
@@ -216,13 +213,18 @@ brew tree
 brew vim --with-lua
 brew w3m
 brew wdiff
-brew wget --with-iri --with-debug --with-iri --with-debug
+brew wget --with-iri --with-debug
 brew x264
 brew xmlto
 brew xrootd
 brew xvid
 brew xz
 brew zsh-completions
+
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask configureapplicationdocktile (!)
 
 # App Store applications
 appstore App Language Chooser
@@ -241,9 +243,3 @@ appstore Should I Sleep
 appstore Volume Reset
 appstore Wake Up Time
 appstore Xcode
-
-# Other commands
-echo other commands
-
-# After commands
-after echo after
