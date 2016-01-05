@@ -6,17 +6,18 @@ tap caskroom/cask
 cask adobe-reader
 cask android-file-transfer
 cask appcleaner
+cask audacity
 cask bathyscaphe
 cask bettertouchtool
 cask caffeine
 cask cathode
 cask cheatsheet
 cask clipy
+cask configure-application-dock-tile
 cask controlplane
 cask cooviewer
 cask copy
 cask cyberduck
-cask dockertoolbox
 cask dropbox
 cask dupscanub
 cask evernote
@@ -34,9 +35,11 @@ cask ifunbox
 cask imageoptim
 cask inkscape
 cask iterm2
+cask java
 cask karabiner
 cask keyboardcleantool
 cask keycastr
+cask league-of-legends
 cask libreoffice
 cask licecap
 cask liteicon
@@ -47,8 +50,6 @@ cask mactex
 cask madruby
 cask mendeley-desktop
 cask mpv
-cask netbeans
-cask no-ip-duc
 cask onyx
 cask pixlr
 cask qlmarkdown
@@ -62,20 +63,15 @@ cask the-unarchiver
 cask timer
 cask unetbootin
 cask virtualbox
-cask vlc
 cask vmware-fusion
 cask xquartz
 cask xrg
 cask xtrafinder
 cask zipeg
 
-## caskroom/fonts
-tap caskroom/fonts
-
 ## caskroom/versions
 tap caskroom/versions
-cask audacity210
-cask java7
+cask firefox-ja
 
 ## homebrew/dupes
 tap homebrew/dupes
@@ -93,7 +89,6 @@ tap rcmdnk/rcmdnkcask
 cask font-migu1m
 cask lightningkeyboard
 cask menubargmail
-cask notify
 
 ## rcmdnk/rcmdnkpac
 tap rcmdnk/rcmdnkpac
@@ -118,6 +113,8 @@ brew bash-completion
 brew bazaar
 brew bdw-gc
 brew boost
+brew brew-gem
+brew brew-pip
 brew cairo
 brew checkbashisms
 brew checkstyle
@@ -220,11 +217,6 @@ brew xrootd
 brew xvid
 brew xz
 brew zsh-completions
-
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask configureapplicationdocktile (!)
 
 # App Store applications
 appstore App Language Chooser
