@@ -1,7 +1,6 @@
 
 # tap repositories and their packages
 
-## caskroom/cask
 tap caskroom/cask
 cask adobe-reader
 cask android-file-transfer
@@ -69,36 +68,28 @@ cask xrg
 cask xtrafinder
 cask zipeg
 
-## caskroom/versions
 tap caskroom/versions
 cask firefox-ja
 
-## homebrew/dupes
 tap homebrew/dupes
 
-## homebrew/science
 tap homebrew/science
 brew root
 
-## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
 
-## rcmdnk/rcmdnkcask
 tap rcmdnk/rcmdnkcask
 cask font-migu1m
 cask lightningkeyboard
 cask menubargmail
 
-## rcmdnk/rcmdnkpac
 tap rcmdnk/rcmdnkpac
 brew screenutf8 --utf8
 
-## thoughtbot/formulae
 tap thoughtbot/formulae
 brew gitsh
 
-## yudai/gotty
 tap yudai/gotty
 brew gotty
 
@@ -135,6 +126,7 @@ brew gdbm
 brew gdk-pixbuf
 brew gettext
 brew ghostscript
+brew gibo
 brew giflib
 brew git
 brew glib
