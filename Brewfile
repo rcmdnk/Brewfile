@@ -27,6 +27,7 @@ cask geektool
 cask gimp
 cask google-chrome
 cask google-japanese-ime
+cask grammarly
 cask horndis
 cask hyperswitch
 cask iexplorer
