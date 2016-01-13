@@ -98,6 +98,7 @@ brew gotty
 brew asciidoc
 brew atk
 brew autoconf
+brew autojump
 brew automake
 brew bash
 brew bash-completion
