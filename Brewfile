@@ -100,6 +100,7 @@ brew atk
 brew autoconf
 brew autojump
 brew automake
+brew autossh
 brew bash
 brew bash-completion
 brew bazaar
