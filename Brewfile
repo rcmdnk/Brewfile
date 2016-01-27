@@ -57,7 +57,6 @@ cask silverlight
 cask simplefloatingclock
 cask skitch
 cask skype
-cask sophos-anti-virus-home-edition
 cask teamviewer
 cask the-unarchiver
 cask timer
@@ -211,6 +210,11 @@ brew xrootd
 brew xvid
 brew xz
 brew zsh-completions
+
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask sophos-anti-virus-home-edition (!)
 
 # App Store applications
 appstore App Language Chooser
