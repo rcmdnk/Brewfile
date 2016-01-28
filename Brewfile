@@ -211,11 +211,6 @@ brew xvid
 brew xz
 brew zsh-completions
 
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask sophos-anti-virus-home-edition (!)
-
 # App Store applications
 appstore App Language Chooser
 appstore Degrees
