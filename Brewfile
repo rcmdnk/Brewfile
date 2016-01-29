@@ -209,6 +209,7 @@ brew xmlto
 brew xrootd
 brew xvid
 brew xz
+brew zsh
 brew zsh-completions
 
 # App Store applications
