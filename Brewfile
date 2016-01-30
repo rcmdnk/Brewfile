@@ -179,6 +179,7 @@ brew nspr
 brew openssl
 brew pandoc
 brew pango
+brew pcre
 brew peco
 brew pixman
 brew pkg-config
