@@ -36,7 +36,6 @@ cask imageoptim
 cask inkscape
 cask iterm2
 cask java
-cask jitouch
 cask karabiner
 cask keyboardcleantool
 cask keycastr
@@ -49,7 +48,6 @@ cask macdown
 cask macs-fan-control
 cask mactex
 cask madruby
-cask magicprefs
 cask mendeley-desktop
 cask mpv
 cask onyx
