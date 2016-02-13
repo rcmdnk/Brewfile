@@ -215,20 +215,20 @@ brew xz
 brew zsh
 brew zsh-completions
 
-# App Store applications
-appstore App Language Chooser
-appstore Degrees
-appstore Farensius
-appstore GarageBand
-appstore Image2Icon
-appstore iMovie
-appstore Keynote
-appstore LINE
-appstore Numbers
-appstore Pages
-appstore Photobricks
-appstore Pocket
-appstore Should I Sleep
-appstore Volume Reset
-appstore Wake Up Time
-appstore Xcode
+# App Store applications (Identifier, App Name
+appstore 495705418 Volume Reset
+appstore 497799835 Xcode
+appstore 430173763 Degrees
+appstore 409183694 Keynote
+appstore 408981434 iMovie
+appstore 458998390 Farensius
+appstore 992115977 Image2Icon
+appstore 487505968 Photobricks
+appstore 451732904 App Language Chooser
+appstore 568494494 Pocket
+appstore 560851219 Should I Sleep
+appstore 409201541 Pages
+appstore 539883307 LINE
+appstore 682658836 GarageBand
+appstore 495945638 Wake Up Time
+appstore 409203825 Numbers
