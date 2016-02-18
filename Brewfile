@@ -111,6 +111,8 @@ brew boost
 brew brew-gem
 brew brew-pip
 brew cairo
+brew ccat
+brew cheat
 brew checkbashisms
 brew checkstyle
 brew clang-format
