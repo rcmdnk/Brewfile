@@ -220,6 +220,7 @@ brew zsh-completions
 
 # App Store applications
 appstore 451732904 App Language Chooser
+appstore 417375580 BetterSnapTool
 appstore 430173763 Degrees
 appstore 458998390 Farensius
 appstore 682658836 GarageBand
