@@ -79,6 +79,9 @@ tap homebrew/dupes
 tap homebrew/science
 brew root
 
+tap neovim/neovim
+brew neovim
+
 tap rcmdnk/file
 brew brew-file
 
