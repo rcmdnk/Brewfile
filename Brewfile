@@ -18,7 +18,6 @@ cask clipy
 cask configure-application-dock-tile
 cask controlplane
 cask cooviewer
-cask copy
 cask cyberduck
 cask dropbox
 cask dupscanub
@@ -30,7 +29,6 @@ cask geektool
 cask gimp
 cask google-chrome
 cask google-japanese-ime
-cask grammarly
 cask horndis
 cask hyperswitch
 cask iexplorer
@@ -40,7 +38,6 @@ cask inkscape
 cask iterm2
 cask java
 cask karabiner
-cask keyboardcleantool
 cask keycastr
 cask league-of-legends
 cask libreoffice
