@@ -71,41 +71,15 @@ cask zipeg
 tap caskroom/versions
 cask firefox-ja
 
-tap homebrew/dupes
-
-tap homebrew/science
-brew root
-
-tap neovim/neovim
-brew neovim
-
-tap rcmdnk/file
-brew brew-file
-
-tap rcmdnk/rcmdnkcask
-cask font-migu1m
-cask lightningkeyboard
-cask menubargmail
-
-tap rcmdnk/rcmdnkpac
-brew screenutf8 --utf8
-
-tap thoughtbot/formulae
-brew gitsh
-
-tap yudai/gotty
-brew gotty
-
-# Other Homebrew packages
+tap homebrew/core
 brew asciidoc
 brew atk
 brew autoconf
 brew autojump
 brew automake
 brew autossh
-brew bash
 brew bash-completion
-brew bazaar
+brew bash
 brew bdw-gc
 brew boost
 brew brew-gem
@@ -122,8 +96,8 @@ brew colordiff
 brew cscope
 brew ctags
 brew dash
-brew docbook
 brew docbook-xsl
+brew docbook
 brew ffmpeg
 brew fontconfig
 brew freetype
@@ -133,9 +107,7 @@ brew gdk-pixbuf
 brew gettext
 brew ghostscript
 brew gibo
-brew giflib
 brew git
-brew glib
 brew gmp
 brew gnu-getopt
 brew go
@@ -145,7 +117,6 @@ brew gtk+
 brew harfbuzz
 brew hicolor-icon-theme
 brew htop-osx
-brew hub
 brew hugo
 brew icu4c
 brew imagemagick
@@ -175,12 +146,10 @@ brew maven
 brew md5sha1sum
 brew mercurial
 brew mobile-shell
-brew mpfr
 brew multitail
 brew mysql
 brew nmap
 brew node
-brew nspr
 brew openssl
 brew pandoc
 brew pango
@@ -214,8 +183,41 @@ brew xmlto
 brew xrootd
 brew xvid
 brew xz
-brew zsh
 brew zsh-completions
+brew zsh
+
+tap homebrew/dupes
+
+tap homebrew/science
+brew root
+
+tap neovim/neovim
+brew neovim
+
+tap rcmdnk/file
+brew brew-file
+
+tap rcmdnk/rcmdnkcask
+cask font-migu1m
+cask lightningkeyboard
+cask menubargmail
+
+tap rcmdnk/rcmdnkpac
+brew screenutf8 --utf8
+
+tap thoughtbot/formulae
+brew gitsh
+
+tap yudai/gotty
+brew gotty
+
+# Other Homebrew packages
+brew bazaar
+brew giflib
+brew glib
+brew hub
+brew mpfr
+brew nspr
 
 # App Store applications
 appstore 451732904 App Language Chooser
