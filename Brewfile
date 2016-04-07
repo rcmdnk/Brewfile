@@ -125,7 +125,7 @@ brew jbig2dec
 brew jp2a
 brew jpeg
 brew lame
-brew lastpass-cli --with-doc
+brew lastpass-cli --with-doc --with-doc
 brew latex2rtf
 brew libevent
 brew libffi
