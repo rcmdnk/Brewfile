@@ -91,6 +91,7 @@ brew checkbashisms
 brew checkstyle
 brew clang-format
 brew cloog
+brew cmake
 brew cmatrix
 brew colordiff
 brew cscope
@@ -125,7 +126,7 @@ brew jbig2dec
 brew jp2a
 brew jpeg
 brew lame
-brew lastpass-cli --with-doc --with-doc
+brew lastpass-cli --with-doc
 brew latex2rtf
 brew libevent
 brew libffi
