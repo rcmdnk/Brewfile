@@ -49,7 +49,6 @@ cask macs-fan-control
 cask mactex
 cask madruby
 cask mendeley-desktop
-cask mpv
 cask onyx
 cask pixlr
 cask qlmarkdown
@@ -162,6 +161,7 @@ brew py2cairo
 brew pygobject
 brew pygtk --with-libglade
 brew python
+brew python3
 brew readline
 brew shellcheck
 brew sl
@@ -219,6 +219,11 @@ brew glib
 brew hub
 brew mpfr
 brew nspr
+
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask mpv (!)
 
 # App Store applications
 appstore 451732904 App Language Chooser
