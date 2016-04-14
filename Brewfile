@@ -71,6 +71,7 @@ tap caskroom/versions
 cask firefox-ja
 
 tap homebrew/core
+brew ant
 brew asciidoc
 brew atk
 brew autoconf
@@ -80,6 +81,7 @@ brew autossh
 brew bash-completion
 brew bash
 brew bdw-gc
+brew bison
 brew boost
 brew brew-gem
 brew brew-pip
@@ -96,11 +98,17 @@ brew colordiff
 brew cscope
 brew ctags
 brew dash
+brew dcadec
 brew docbook-xsl
 brew docbook
+brew faac
+brew fdk-aac
 brew ffmpeg
+brew fftw
+brew flac
 brew fontconfig
 brew freetype
+brew fribidi
 brew gcc
 brew gdbm
 brew gdk-pixbuf
@@ -112,6 +120,7 @@ brew gmp
 brew gnu-getopt
 brew go
 brew gobject-introspection
+brew graphite2
 brew gsl
 brew gtk+
 brew harfbuzz
@@ -120,6 +129,7 @@ brew htop-osx
 brew hugo
 brew icu4c
 brew imagemagick
+brew imlib2
 brew isl
 brew jbig2dec
 brew jp2a
@@ -127,15 +137,32 @@ brew jpeg
 brew lame
 brew lastpass-cli --with-doc
 brew latex2rtf
+brew leptonica
+brew libaacs
+brew libass
+brew libbluray
+brew libcaca
+brew libdvdcss
+brew libdvdnav
+brew libdvdread
 brew libevent
 brew libffi
+brew libgcrypt
 brew libglade
 brew libidn
 brew libmpc
+brew libogg
+brew libpgm
 brew libpng
+brew libsamplerate
+brew libsndfile
+brew libsodium
+brew libssh
 brew libtiff
 brew libtool
 brew libvo-aacenc
+brew libvorbis
+brew libvpx
 brew libxml2
 brew little-cms2
 brew lua
@@ -146,13 +173,21 @@ brew maven
 brew md5sha1sum
 brew mercurial
 brew mobile-shell
+brew mpv --with-bundle
 brew multitail
 brew mysql
+brew nasm
 brew nmap
 brew node
+brew norm
+brew openh264
+brew openjpeg
 brew openssl
+brew opus
+brew orc
 brew pandoc
 brew pango
+brew pcre
 brew peco
 brew pixman
 brew pkg-config
@@ -163,31 +198,48 @@ brew pygtk --with-libglade
 brew python
 brew python3
 brew readline
+brew redpen
+brew rtmpdump
+brew rubberband
 brew shellcheck
 brew sl
+brew snappy
 brew socat
 brew source-highlight
 brew spark
+brew speex
+brew sphinx-doc
 brew spidermonkey
 brew sqlite
 brew stow
+brew tesseract
+brew texi2html
 brew thefuck
+brew theora
 brew tig --with-docs
 brew tmux
 brew tree
+brew vapoursynth
 brew vim --with-lua
 brew w3m
 brew wdiff
+brew webp
 brew wget --with-iri --with-debug
 brew x264
+brew x265
 brew xmlto
 brew xrootd
 brew xvid
 brew xz
+brew yasm
+brew youtube-dl
+brew zeromq
+brew zimg
 brew zsh-completions
 brew zsh
 
 tap homebrew/dupes
+brew tcl-tk
 
 tap homebrew/science
 brew root
@@ -214,16 +266,18 @@ brew gotty
 
 # Other Homebrew packages
 brew bazaar
+brew frei0r
 brew giflib
 brew glib
 brew hub
+brew libbs2b
+brew libgpg-error
+brew libsoxr
+brew libvidstab
 brew mpfr
 brew nspr
-
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask mpv (!)
+brew opencore-amr
+brew schroedinger
 
 # App Store applications
 appstore 451732904 App Language Chooser
