@@ -5,6 +5,7 @@ tap argon/mas
 brew mas
 
 tap caskroom/cask
+cask 1clipboard
 cask adobe-reader
 cask android-file-transfer
 cask appcleaner
