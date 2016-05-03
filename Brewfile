@@ -168,7 +168,7 @@ brew libxml2
 brew little-cms2
 brew lua
 brew mackup
-brew macvim --with-lua
+brew macvim --with-lua --with-lua
 brew makedepend
 brew maven
 brew md5sha1sum
