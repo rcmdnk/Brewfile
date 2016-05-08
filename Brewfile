@@ -102,7 +102,7 @@ brew dash
 brew dcadec
 brew docbook-xsl
 brew docbook
-brew emacs
+brew emacs --with-cocoa --HEAD
 brew faac
 brew fdk-aac
 brew ffmpeg
@@ -137,7 +137,7 @@ brew jbig2dec
 brew jp2a
 brew jpeg
 brew lame
-brew lastpass-cli
+brew lastpass-cli --with-doc
 brew latex2rtf
 brew leptonica
 brew libaacs
@@ -169,13 +169,13 @@ brew libxml2
 brew little-cms2
 brew lua
 brew mackup
-brew macvim
+brew macvim --with-lua
 brew makedepend
 brew maven
 brew md5sha1sum
 brew mercurial
 brew mobile-shell
-brew mpv
+brew mpv --with-bundle
 brew multitail
 brew mysql
 brew nasm
@@ -196,7 +196,7 @@ brew pkg-config
 brew protobuf
 brew py2cairo
 brew pygobject
-brew pygtk
+brew pygtk --with-libglade
 brew python
 brew python3
 brew readline
@@ -217,15 +217,15 @@ brew tesseract
 brew texi2html
 brew thefuck
 brew theora
-brew tig
-brew tmux
+brew tig --with-docs --HEAD
+brew tmux --HEAD
 brew tree
 brew vapoursynth
-brew vim
+brew vim --with-lua --override-system-vi
 brew w3m
 brew wdiff
 brew webp
-brew wget
+brew wget --with-iri --with-debug
 brew x264
 brew x265
 brew xmlto
@@ -259,7 +259,7 @@ cask lightningkeyboard
 cask menubargmail
 
 tap rcmdnk/rcmdnkpac
-brew screenutf8
+brew screenutf8 --utf8
 
 tap thoughtbot/formulae
 brew gitsh
@@ -272,7 +272,7 @@ brew bazaar
 brew frei0r
 brew giflib
 brew glib
-brew hub
+brew hub --HEAD
 brew libbs2b
 brew libgpg-error
 brew libsoxr
