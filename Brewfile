@@ -81,6 +81,7 @@ brew automake
 brew autossh
 brew bash-completion
 brew bash
+brew bazaar
 brew bdw-gc
 brew bison
 brew boost
@@ -110,6 +111,7 @@ brew fftw
 brew flac
 brew fontconfig
 brew freetype
+brew frei0r
 brew fribidi
 brew gcc
 brew gdbm
@@ -117,7 +119,9 @@ brew gdk-pixbuf
 brew gettext
 brew ghostscript
 brew gibo
+brew giflib
 brew git
+brew glib
 brew gmp
 brew gnu-getopt
 brew go
@@ -128,6 +132,7 @@ brew gtk+
 brew harfbuzz
 brew hicolor-icon-theme
 brew htop-osx
+brew hub --HEAD
 brew hugo
 brew icu4c
 brew imagemagick
@@ -143,6 +148,7 @@ brew leptonica
 brew libaacs
 brew libass
 brew libbluray
+brew libbs2b
 brew libcaca
 brew libdvdcss
 brew libdvdnav
@@ -151,6 +157,7 @@ brew libevent
 brew libffi
 brew libgcrypt
 brew libglade
+brew libgpg-error
 brew libidn
 brew libmpc
 brew libogg
@@ -159,9 +166,11 @@ brew libpng
 brew libsamplerate
 brew libsndfile
 brew libsodium
+brew libsoxr
 brew libssh
 brew libtiff
 brew libtool
+brew libvidstab
 brew libvo-aacenc
 brew libvorbis
 brew libvpx
@@ -175,6 +184,7 @@ brew maven
 brew md5sha1sum
 brew mercurial
 brew mobile-shell
+brew mpfr
 brew mpv --with-bundle
 brew multitail
 brew mysql
@@ -182,6 +192,8 @@ brew nasm
 brew nmap
 brew node
 brew norm
+brew nspr
+brew opencore-amr
 brew openh264
 brew openjpeg
 brew openssl
@@ -203,6 +215,7 @@ brew readline
 brew redpen
 brew rtmpdump
 brew rubberband
+brew schroedinger
 brew shellcheck
 brew snappy
 brew socat
@@ -221,7 +234,7 @@ brew tig --with-docs --HEAD
 brew tmux --HEAD
 brew tree
 brew vapoursynth
-brew vim --with-lua --override-system-vi
+brew vim --with-lua
 brew w3m
 brew wdiff
 brew webp
@@ -251,8 +264,6 @@ brew neovim
 tap rcmdnk/file
 brew brew-file
 
-tap rcmdnk/mytest
-
 tap rcmdnk/rcmdnkcask
 cask font-migu1m
 cask lightningkeyboard
@@ -267,17 +278,20 @@ brew gitsh
 tap yudai/gotty
 brew gotty
 
-# Other Homebrew packages
-brew bazaar
-brew frei0r
-brew giflib
-brew glib
-brew hub --HEAD
-brew libbs2b
-brew libgpg-error
-brew libsoxr
-brew libvidstab
-brew mpfr
-brew nspr
-brew opencore-amr
-brew schroedinger
+# App Store applications
+appstore 451732904 App Language Chooser
+appstore 430173763 Degrees
+appstore 458998390 Farensius
+appstore 682658836 GarageBand
+appstore 992115977 Image2Icon
+appstore 409183694 Keynote
+appstore 539883307 LINE
+appstore 409203825 Numbers
+appstore 409201541 Pages
+appstore 487505968 Photobricks
+appstore 568494494 Pocket
+appstore 560851219 Should I Sleep
+appstore 495705418 Volume Reset
+appstore 495945638 Wake Up Time
+appstore 497799835 Xcode
+appstore 408981434 iMovie
