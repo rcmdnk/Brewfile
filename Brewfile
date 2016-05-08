@@ -102,6 +102,7 @@ brew dash
 brew dcadec
 brew docbook-xsl
 brew docbook
+brew emacs
 brew faac
 brew fdk-aac
 brew ffmpeg
@@ -136,7 +137,7 @@ brew jbig2dec
 brew jp2a
 brew jpeg
 brew lame
-brew lastpass-cli --with-doc
+brew lastpass-cli
 brew latex2rtf
 brew leptonica
 brew libaacs
@@ -168,13 +169,13 @@ brew libxml2
 brew little-cms2
 brew lua
 brew mackup
-brew macvim --with-lua
+brew macvim
 brew makedepend
 brew maven
 brew md5sha1sum
 brew mercurial
 brew mobile-shell
-brew mpv --with-bundle
+brew mpv
 brew multitail
 brew mysql
 brew nasm
@@ -195,7 +196,7 @@ brew pkg-config
 brew protobuf
 brew py2cairo
 brew pygobject
-brew pygtk --with-libglade
+brew pygtk
 brew python
 brew python3
 brew readline
@@ -203,7 +204,6 @@ brew redpen
 brew rtmpdump
 brew rubberband
 brew shellcheck
-brew sl
 brew snappy
 brew socat
 brew source-highlight
@@ -217,15 +217,15 @@ brew tesseract
 brew texi2html
 brew thefuck
 brew theora
-brew tig --with-docs
+brew tig
 brew tmux
 brew tree
 brew vapoursynth
-brew vim --with-lua
+brew vim
 brew w3m
 brew wdiff
 brew webp
-brew wget --with-iri --with-debug
+brew wget
 brew x264
 brew x265
 brew xmlto
@@ -251,13 +251,15 @@ brew neovim
 tap rcmdnk/file
 brew brew-file
 
+tap rcmdnk/mytest
+
 tap rcmdnk/rcmdnkcask
 cask font-migu1m
 cask lightningkeyboard
 cask menubargmail
 
 tap rcmdnk/rcmdnkpac
-brew screenutf8 --utf8
+brew screenutf8
 
 tap thoughtbot/formulae
 brew gitsh
@@ -279,21 +281,3 @@ brew mpfr
 brew nspr
 brew opencore-amr
 brew schroedinger
-
-# App Store applications
-appstore 451732904 App Language Chooser
-appstore 430173763 Degrees
-appstore 458998390 Farensius
-appstore 682658836 GarageBand
-appstore 992115977 Image2Icon
-appstore 409183694 Keynote
-appstore 539883307 LINE
-appstore 409203825 Numbers
-appstore 409201541 Pages
-appstore 487505968 Photobricks
-appstore 568494494 Pocket
-appstore 560851219 Should I Sleep
-appstore 495705418 Volume Reset
-appstore 495945638 Wake Up Time
-appstore 497799835 Xcode
-appstore 408981434 iMovie
