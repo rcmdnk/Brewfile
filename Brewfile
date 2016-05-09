@@ -39,7 +39,6 @@ cask iterm2
 cask java
 cask karabiner
 cask keycastr
-cask league-of-legends
 cask libreoffice
 cask licecap
 cask liteicon
@@ -56,7 +55,6 @@ cask silverlight
 cask simplefloatingclock
 cask skitch
 cask skype
-cask syncthing-bar
 cask teamviewer
 cask the-unarchiver
 cask timer
