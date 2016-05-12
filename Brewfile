@@ -39,6 +39,7 @@ cask iterm2
 cask java
 cask karabiner
 cask keycastr
+cask league-of-legends
 cask libreoffice
 cask licecap
 cask liteicon
