@@ -6,19 +6,15 @@ brew mas
 
 tap caskroom/cask
 cask adobe-reader
-cask android-file-transfer
 cask appcleaner
-cask audacity
 cask bathyscaphe
 cask bettertouchtool
 cask caffeine
 cask cathode
-cask cheatsheet
 cask clipy
 cask configure-application-dock-tile
 cask controlplane
 cask cooviewer
-cask cyberduck
 cask dropbox
 cask dupscanub
 cask evernote
@@ -31,7 +27,6 @@ cask google-chrome
 cask google-japanese-ime
 cask horndis
 cask hyperswitch
-cask iexplorer
 cask ifunbox
 cask imageoptim
 cask inkscape
@@ -43,7 +38,6 @@ cask league-of-legends
 cask libreoffice
 cask licecap
 cask liteicon
-cask loading
 cask macdown
 cask macs-fan-control
 cask mactex
@@ -60,12 +54,9 @@ cask teamviewer
 cask the-unarchiver
 cask timer
 cask unetbootin
-cask virtualbox
-cask vmware-fusion
 cask xquartz
 cask xrg
 cask xtrafinder
-cask zipeg
 
 tap caskroom/versions
 cask firefox-ja
