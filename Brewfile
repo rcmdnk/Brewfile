@@ -5,61 +5,8 @@ tap argon/mas
 brew mas
 
 tap caskroom/cask
-cask adobe-reader
-cask appcleaner
-cask bathyscaphe
-cask bettertouchtool
-cask caffeine
-cask cathode
-cask clipy
-cask configure-application-dock-tile
-cask controlplane
-cask cooviewer
-cask dropbox
-cask dupscanub
-cask evernote
-cask filezilla
-cask flip4mac
-cask free-ruler
-cask geektool
-cask gimp
-cask google-chrome
-cask google-japanese-ime
-cask horndis
-cask hyperswitch
-cask ifunbox
-cask imageoptim
-cask inkscape
-cask iterm2
-cask java
-cask karabiner
-cask keycastr
-cask league-of-legends
-cask libreoffice
-cask licecap
-cask liteicon
-cask macdown
-cask macs-fan-control
-cask mactex
-cask madruby
-cask mendeley-desktop
-cask onyx
-cask pixlr
-cask qlmarkdown
-cask silverlight
-cask simplefloatingclock
-cask skitch
-cask skype
-cask teamviewer
-cask the-unarchiver
-cask timer
-cask unetbootin
-cask xquartz
-cask xrg
-cask xtrafinder
 
 tap caskroom/versions
-cask firefox-ja
 
 tap homebrew/core
 brew ant
@@ -255,9 +202,6 @@ tap rcmdnk/file
 brew brew-file
 
 tap rcmdnk/rcmdnkcask
-cask font-migu1m
-cask lightningkeyboard
-cask menubargmail
 
 tap rcmdnk/rcmdnkpac
 brew screenutf8 --utf8
