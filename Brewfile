@@ -5,8 +5,61 @@ tap argon/mas
 brew mas
 
 tap caskroom/cask
+cask adobe-reader
+cask appcleaner
+cask bathyscaphe
+cask bettertouchtool
+cask caffeine
+cask cathode
+cask clipy
+cask configure-application-dock-tile
+cask controlplane
+cask cooviewer
+cask dropbox
+cask dupscanub
+cask evernote
+cask filezilla
+cask flip4mac
+cask free-ruler
+cask geektool
+cask gimp
+cask google-chrome
+cask google-japanese-ime
+cask horndis
+cask hyperswitch
+cask ifunbox
+cask imageoptim
+cask inkscape
+cask iterm2
+cask java
+cask karabiner
+cask keycastr
+cask league-of-legends
+cask libreoffice
+cask licecap
+cask liteicon
+cask macdown
+cask macs-fan-control
+cask mactex
+cask madruby
+cask mendeley-desktop
+cask onyx
+cask pixlr
+cask qlmarkdown
+cask silverlight
+cask simplefloatingclock
+cask skitch
+cask skype
+cask teamviewer
+cask the-unarchiver
+cask timer
+cask unetbootin
+cask xquartz
+cask xrg
+cask xtrafinder
 
 tap caskroom/versions
+cask firefox-ja
 
 tap homebrew/core
 brew ant
@@ -202,6 +255,9 @@ tap rcmdnk/file
 brew brew-file
 
 tap rcmdnk/rcmdnkcask
+cask font-migu1m
+cask lightningkeyboard
+cask menubargmail
 
 tap rcmdnk/rcmdnkpac
 brew screenutf8 --utf8
@@ -211,6 +267,20 @@ brew gitsh
 
 tap yudai/gotty
 brew gotty
+
+# Cask applications
+cask   --caskroom=/opt/homebrew-cask/Caskroom
+
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask Warning: The default Caskroom location has moved to /usr/local/Caskroom.
+#cask 
+#cask Please migrate your Casks to the new location, or if you would like to keep your
+#cask Caskroom at /opt/homebrew-cask/Caskroom, add the following to your HOMEBREW_CASK_OPTS:
+#cask 
+#cask 
+#cask For more details on each of those options, see https://github.com/caskroom/homebrew-cask/issues/21913.
 
 # App Store applications
 appstore 451732904 App Language Chooser
