@@ -23,6 +23,7 @@ cask google-chrome
 cask google-japanese-ime
 cask horndis
 cask hyperswitch
+cask hyperterm
 cask ifunbox
 cask imageoptim
 cask inkscape
@@ -38,6 +39,7 @@ cask macdown
 cask macs-fan-control
 cask mactex
 cask madruby
+cask marp
 cask mendeley-desktop
 cask onyx
 cask pixlr
@@ -50,6 +52,7 @@ cask teamviewer
 cask the-unarchiver
 cask timer
 cask unetbootin
+cask vlc
 cask xquartz
 cask xrg
 cask xtrafinder
@@ -58,6 +61,8 @@ tap caskroom/versions
 cask firefox-ja
 
 tap homebrew/core
+brew asciidoc
+brew asciinema
 brew autojump
 brew autossh
 brew bash-completion
@@ -65,7 +70,6 @@ brew bash
 brew bazaar
 brew brew-gem
 brew brew-pip
-brew ccat
 brew cheat
 brew checkbashisms
 brew checkstyle
@@ -79,6 +83,7 @@ brew dcadec
 brew emacs --with-cocoa --HEAD
 brew faac
 brew fdk-aac
+brew fdupes
 brew fftw
 brew frei0r
 brew gcc
@@ -91,6 +96,7 @@ brew hub --HEAD
 brew hugo
 brew imagemagick
 brew imlib2
+brew iperf3
 brew jbig2dec
 brew jp2a
 brew lastpass-cli --with-doc
@@ -108,6 +114,7 @@ brew libssh
 brew libvidstab
 brew libvo-aacenc
 brew libvpx
+brew m-cli
 brew mackup
 brew macvim --with-lua
 brew mas
@@ -115,7 +122,7 @@ brew maven
 brew md5sha1sum
 brew mercurial
 brew mobile-shell
-brew mpv --with-bundle
+brew mpv
 brew multitail
 brew mysql
 brew nmap
@@ -126,8 +133,8 @@ brew openh264
 brew openjpeg
 brew opus
 brew peco
+brew pv
 brew pygtk --with-libglade
-brew python
 brew python3
 brew reattach-to-user-namespace
 brew redpen
@@ -180,12 +187,6 @@ brew screenutf8 --utf8
 
 tap thoughtbot/formulae
 brew gitsh
-
-tap yudai/gotty
-brew gotty
-
-# pip packages
-pip asciinema
 
 # gem packages
 gem heroku
