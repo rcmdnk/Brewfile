@@ -69,8 +69,8 @@ brew autoconf
 brew autojump
 brew automake
 brew autossh
-brew bash-completion
 brew bash
+brew bash-completion
 brew bazaar
 brew bdw-gc
 brew bison
@@ -90,8 +90,8 @@ brew cscope
 brew ctags
 brew dash
 brew dcadec
-brew docbook-xsl
 brew docbook
+brew docbook-xsl
 brew emacs --with-cocoa --HEAD
 brew faac
 brew fdk-aac
@@ -244,8 +244,8 @@ brew yasm
 brew youtube-dl
 brew zeromq
 brew zimg
-brew zsh-completions
 brew zsh
+brew zsh-completions
 
 tap homebrew/dupes
 brew tcl-tk
