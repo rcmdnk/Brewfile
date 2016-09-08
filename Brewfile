@@ -14,6 +14,7 @@ cask cooviewer
 cask dropbox
 cask dupscanub
 cask evernote
+cask fiddler
 cask filezilla
 cask flip4mac
 cask free-ruler
@@ -41,6 +42,7 @@ cask mactex
 cask madruby
 cask marp
 cask mendeley-desktop
+cask mono-mdk
 cask onyx
 cask pixlr
 cask qlmarkdown
