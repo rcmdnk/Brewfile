@@ -14,7 +14,6 @@ cask cooviewer
 cask dropbox
 cask dupscanub
 cask evernote
-cask fiddler
 cask filezilla
 cask flip4mac
 cask free-ruler
@@ -168,6 +167,7 @@ brew libvo-aacenc
 brew libvorbis
 brew libvpx
 brew libxml2
+brew libyaml
 brew little-cms2
 brew lua
 brew m-cli
@@ -198,6 +198,7 @@ brew pandoc
 brew pango
 brew pcre
 brew peco
+brew perl
 brew pixman
 brew pkg-config
 brew protobuf
@@ -212,6 +213,7 @@ brew reattach-to-user-namespace
 brew redpen
 brew rtmpdump
 brew rubberband
+brew ruby
 brew schroedinger
 brew shellcheck
 brew snappy
@@ -231,7 +233,7 @@ brew tig --with-docs --HEAD
 brew tmux --HEAD
 brew tree
 brew vapoursynth
-brew vim --with-lua
+brew vim --with-lua --HEAD
 brew w3m
 brew wdiff
 brew webp
