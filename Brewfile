@@ -115,6 +115,7 @@ brew git
 brew glib
 brew gmp
 brew gnu-getopt
+brew gnu-sed --with-default-names
 brew go
 brew gobject-introspection
 brew graphite2
