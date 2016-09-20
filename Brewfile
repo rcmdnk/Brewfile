@@ -2,26 +2,66 @@
 # tap repositories and their packages
 
 tap caskroom/cask
+cask appcleaner
+cask bathyscaphe
+cask bettertouchtool
+cask caffeine
+cask cathode
+cask clipy
+cask configure-application-dock-tile
+cask controlplane
+cask cooviewer
+cask dropbox
+cask dupscanub
+cask evernote
+cask filezilla
+cask flip4mac
+cask free-ruler
+cask geektool
+cask gimp
+cask google-chrome
+cask google-japanese-ime
+cask horndis
+cask hyperswitch
+cask hyperterm
+cask ifunbox
+cask imageoptim
+cask inkscape
+cask iterm2
+cask java
+cask karabiner
+cask keycastr
+cask league-of-legends
+cask libreoffice
+cask licecap
+cask liteicon
+cask macdown
+cask macs-fan-control
+cask mactex
+cask madruby
+cask marp
+cask mendeley-desktop
+cask mono-mdk
+cask onyx
+cask pixlr
+cask qlmarkdown
+cask silverlight
+cask simplefloatingclock
+cask skitch
+cask skype
+cask teamviewer
+cask the-unarchiver
+cask timer
+cask unetbootin
+cask vlc
+cask xquartz
+cask xrg
+cask xtrafinder
 
 tap caskroom/versions
+cask firefox-ja
 
 tap homebrew/core
-
-tap homebrew/dupes
-
-tap homebrew/science
-
-tap neovim/neovim
-
-tap rcmdnk/file
-
-tap rcmdnk/rcmdnkcask
-
-tap rcmdnk/rcmdnkpac
-
-tap thoughtbot/formulae
-
-# Other Homebrew packages
 brew ant
 brew asciidoc
 brew asciinema
@@ -36,7 +76,6 @@ brew bazaar
 brew bdw-gc
 brew bison
 brew boost
-brew brew-file
 brew brew-gem
 brew brew-pip
 brew cairo
@@ -73,7 +112,6 @@ brew ghostscript
 brew gibo
 brew giflib
 brew git
-brew gitsh
 brew glib
 brew gmp
 brew gnu-getopt
@@ -147,7 +185,6 @@ brew mpv
 brew multitail
 brew mysql
 brew nasm
-brew neovim
 brew nmap
 brew node
 brew norm
@@ -175,12 +212,10 @@ brew python3
 brew readline
 brew reattach-to-user-namespace
 brew redpen
-brew root
 brew rtmpdump
 brew rubberband
 brew ruby
 brew schroedinger
-brew screenutf8 --utf8
 brew shellcheck
 brew snappy
 brew socat
@@ -191,7 +226,6 @@ brew sphinx-doc
 brew spidermonkey
 brew sqlite
 brew stow
-brew tcl-tk
 brew tesseract
 brew texi2html
 brew thefuck
@@ -218,68 +252,30 @@ brew zimg
 brew zsh
 brew zsh-completions
 
+tap homebrew/dupes
+brew tcl-tk
+
+tap homebrew/science
+brew root
+
+tap neovim/neovim
+brew neovim
+
+tap rcmdnk/file
+brew brew-file
+
+tap rcmdnk/rcmdnkcask
+cask font-migu1m
+cask menubargmail
+
+tap rcmdnk/rcmdnkpac
+brew screenutf8 --utf8
+
+tap thoughtbot/formulae
+brew gitsh
+
 # gem packages
 gem heroku
-
-# Cask applications
-cask appcleaner
-cask bathyscaphe
-cask bettertouchtool
-cask caffeine
-cask cathode
-cask clipy
-cask configure-application-dock-tile
-cask controlplane
-cask cooviewer
-cask dropbox
-cask dupscanub
-cask evernote
-cask filezilla
-cask firefox-ja
-cask flip4mac
-cask font-migu1m
-cask free-ruler
-cask geektool
-cask gimp
-cask google-chrome
-cask google-japanese-ime
-cask horndis
-cask hyperswitch
-cask hyperterm
-cask ifunbox
-cask imageoptim
-cask inkscape
-cask iterm2
-cask java
-cask karabiner
-cask keycastr
-cask league-of-legends
-cask libreoffice
-cask licecap
-cask liteicon
-cask macdown
-cask macs-fan-control
-cask mactex
-cask madruby
-cask marp
-cask mendeley-desktop
-cask menubargmail
-cask mono-mdk
-cask onyx
-cask pixlr
-cask qlmarkdown
-cask silverlight
-cask simplefloatingclock
-cask skitch
-cask skype
-cask teamviewer
-cask the-unarchiver
-cask timer
-cask unetbootin
-cask vlc
-cask xquartz
-cask xrg
-cask xtrafinder
 
 # App Store applications
 appstore 451732904 App Language Chooser
