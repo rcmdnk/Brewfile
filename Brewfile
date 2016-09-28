@@ -143,6 +143,7 @@ brew libass
 brew libbluray
 brew libbs2b
 brew libcaca
+brew libcroco
 brew libdvdcss
 brew libdvdnav
 brew libdvdread
@@ -156,6 +157,7 @@ brew libmpc
 brew libogg
 brew libpgm
 brew libpng
+brew librsvg
 brew libsamplerate
 brew libsndfile
 brew libsodium
@@ -230,7 +232,7 @@ brew tesseract
 brew texi2html
 brew thefuck
 brew theora
-brew tig --with-docs --HEAD
+brew tig
 brew tmux --HEAD
 brew tree
 brew vapoursynth
@@ -238,7 +240,7 @@ brew vim --with-lua --HEAD
 brew w3m
 brew wdiff
 brew webp
-brew wget --with-iri --with-debug
+brew wget
 brew x264
 brew x265
 brew xmlto
@@ -274,23 +276,20 @@ brew screenutf8 --utf8
 tap thoughtbot/formulae
 brew gitsh
 
-# gem packages
-gem heroku
-
 # App Store applications
-appstore 451732904 App Language Chooser
-appstore 430173763 Degrees
-appstore 458998390 Farensius
-appstore 682658836 GarageBand
-appstore 992115977 Image2Icon
-appstore 409183694 Keynote
-appstore 539883307 LINE
-appstore 409203825 Numbers
-appstore 409201541 Pages
-appstore 487505968 Photobricks
-appstore 568494494 Pocket
-appstore 560851219 Should I Sleep
-appstore 495705418 Volume Reset
-appstore 495945638 Wake Up Time
-appstore 497799835 Xcode
-appstore 408981434 iMovie
+appstore 451732904 App Language Chooser (1.0)
+appstore 430173763 Degrees (4.2.1)
+appstore 458998390 Farensius (2.0.2)
+appstore 682658836 GarageBand (10.1.2)
+appstore 992115977 Image2Icon (2.6.2)
+appstore 409183694 Keynote (7.0)
+appstore 539883307 LINE (4.9.0)
+appstore 409203825 Numbers (4.0)
+appstore 409201541 Pages (6.0)
+appstore 487505968 Photobricks (1.6)
+appstore 568494494 Pocket (1.6.2)
+appstore 560851219 Should I Sleep (1.8.4)
+appstore 495705418 Volume Reset (1.3)
+appstore 495945638 Wake Up Time (1.4)
+appstore 497799835 Xcode (8.0)
+appstore 408981434 iMovie (10.1.2)
