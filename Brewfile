@@ -264,7 +264,7 @@ tap neovim/neovim
 brew neovim
 
 tap rcmdnk/file
-brew brew-file
+brew brew-file --HEAD
 
 tap rcmdnk/rcmdnkcask
 cask font-migu1m
