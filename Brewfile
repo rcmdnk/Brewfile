@@ -93,7 +93,7 @@ brew dash
 brew dcadec
 brew docbook
 brew docbook-xsl
-brew emacs --with-cocoa --HEAD
+brew emacs --with-cocoa
 brew faac
 brew fdk-aac
 brew fdupes
@@ -115,7 +115,6 @@ brew git
 brew glib
 brew gmp
 brew gnu-getopt
-brew gnu-sed --with-default-names
 brew go
 brew gobject-introspection
 brew graphite2
@@ -124,7 +123,7 @@ brew gtk+
 brew harfbuzz
 brew hicolor-icon-theme
 brew htop-osx
-brew hub --HEAD
+brew hub
 brew hugo
 brew icu4c
 brew imagemagick
@@ -264,7 +263,7 @@ tap neovim/neovim
 brew neovim
 
 tap rcmdnk/file
-brew brew-file --HEAD
+brew brew-file
 
 tap rcmdnk/rcmdnkcask
 cask font-migu1m
