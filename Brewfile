@@ -217,6 +217,7 @@ brew rtmpdump
 brew rubberband
 brew ruby
 brew schroedinger
+brew shared-mime-info
 brew shellcheck
 brew snappy
 brew socat
