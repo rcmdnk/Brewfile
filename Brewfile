@@ -76,7 +76,6 @@ brew bazaar
 brew bdw-gc
 brew bison
 brew boost
-brew brew-gem
 brew brew-pip
 brew cairo
 brew cheat
