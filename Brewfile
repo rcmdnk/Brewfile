@@ -23,7 +23,6 @@ cask google-chrome
 cask google-japanese-ime
 cask horndis
 cask hyperswitch
-cask hyperterm
 cask ifunbox
 cask imageoptim
 cask inkscape
@@ -274,6 +273,11 @@ brew screenutf8 --utf8
 
 tap thoughtbot/formulae
 brew gitsh
+
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask hyperterm (!)
 
 # App Store applications
 appstore 451732904 App Language Chooser (1.0)
