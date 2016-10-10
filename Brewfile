@@ -231,8 +231,9 @@ brew texi2html
 brew thefuck
 brew theora
 brew tig
-brew tmux --HEAD
+brew tmux
 brew tree
+brew utf8proc
 brew vapoursynth
 brew vim --with-lua --HEAD
 brew w3m
