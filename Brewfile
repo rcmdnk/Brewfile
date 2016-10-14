@@ -58,7 +58,6 @@ cask xrg
 cask xtrafinder
 
 tap caskroom/versions
-cask firefox-ja
 
 tap homebrew/core
 brew ant
@@ -278,6 +277,7 @@ brew gitsh
 # Below applications were installed by Cask,
 # but do not have corresponding casks.
 
+#cask firefox-ja (!)
 #cask hyperterm (!)
 
 # App Store applications
