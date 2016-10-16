@@ -118,6 +118,7 @@ brew graphite2
 brew gsl
 brew gtk+
 brew harfbuzz
+brew heroku
 brew hicolor-icon-theme
 brew htop-osx
 brew hub
