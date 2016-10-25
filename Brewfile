@@ -29,6 +29,7 @@ cask inkscape
 cask iterm2
 cask java
 cask karabiner
+cask key-codes
 cask keycastr
 cask league-of-legends
 cask libreoffice
