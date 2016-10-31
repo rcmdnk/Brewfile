@@ -15,6 +15,7 @@ cask dropbox
 cask dupscanub
 cask evernote
 cask filezilla
+cask firefox
 cask flip4mac
 cask free-ruler
 cask geektool
@@ -22,6 +23,7 @@ cask gimp
 cask google-chrome
 cask google-japanese-ime
 cask horndis
+cask hyper
 cask hyperswitch
 cask ifunbox
 cask imageoptim
@@ -57,8 +59,6 @@ cask vlc
 cask xquartz
 cask xrg
 cask xtrafinder
-
-tap caskroom/versions
 
 tap homebrew/core
 brew ant
@@ -276,26 +276,20 @@ brew screenutf8 --utf8
 tap thoughtbot/formulae
 brew gitsh
 
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask firefox-ja (!)
-#cask hyperterm (!)
-
 # App Store applications
 appstore 451732904 App Language Chooser (1.0)
 appstore 430173763 Degrees (4.2.1)
 appstore 458998390 Farensius (2.0.2)
-appstore 682658836 GarageBand (10.1.2)
+appstore 682658836 GarageBand (10.1.3)
 appstore 992115977 Image2Icon (2.6.2)
-appstore 409183694 Keynote (7.0)
-appstore 539883307 LINE (4.9.0)
-appstore 409203825 Numbers (4.0)
-appstore 409201541 Pages (6.0)
+appstore 409183694 Keynote (7.0.5)
+appstore 539883307 LINE (4.10.0)
+appstore 409203825 Numbers (4.0.5)
+appstore 409201541 Pages (6.0.5)
 appstore 487505968 Photobricks (1.6)
 appstore 568494494 Pocket (1.6.2)
 appstore 560851219 Should I Sleep (1.8.4)
 appstore 495705418 Volume Reset (1.3)
 appstore 495945638 Wake Up Time (1.4)
-appstore 497799835 Xcode (8.0)
-appstore 408981434 iMovie (10.1.2)
+appstore 497799835 Xcode (8.1)
+appstore 408981434 iMovie (10.1.3)
