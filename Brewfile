@@ -262,6 +262,9 @@ brew tcl-tk
 tap homebrew/science
 brew root
 
+tap homebrew/x11
+brew dzen2
+
 tap neovim/neovim
 brew neovim
 
