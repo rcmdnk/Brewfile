@@ -121,7 +121,6 @@ brew graphite2
 brew gsl
 brew gtk+
 brew harfbuzz
-brew heroku
 brew hicolor-icon-theme
 brew htop-osx
 brew hub
@@ -281,6 +280,12 @@ brew screenutf8 --utf8
 tap thoughtbot/formulae
 brew gitsh
 
+# pip packages
+pip pep8
+
+# gem packages
+gem heroku
+
 # App Store applications
 appstore 451732904 App Language Chooser (1.0)
 appstore 430173763 Degrees (4.2.1)
@@ -288,7 +293,7 @@ appstore 458998390 Farensius (2.0.2)
 appstore 682658836 GarageBand (10.1.3)
 appstore 992115977 Image2Icon (2.6.2)
 appstore 409183694 Keynote (7.0.5)
-appstore 539883307 LINE (4.10.0)
+appstore 539883307 LINE (4.10.2)
 appstore 409203825 Numbers (4.0.5)
 appstore 409201541 Pages (6.0.5)
 appstore 487505968 Photobricks (1.6)
