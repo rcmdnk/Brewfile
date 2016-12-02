@@ -162,12 +162,15 @@ brew libsndfile
 brew libsodium
 brew libsoxr
 brew libssh
+brew libtermkey
 brew libtiff
 brew libtool
+brew libuv
 brew libvidstab
 brew libvo-aacenc
 brew libvorbis
 brew libvpx
+brew libvterm
 brew libxml2
 brew libyaml
 brew little-cms2
@@ -183,6 +186,7 @@ brew mercurial
 brew mobile-shell
 brew mpfr
 brew mpv
+brew msgpack
 brew multitail
 brew mysql
 brew nasm
@@ -235,6 +239,7 @@ brew theora
 brew tig
 brew tmux
 brew tree
+brew unibilium
 brew utf8proc
 brew vapoursynth
 brew vim --with-lua --HEAD
@@ -302,4 +307,4 @@ appstore 560851219 Should I Sleep (1.8.4)
 appstore 495705418 Volume Reset (1.3)
 appstore 495945638 Wake Up Time (1.4)
 appstore 497799835 Xcode (8.1)
-appstore 408981434 iMovie (10.1.3)
+appstore 408981434 iMovie (10.1.4)
