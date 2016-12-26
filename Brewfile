@@ -214,6 +214,7 @@ brew pygobject
 brew pygtk --with-libglade
 brew python
 brew python3
+brew ranger
 brew readline
 brew reattach-to-user-namespace
 brew redpen
@@ -242,7 +243,7 @@ brew tree
 brew unibilium
 brew utf8proc
 brew vapoursynth
-brew vim --with-lua --HEAD
+brew vim --with-lua
 brew w3m
 brew wdiff
 brew webp
