@@ -162,6 +162,7 @@ brew libsndfile
 brew libsodium
 brew libsoxr
 brew libssh
+brew libssh2
 brew libtermkey
 brew libtiff
 brew libtool
@@ -183,6 +184,7 @@ brew mas
 brew maven
 brew md5sha1sum
 brew mercurial
+brew midnight-commander
 brew mobile-shell
 brew mpfr
 brew mpv
@@ -221,6 +223,7 @@ brew redpen
 brew rtmpdump
 brew rubberband
 brew ruby
+brew s-lang
 brew schroedinger
 brew shared-mime-info
 brew shellcheck
