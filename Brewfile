@@ -114,6 +114,7 @@ brew giflib
 brew git
 brew glib
 brew gmp
+brew gmp@4
 brew gnu-getopt
 brew go
 brew gobject-introspection
@@ -130,6 +131,7 @@ brew imagemagick
 brew imlib2
 brew iperf3
 brew isl
+brew isl@0.12
 brew jbig2dec
 brew jp2a
 brew jpeg
