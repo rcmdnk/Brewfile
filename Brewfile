@@ -248,7 +248,7 @@ brew tree
 brew unibilium
 brew utf8proc
 brew vapoursynth
-brew vim --with-lua
+brew vim --with-lua --HEAD
 brew w3m
 brew wdiff
 brew webp
