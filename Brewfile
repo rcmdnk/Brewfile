@@ -136,7 +136,7 @@ brew jbig2dec
 brew jp2a
 brew jpeg
 brew lame
-brew lastpass-cli --with-doc
+brew lastpass-cli
 brew latex2rtf
 brew leptonica
 brew libaacs
