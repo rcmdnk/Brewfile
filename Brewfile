@@ -290,6 +290,10 @@ brew screenutf8 --utf8
 tap thoughtbot/formulae
 brew gitsh
 
+# Other Homebrew packages
+brew dzen2
+brew gem-heroku
+
 # pip packages
 pip pep8
 
