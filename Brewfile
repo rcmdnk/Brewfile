@@ -11,6 +11,7 @@ cask clipy
 cask configure-application-dock-tile
 cask controlplane
 cask cooviewer
+cask docker
 cask dropbox
 cask dupscanub
 cask evernote
@@ -57,6 +58,8 @@ cask the-unarchiver
 cask timer
 cask unetbootin
 cask vlc
+cask wercker-cli
+cask wercker
 cask xquartz
 cask xrg
 cask xtrafinder
