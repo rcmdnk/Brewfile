@@ -58,8 +58,6 @@ cask the-unarchiver
 cask timer
 cask unetbootin
 cask vlc
-cask wercker-cli
-cask wercker
 cask xquartz
 cask xrg
 cask xtrafinder
@@ -252,6 +250,7 @@ brew unibilium
 brew utf8proc
 brew vapoursynth
 brew vim --with-lua --HEAD
+brew vnu
 brew w3m
 brew wdiff
 brew webp
@@ -293,6 +292,9 @@ brew screenutf8 --utf8
 tap thoughtbot/formulae
 brew gitsh
 
+tap wercker/wercker
+brew wercker-cli
+
 # Other Homebrew packages
 brew dzen2
 brew gem-heroku
@@ -307,7 +309,7 @@ gem heroku
 appstore 451732904 App Language Chooser (1.0)
 appstore 430173763 Degrees (4.2.1)
 appstore 458998390 Farensius (2.0.2)
-appstore 682658836 GarageBand (10.1.4)
+appstore 682658836 GarageBand (10.1.5)
 appstore 992115977 Image2Icon (2.7.1)
 appstore 409183694 Keynote (7.0.5)
 appstore 539883307 LINE (4.11.1)
