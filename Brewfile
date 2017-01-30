@@ -179,6 +179,7 @@ brew libxml2
 brew libyaml
 brew little-cms2
 brew lua
+brew lv
 brew m-cli
 brew mackup
 brew macvim --with-lua
@@ -195,6 +196,7 @@ brew msgpack
 brew multitail
 brew mysql
 brew nasm
+brew nkf
 brew nmap
 brew node
 brew norm
