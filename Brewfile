@@ -180,6 +180,7 @@ brew libyaml
 brew little-cms2
 brew lua
 brew lv
+brew lynx
 brew m-cli
 brew mackup
 brew macvim --with-lua
