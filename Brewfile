@@ -237,7 +237,6 @@ brew snappy
 brew socat
 brew source-highlight
 brew spark
-brew speex
 brew sphinx-doc
 brew spidermonkey
 brew sqlite
