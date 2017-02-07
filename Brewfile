@@ -40,7 +40,6 @@ cask licecap
 cask liteicon
 cask macdown
 cask macs-fan-control
-cask mactex
 cask madruby
 cask marp
 cask mendeley-desktop
@@ -128,7 +127,7 @@ brew htop-osx
 brew hub
 brew hugo
 brew icu4c
-brew imagemagick
+brew imagemagick --with-ghostscript
 brew imlib2
 brew iperf3
 brew isl
