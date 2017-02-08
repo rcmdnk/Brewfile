@@ -40,6 +40,7 @@ cask licecap
 cask liteicon
 cask macdown
 cask macs-fan-control
+cask mactex
 cask madruby
 cask marp
 cask mendeley-desktop
