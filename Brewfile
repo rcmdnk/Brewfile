@@ -128,7 +128,7 @@ brew htop-osx
 brew hub
 brew hugo
 brew icu4c
-brew imagemagick --with-ghostscript
+brew imagemagick
 brew imlib2
 brew iperf3
 brew isl
