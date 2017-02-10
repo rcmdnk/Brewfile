@@ -299,13 +299,9 @@ brew wercker-cli
 
 # Other Homebrew packages
 brew dzen2
-brew gem-heroku
 
 # pip packages
 pip pep8
-
-# gem packages
-gem heroku
 
 # App Store applications
 appstore 451732904 App Language Chooser (1.0)
