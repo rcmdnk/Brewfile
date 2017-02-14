@@ -3,13 +3,16 @@
 
 tap caskroom/cask
 cask appcleaner
+cask atom
 cask bathyscaphe
 cask bettertouchtool
+cask black-screen
 cask caffeine
 cask cathode
 cask clipy
 cask configure-application-dock-tile
 cask controlplane
+cask cool-retro-term
 cask cooviewer
 cask docker
 cask dropbox
@@ -62,6 +65,9 @@ cask xquartz
 cask xrg
 cask xtrafinder
 
+tap cema-sp/tap
+brew alacritty
+
 tap homebrew/core
 brew ant
 brew asciidoc
@@ -113,6 +119,7 @@ brew ghostscript
 brew gibo
 brew giflib
 brew git
+brew glfw
 brew glib
 brew gmp
 brew gmp@4
