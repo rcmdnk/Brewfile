@@ -2,17 +2,15 @@
 # tap repositories and their packages
 
 tap caskroom/cask
+cask adobe-reader
 cask appcleaner
-cask atom
 cask bathyscaphe
 cask bettertouchtool
-cask black-screen
 cask caffeine
 cask cathode
 cask clipy
 cask configure-application-dock-tile
 cask controlplane
-cask cool-retro-term
 cask cooviewer
 cask docker
 cask dropbox
@@ -27,9 +25,9 @@ cask gimp
 cask google-chrome
 cask google-japanese-ime
 cask horndis
-cask hyper
 cask hyperswitch
 cask ifunbox
+cask image2icon
 cask imageoptim
 cask inkscape
 cask iterm2
@@ -64,9 +62,6 @@ cask vlc
 cask xquartz
 cask xrg
 cask xtrafinder
-
-tap cema-sp/tap
-brew alacritty
 
 tap homebrew/core
 brew ant
@@ -315,7 +310,6 @@ appstore 451732904 App Language Chooser (1.0)
 appstore 430173763 Degrees (4.2.1)
 appstore 458998390 Farensius (2.0.2)
 appstore 682658836 GarageBand (10.1.5)
-appstore 992115977 Image2Icon (2.7.1)
 appstore 409183694 Keynote (7.0.5)
 appstore 539883307 LINE (4.11.1)
 appstore 409203825 Numbers (4.0.5)
