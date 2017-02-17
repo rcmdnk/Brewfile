@@ -309,7 +309,7 @@ pip pep8
 appstore 451732904 App Language Chooser (1.0)
 appstore 430173763 Degrees (4.2.1)
 appstore 458998390 Farensius (2.0.2)
-appstore 682658836 GarageBand (10.1.5)
+appstore 682658836 GarageBand (10.1.6)
 appstore 408981434 iMovie (10.1.4)
 appstore 409183694 Keynote (7.0.5)
 appstore 539883307 LINE (4.11.1)
