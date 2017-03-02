@@ -8,6 +8,7 @@ cask bathyscaphe
 cask bettertouchtool
 cask caffeine
 cask cathode
+cask cerebro
 cask clipy
 cask configure-application-dock-tile
 cask controlplane
