@@ -259,7 +259,7 @@ brew vnu
 brew w3m
 brew wdiff
 brew webp
-brew wget
+brew wget --with-pcre
 brew x264
 brew x265
 brew xmlto
@@ -292,6 +292,7 @@ cask font-migu1m
 cask menubargmail
 
 tap rcmdnk/rcmdnkpac
+brew inputsource --HEAD
 brew screenutf8 --utf8
 
 tap thoughtbot/formulae
@@ -313,7 +314,7 @@ appstore 458998390 Farensius (2.0.2)
 appstore 682658836 GarageBand (10.1.6)
 appstore 408981434 iMovie (10.1.4)
 appstore 409183694 Keynote (7.0.5)
-appstore 539883307 LINE (4.11.1)
+appstore 539883307 LINE (4.12.1)
 appstore 409203825 Numbers (4.0.5)
 appstore 409201541 Pages (6.0.5)
 appstore 487505968 Photobricks (1.6)
