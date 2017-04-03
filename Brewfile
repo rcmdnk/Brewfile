@@ -111,7 +111,6 @@ brew gcc
 brew gdbm
 brew gdk-pixbuf
 brew gettext
-brew ghostscript
 brew gibo
 brew giflib
 brew git
@@ -310,13 +309,13 @@ appstore 430173763 Degrees (4.2.1)
 appstore 458998390 Farensius (2.0.2)
 appstore 682658836 GarageBand (10.1.6)
 appstore 408981434 iMovie (10.1.4)
-appstore 409183694 Keynote (7.0.5)
+appstore 409183694 Keynote (7.1)
 appstore 539883307 LINE (4.12.2)
-appstore 409203825 Numbers (4.0.5)
-appstore 409201541 Pages (6.0.5)
+appstore 409203825 Numbers (4.1)
+appstore 409201541 Pages (6.1)
 appstore 487505968 Photobricks (1.6)
 appstore 568494494 Pocket (1.6.2)
 appstore 560851219 Should I Sleep (1.8.4)
 appstore 495705418 Volume Reset (1.3)
 appstore 495945638 Wake Up Time (1.4)
-appstore 497799835 Xcode (8.2.1)
+appstore 497799835 Xcode (8.3)
