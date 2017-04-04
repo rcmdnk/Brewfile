@@ -243,6 +243,7 @@ brew sphinx-doc
 brew spidermonkey
 brew sqlite
 brew stow
+brew tcl-tk
 brew tesseract
 brew texi2html
 brew thefuck
@@ -273,7 +274,6 @@ brew zsh
 brew zsh-completions
 
 tap homebrew/dupes
-brew tcl-tk
 
 tap homebrew/science
 brew root
