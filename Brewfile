@@ -48,7 +48,6 @@ cask marp
 cask mendeley-desktop
 cask mono-mdk
 cask onyx
-cask owasp-zap
 cask pixlr
 cask qlmarkdown
 cask silverlight
