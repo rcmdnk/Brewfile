@@ -247,7 +247,7 @@ brew texi2html
 brew thefuck
 brew theora
 brew tig
-brew tmux
+brew tmux --HEAD
 brew tree
 brew unibilium
 brew utf8proc
@@ -319,4 +319,4 @@ appstore 568494494 Pocket (1.6.2)
 appstore 560851219 Should I Sleep (1.8.4)
 appstore 495705418 Volume Reset (1.3)
 appstore 495945638 Wake Up Time (1.4)
-appstore 497799835 Xcode (8.3.1)
+appstore 497799835 Xcode (8.3.2)
