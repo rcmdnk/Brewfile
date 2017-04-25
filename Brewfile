@@ -43,6 +43,7 @@ cask liteicon
 cask macdown
 cask macs-fan-control
 cask mactex
+cask macvim
 cask madruby
 cask marp
 cask mendeley-desktop
@@ -183,7 +184,6 @@ brew lv
 brew lynx
 brew m-cli
 brew mackup
-brew macvim --with-lua
 brew makedepend
 brew mas
 brew maven
