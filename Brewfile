@@ -240,7 +240,6 @@ brew spark
 brew sphinx-doc
 brew spidermonkey
 brew sqlite
-brew stow
 brew tcl-tk
 brew tesseract
 brew texi2html
