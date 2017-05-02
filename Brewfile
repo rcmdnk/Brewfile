@@ -135,6 +135,7 @@ brew iperf3
 brew isl
 brew isl@0.12
 brew jbig2dec
+brew jemalloc
 brew jp2a
 brew jpeg
 brew lame
