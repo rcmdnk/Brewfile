@@ -142,6 +142,7 @@ brew lame
 brew lastpass-cli
 brew latex2rtf
 brew leptonica
+brew lesspipe
 brew libaacs
 brew libass
 brew libbluray
