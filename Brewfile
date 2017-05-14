@@ -2,7 +2,6 @@
 # tap repositories and their packages
 
 tap caskroom/cask
-cask adobe-reader
 cask appcleaner
 cask bathyscaphe
 cask bettertouchtool
@@ -303,6 +302,7 @@ brew wercker-cli
 brew dzen2
 
 # Cask applications
+cask adobe-reader
 cask pixlr
 
 # App Store applications
