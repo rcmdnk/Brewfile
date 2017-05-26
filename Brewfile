@@ -94,6 +94,7 @@ brew dash
 brew dcadec
 brew docbook
 brew docbook-xsl
+brew doxygen
 brew emacs --with-cocoa
 brew faac
 brew fdk-aac
