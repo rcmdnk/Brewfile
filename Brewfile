@@ -208,6 +208,7 @@ brew opencore-amr
 brew openh264
 brew openjpeg
 brew openssl
+brew openssl@1.1
 brew opus
 brew orc
 brew pandoc
