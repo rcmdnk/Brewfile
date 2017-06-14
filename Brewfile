@@ -260,7 +260,7 @@ brew vnu
 brew w3m
 brew wdiff
 brew webp
-brew wget --with-pcre
+brew wget
 brew x264
 brew x265
 brew xmlto
