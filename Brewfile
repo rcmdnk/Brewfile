@@ -88,6 +88,7 @@ brew cloog
 brew cmake
 brew cmatrix
 brew colordiff
+brew coreutils
 brew cscope
 brew ctags
 brew dash
@@ -314,10 +315,10 @@ appstore 430173763 Degrees (4.2.1)
 appstore 458998390 Farensius (2.0.2)
 appstore 682658836 GarageBand (10.2.0)
 appstore 408981434 iMovie (10.1.6)
-appstore 409183694 Keynote (7.1.1)
-appstore 539883307 LINE (5.1.1)
-appstore 409203825 Numbers (4.1.1)
-appstore 409201541 Pages (6.1.1)
+appstore 409183694 Keynote (7.2)
+appstore 539883307 LINE (5.2.0)
+appstore 409203825 Numbers (4.2)
+appstore 409201541 Pages (6.2)
 appstore 487505968 Photobricks (1.6)
 appstore 568494494 Pocket (1.6.2)
 appstore 560851219 Should I Sleep (1.8.4)
