@@ -256,7 +256,7 @@ brew unibilium
 brew unrar
 brew utf8proc
 brew vapoursynth
-brew vim --with-lua --HEAD
+brew vim --with-lua
 brew vnu
 brew w3m
 brew wdiff
