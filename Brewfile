@@ -200,6 +200,7 @@ brew msgpack
 brew multitail
 brew mysql
 brew nasm
+brew neovim
 brew nkf
 brew nmap
 brew node
@@ -283,7 +284,6 @@ brew root
 tap homebrew/x11
 
 tap neovim/neovim
-brew neovim
 
 tap rcmdnk/file
 brew brew-file
