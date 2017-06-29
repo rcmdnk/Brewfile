@@ -238,6 +238,7 @@ brew s-lang
 brew schroedinger
 brew shared-mime-info
 brew shellcheck
+brew sl
 brew snappy
 brew socat
 brew source-highlight
