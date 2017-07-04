@@ -255,6 +255,7 @@ brew tig
 brew tmux --HEAD
 brew tree
 brew unibilium
+brew unixodbc
 brew unrar
 brew utf8proc
 brew vapoursynth
@@ -276,8 +277,6 @@ brew zeromq
 brew zimg
 brew zsh
 brew zsh-completions
-
-tap homebrew/dupes
 
 tap homebrew/science
 brew root
@@ -317,7 +316,7 @@ appstore 458998390 Farensius (2.0.2)
 appstore 682658836 GarageBand (10.2.0)
 appstore 408981434 iMovie (10.1.6)
 appstore 409183694 Keynote (7.2)
-appstore 539883307 LINE (5.2.0)
+appstore 539883307 LINE (5.2.2)
 appstore 409203825 Numbers (4.2)
 appstore 409201541 Pages (6.2)
 appstore 487505968 Photobricks (1.6)
