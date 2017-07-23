@@ -259,7 +259,7 @@ brew unixodbc
 brew unrar
 brew utf8proc
 brew vapoursynth
-brew vim --with-lua
+brew vim --with-lua --HEAD
 brew vnu
 brew w3m
 brew wdiff
