@@ -62,6 +62,9 @@ cask xquartz
 cask xrg
 cask xtrafinder
 
+tap caskroom/fonts
+cask font-hack-nerd-font
+
 tap homebrew/core
 brew ant
 brew asciidoc
@@ -80,6 +83,7 @@ brew boost
 brew brew-gem
 brew brew-pip
 brew cairo
+brew ccat
 brew cheat
 brew checkbashisms
 brew checkstyle
@@ -126,6 +130,7 @@ brew gsl
 brew gtk+
 brew harfbuzz
 brew hicolor-icon-theme
+brew highlight
 brew htop-osx
 brew hub
 brew hugo
@@ -260,6 +265,7 @@ brew unrar
 brew utf8proc
 brew vapoursynth
 brew vim --with-lua --HEAD
+brew vimpager
 brew vnu
 brew w3m
 brew wdiff
