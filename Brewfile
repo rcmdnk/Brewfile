@@ -144,6 +144,7 @@ brew jbig2dec
 brew jemalloc
 brew jp2a
 brew jpeg
+brew jq
 brew lame
 brew lastpass-cli
 brew latex2rtf
@@ -211,6 +212,7 @@ brew nmap
 brew node
 brew norm
 brew nspr
+brew oniguruma
 brew opencore-amr
 brew openh264
 brew openjpeg
