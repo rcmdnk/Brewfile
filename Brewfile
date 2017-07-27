@@ -68,7 +68,6 @@ cask font-hack-nerd-font
 tap homebrew/core
 brew ant
 brew asciidoc
-brew asciinema
 brew atk
 brew autoconf
 brew autojump
@@ -98,7 +97,6 @@ brew ctags
 brew dash
 brew dcadec
 brew docbook
-brew docbook-xsl
 brew doxygen
 brew emacs --with-cocoa
 brew faac
@@ -275,7 +273,6 @@ brew webp
 brew wget
 brew x264
 brew x265
-brew xmlto
 brew xrootd
 brew xvid
 brew xz
