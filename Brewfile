@@ -228,6 +228,8 @@ brew pkg-config
 brew protobuf
 brew pv
 brew py2cairo
+brew pyenv
+brew pyenv-virtualenv
 brew pygobject
 brew pygtk --with-libglade
 brew python
