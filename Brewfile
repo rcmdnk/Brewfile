@@ -96,6 +96,7 @@ brew clang-format
 brew snappy
 brew htop-osx
 brew gmp
+brew z
 brew norm
 brew pixman
 brew freetype
