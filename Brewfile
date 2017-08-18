@@ -66,15 +66,16 @@ tap caskroom/fonts
 cask font-hack-nerd-font
 
 tap homebrew/core
+brew libvpx
 brew autossh
 brew brew-gem
 brew mobile-shell
 brew cheat
 brew jpeg
-brew lesspipe
+brew graphviz
 brew spidermonkey
 brew zsh-completions
-brew thefuck
+brew gd
 brew librsvg
 brew s-lang
 brew mysql
@@ -113,7 +114,7 @@ brew libglade
 brew tmux --HEAD
 brew gtk+
 brew openjpeg
-brew libvpx
+brew lesspipe
 brew libtermkey
 brew m-cli
 brew python3
@@ -127,7 +128,7 @@ brew autojump
 brew fftw
 brew unrar
 brew libaacs
-brew yasm
+brew thefuck
 brew glfw
 brew mercurial
 brew redpen
@@ -178,6 +179,7 @@ brew midnight-commander
 brew sphinx-doc
 brew iperf3
 brew doxygen
+brew root
 brew pandoc
 brew atk
 brew icu4c
@@ -212,6 +214,7 @@ brew gmp@4
 brew ctags
 brew zeromq
 brew gnu-getopt
+brew yasm
 brew glib
 brew mackup
 brew theora
@@ -287,7 +290,6 @@ brew gsl
 brew mpfr
 
 tap homebrew/science
-brew root
 
 tap homebrew/x11
 
