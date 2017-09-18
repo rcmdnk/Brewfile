@@ -7,7 +7,6 @@ cask bathyscaphe
 cask bettertouchtool
 cask caffeine
 cask cathode
-cask cerebro
 cask clipy
 cask configure-application-dock-tile
 cask controlplane
@@ -16,7 +15,6 @@ cask docker
 cask dropbox
 cask dupscanub
 cask evernote
-cask filezilla
 cask firefox
 cask flip4mac
 cask free-ruler
@@ -39,15 +37,12 @@ cask league-of-legends
 cask libreoffice
 cask licecap
 cask liteicon
-cask macdown
 cask macs-fan-control
 cask mactex
 cask macvim
 cask madruby
-cask marp
 cask mendeley-desktop
 cask mono-mdk
-cask onyx
 cask qlmarkdown
 cask silverlight
 cask simplefloatingclock
@@ -60,7 +55,6 @@ cask unetbootin
 cask vlc
 cask xquartz
 cask xrg
-cask xtrafinder
 
 tap caskroom/fonts
 cask font-hack-nerd-font
