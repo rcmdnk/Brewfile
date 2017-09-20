@@ -5,6 +5,7 @@ tap caskroom/cask
 cask appcleaner
 cask bathyscaphe
 cask bettertouchtool
+cask betterzipql
 cask caffeine
 cask cathode
 cask clipy
@@ -43,16 +44,26 @@ cask macvim
 cask madruby
 cask mendeley-desktop
 cask mono-mdk
+cask qlcolorcode
+cask qlimagesize
 cask qlmarkdown
+cask qlprettypatch
+cask qlstephen
+cask qlvideo
+cask quicklook-csv
+cask quicklook-json
+cask quicklookase
 cask silverlight
 cask simplefloatingclock
 cask skitch
 cask skype
+cask suspicious-package
 cask teamviewer
 cask the-unarchiver
 cask timer
 cask unetbootin
 cask vlc
+cask webpquicklook
 cask xquartz
 cask xrg
 
