@@ -1,11 +1,6 @@
 
 # tap repositories and their packages
 
-tap thoughtbot/formulae
-brew gitsh
-
-tap homebrew/science
-
 tap homebrew/core
 brew docbook
 brew autossh
@@ -306,7 +301,6 @@ brew brew-file
 
 tap rcmdnk/rcmdnkpac
 brew screenutf8 --utf8
-brew inputsource --HEAD
 
 tap rcmdnk/rcmdnkcask
 cask font-migu1m
