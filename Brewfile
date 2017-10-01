@@ -5,7 +5,6 @@ tap homebrew/core
 brew docbook
 brew autossh
 brew brew-gem
-brew mobile-shell
 brew cheat
 brew jpeg
 brew libvpx
@@ -98,7 +97,7 @@ brew libvidstab
 brew vapoursynth
 brew jq
 brew pygtk --with-libglade
-brew ccat
+brew asciidoc
 brew maven
 brew ranger
 brew pygobject
@@ -154,6 +153,7 @@ brew gnu-getopt
 brew glib
 brew mackup
 brew theora
+brew ccat
 brew nkf
 brew libmpc
 brew gibo
@@ -206,7 +206,7 @@ brew rubberband
 brew unixodbc
 brew zimg
 brew bash-completion
-brew asciidoc
+brew mosh
 brew xrootd
 brew unibilium
 brew libogg
@@ -326,7 +326,7 @@ appstore 539883307 LINE (5.3.3)
 appstore 409203825 Numbers (4.3)
 appstore 409201541 Pages (6.3)
 appstore 487505968 Photobricks (1.6)
-appstore 568494494 Pocket (1.6.2)
+appstore 568494494 Pocket (1.6.4)
 appstore 560851219 Should I Sleep (1.8.4)
 appstore 495705418 Volume Reset (1.3)
 appstore 495945638 Wake Up Time (1.4)
