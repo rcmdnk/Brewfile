@@ -289,6 +289,7 @@ cask google-japanese-ime
 cask key-codes
 cask quicklook-csv
 cask java
+cask waterfox
 cask controlplane
 cask bathyscaphe
 cask flip4mac
@@ -326,7 +327,7 @@ appstore 539883307 LINE (5.3.3)
 appstore 409203825 Numbers (4.3)
 appstore 409201541 Pages (6.3)
 appstore 487505968 Photobricks (1.6)
-appstore 568494494 Pocket (1.6.4)
+appstore 568494494 Pocket (1.6.6)
 appstore 560851219 Should I Sleep (1.8.4)
 appstore 495705418 Volume Reset (1.3)
 appstore 495945638 Wake Up Time (1.4)
