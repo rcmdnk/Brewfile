@@ -4,6 +4,7 @@
 tap homebrew/core
 brew docbook
 brew autossh
+brew ipython@5
 brew brew-gem
 brew cheat
 brew jpeg
@@ -216,6 +217,7 @@ brew openssl@1.1
 brew libffi
 brew oniguruma
 brew readline
+brew jupyter
 brew fribidi
 brew jp2a
 brew gsl
@@ -236,6 +238,7 @@ cask teamviewer
 cask mendeley-desktop
 cask qlmarkdown
 cask configure-application-dock-tile
+cask jupyter-notebook-ql
 cask unetbootin
 cask xrg
 cask geektool
