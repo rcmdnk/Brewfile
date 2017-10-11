@@ -234,6 +234,7 @@ cask font-hack-nerd-font
 
 tap caskroom/cask
 cask imageoptim
+cask adobe-illustrator-cc
 cask teamviewer
 cask mendeley-desktop
 cask qlmarkdown
@@ -247,6 +248,7 @@ cask vlc
 cask skype
 cask inkscape
 cask appcleaner
+cask karabiner-elements
 cask qlvideo
 cask suspicious-package
 cask simplefloatingclock
@@ -265,6 +267,7 @@ cask cooviewer
 cask free-ruler
 cask mono-mdk
 cask docker
+cask adobe-creative-cloud
 cask libreoffice
 cask quicklookase
 cask clipy
@@ -276,7 +279,6 @@ cask timer
 cask quicklook-json
 cask image2icon
 cask qlstephen
-cask karabiner
 cask webpquicklook
 cask qlcolorcode
 cask silverlight
@@ -284,6 +286,7 @@ cask mactex
 cask horndis
 cask qlimagesize
 cask firefox
+cask adobe-acrobat-reader
 cask hyperswitch
 cask google-chrome
 cask xquartz
@@ -309,15 +312,6 @@ brew screenutf8 --utf8
 tap rcmdnk/rcmdnkcask
 cask font-migu1m
 cask menubargmail
-
-tap neovim/neovim
-
-# Other Homebrew packages
-brew dzen2
-
-# Cask applications
-cask adobe-reader
-cask pixlr
 
 # App Store applications
 appstore 451732904 App Language Chooser (1.0)
