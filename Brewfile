@@ -231,7 +231,6 @@ tap homebrew/x11
 
 tap caskroom/cask
 cask imageoptim
-cask adobe-illustrator-cc
 cask teamviewer
 cask mendeley-desktop
 cask qlmarkdown
@@ -312,6 +311,9 @@ cask menubargmail
 
 tap rcmdnk/rcmdnkpac
 brew screenutf8 --utf8
+
+# Cask applications
+cask adobe-illustrator-cc
 
 # App Store applications
 appstore 451732904 App Language Chooser (1.0)
