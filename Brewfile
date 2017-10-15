@@ -207,7 +207,7 @@ brew unixodbc
 brew unrar
 brew utf8proc
 brew vapoursynth
-brew vim --with-lua
+brew vim --with-python3 --with-lua
 brew vimpager
 brew vnu
 brew w3m
