@@ -232,7 +232,6 @@ tap homebrew/x11
 tap caskroom/cask
 cask imageoptim
 cask teamviewer
-cask mendeley-desktop
 cask qlmarkdown
 cask configure-application-dock-tile
 cask jupyter-notebook-ql
@@ -314,6 +313,7 @@ brew screenutf8 --utf8
 
 # Cask applications
 cask adobe-illustrator-cc
+cask mendeley-desktop
 
 # App Store applications
 appstore 451732904 App Language Chooser (1.0)
@@ -330,4 +330,4 @@ appstore 568494494 Pocket (1.6.6)
 appstore 560851219 Should I Sleep (1.8.4)
 appstore 495705418 Volume Reset (1.3)
 appstore 495945638 Wake Up Time (1.4)
-appstore 497799835 Xcode (9.0)
+appstore 497799835 Xcode (9.0.1)
