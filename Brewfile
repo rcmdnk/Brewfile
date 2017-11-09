@@ -127,6 +127,7 @@ brew libxml2
 brew libyaml
 brew little-cms2
 brew lua
+brew luajit
 brew lv
 brew lynx
 brew m-cli
