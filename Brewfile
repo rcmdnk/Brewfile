@@ -127,6 +127,7 @@ brew libxml2
 brew libyaml
 brew little-cms2
 brew lua
+brew lua@5.1
 brew luajit
 brew lv
 brew lynx
@@ -145,7 +146,7 @@ brew msgpack
 brew multitail
 brew mysql
 brew nasm
-brew neovim
+brew neovim --HEAD
 brew nkf
 brew nmap
 brew node
