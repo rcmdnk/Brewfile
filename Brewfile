@@ -258,7 +258,6 @@ cask keycastr
 cask iterm2
 cask dropbox
 cask macs-fan-control
-cask betterzipql
 cask cathode
 cask cooviewer
 cask free-ruler
@@ -311,10 +310,11 @@ cask font-migu1m
 cask menubargmail
 
 tap rcmdnk/rcmdnkpac
-brew screenutf8 --utf8
+brew screenutf8
 
 # Cask applications
 cask adobe-illustrator-cc
+cask betterzipql
 cask mendeley-desktop
 
 # App Store applications
