@@ -103,6 +103,7 @@ brew libgcrypt
 brew libglade
 brew libgpg-error
 brew libidn
+brew libidn2
 brew libmpc
 brew libogg
 brew libpgm
@@ -117,6 +118,7 @@ brew libssh2
 brew libtermkey
 brew libtiff
 brew libtool
+brew libunistring
 brew libuv
 brew libvidstab
 brew libvo-aacenc
@@ -324,7 +326,7 @@ appstore 458998390 Farensius (2.0.2)
 appstore 682658836 GarageBand (10.2.0)
 appstore 408981434 iMovie (10.1.8)
 appstore 409183694 Keynote (7.3.1)
-appstore 539883307 LINE (5.4.2)
+appstore 539883307 LINE (5.5.1)
 appstore 409203825 Numbers (4.3.1)
 appstore 409201541 Pages (6.3.1)
 appstore 487505968 Photobricks (1.6)
