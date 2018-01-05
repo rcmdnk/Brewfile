@@ -145,6 +145,7 @@ brew mosh
 brew mpfr
 brew mpv
 brew msgpack
+brew mujs
 brew multitail
 brew mysql
 brew nasm
@@ -335,3 +336,6 @@ appstore 560851219 Should I Sleep (1.8.4)
 appstore 495705418 Volume Reset (1.3)
 appstore 495945638 Wake Up Time (1.4)
 appstore 497799835 Xcode (9.2)
+
+# Additional files
+file ./${HOSTNAME}.Brewfile
