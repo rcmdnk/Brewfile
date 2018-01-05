@@ -191,6 +191,7 @@ brew s-lang
 brew schroedinger
 brew shared-mime-info
 brew shellcheck
+brew sl
 brew snappy
 brew socat
 brew source-highlight
@@ -335,6 +336,3 @@ appstore 560851219 Should I Sleep (1.8.4)
 appstore 495705418 Volume Reset (1.3)
 appstore 495945638 Wake Up Time (1.4)
 appstore 497799835 Xcode (9.2)
-
-# Additional files
-file ./myMac.local.Brewfile
