@@ -191,7 +191,6 @@ brew s-lang
 brew schroedinger
 brew shared-mime-info
 brew shellcheck
-brew sl
 brew snappy
 brew socat
 brew source-highlight
@@ -338,4 +337,4 @@ appstore 495945638 Wake Up Time (1.4)
 appstore 497799835 Xcode (9.2)
 
 # Additional files
-file ./${HOSTNAME}.Brewfile
+file ./myMac.local.Brewfile
