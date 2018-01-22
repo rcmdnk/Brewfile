@@ -67,7 +67,6 @@ brew gtk+
 brew harfbuzz
 brew hicolor-icon-theme
 brew highlight
-brew htop
 brew hub
 brew hugo
 brew icu4c
