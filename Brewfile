@@ -56,7 +56,6 @@ brew git
 brew glfw
 brew glib
 brew gmp
-brew gmp@4
 brew gnu-getopt
 brew go
 brew gobject-introspection
@@ -75,7 +74,6 @@ brew imlib2
 brew iperf3
 brew ipython@5
 brew isl
-brew isl@0.12
 brew jbig2dec
 brew jemalloc
 brew jp2a
@@ -313,6 +311,10 @@ cask menubargmail
 
 tap rcmdnk/rcmdnkpac
 brew screenutf8
+
+# Other Homebrew packages
+brew gmp@4
+brew isl@0.12
 
 # Cask applications
 cask adobe-illustrator-cc
