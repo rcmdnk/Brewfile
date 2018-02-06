@@ -11,6 +11,7 @@ brew automake
 brew autossh
 brew bash
 brew bash-completion
+brew bash-snippets
 brew bazaar
 brew bdw-gc
 brew bison
@@ -19,7 +20,6 @@ brew brew-gem
 brew brew-pip
 brew cairo
 brew ccat
-brew cheat
 brew checkbashisms
 brew checkstyle
 brew clang-format
@@ -311,7 +311,7 @@ cask menubargmail
 
 tap rcmdnk/rcmdnkpac
 brew rcmdnk-sshrc
-brew screenutf8
+brew screenutf8 --utf8
 
 # Other Homebrew packages
 brew gmp@4
@@ -329,7 +329,7 @@ appstore 458998390 Farensius (2.0.2)
 appstore 682658836 GarageBand (10.2.0)
 appstore 408981434 iMovie (10.1.8)
 appstore 409183694 Keynote (7.3.1)
-appstore 539883307 LINE (5.5.1)
+appstore 539883307 LINE (5.5.2)
 appstore 409203825 Numbers (4.3.1)
 appstore 409201541 Pages (6.3.1)
 appstore 487505968 Photobricks (1.6)
