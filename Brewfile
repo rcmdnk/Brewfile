@@ -146,7 +146,7 @@ brew mujs
 brew multitail
 brew mysql
 brew nasm
-brew neovim --HEAD
+brew neovim
 brew nkf
 brew nmap
 brew node
