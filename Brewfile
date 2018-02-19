@@ -40,6 +40,7 @@ brew fdk-aac
 brew fdupes
 brew ffmpeg
 brew fftw
+brew figlet
 brew flac
 brew fontconfig
 brew freetype
@@ -50,6 +51,7 @@ brew gd
 brew gdbm
 brew gdk-pixbuf
 brew gettext
+brew ghq
 brew gibo
 brew giflib
 brew git
@@ -124,6 +126,7 @@ brew libvpx
 brew libvterm
 brew libxml2
 brew libyaml
+brew libzip
 brew little-cms2
 brew lua
 brew lua@5.1
@@ -132,6 +135,7 @@ brew lv
 brew lynx
 brew m-cli
 brew mackup
+brew macvim
 brew makedepend
 brew mas
 brew maven
@@ -149,6 +153,7 @@ brew nasm
 brew neovim
 brew nkf
 brew nmap
+brew no-more-secrets
 brew node
 brew norm
 brew nspr
@@ -202,6 +207,7 @@ brew texi2html
 brew thefuck
 brew theora
 brew tig
+brew tldr
 brew tmux --HEAD
 brew tree
 brew unibilium
@@ -240,7 +246,6 @@ cask jupyter-notebook-ql
 cask unetbootin
 cask xrg
 cask geektool
-cask macvim
 cask vlc
 cask skype
 cask inkscape
