@@ -238,6 +238,7 @@ tap homebrew/x11
 
 tap caskroom/cask
 cask imageoptim
+cask atom
 cask teamviewer
 cask qlmarkdown
 cask configure-application-dock-tile
