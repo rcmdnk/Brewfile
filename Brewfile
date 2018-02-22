@@ -135,7 +135,6 @@ brew lv
 brew lynx
 brew m-cli
 brew mackup
-brew macvim
 brew makedepend
 brew mas
 brew maven
@@ -246,6 +245,7 @@ cask jupyter-notebook-ql
 cask unetbootin
 cask xrg
 cask geektool
+cask macvim
 cask vlc
 cask skype
 cask inkscape
