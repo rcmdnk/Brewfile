@@ -51,6 +51,7 @@ brew gd
 brew gdbm
 brew gdk-pixbuf
 brew gettext
+brew gflags
 brew ghq
 brew gibo
 brew giflib
@@ -179,7 +180,7 @@ brew pyenv-virtualenv
 brew pygobject
 brew pygtk --with-libglade
 brew python
-brew python3
+brew python@2
 brew ranger
 brew readline
 brew reattach-to-user-namespace
@@ -214,7 +215,7 @@ brew unixodbc
 brew unrar
 brew utf8proc
 brew vapoursynth
-brew vim --with-python3 --with-lua
+brew vim --with-lua
 brew vimpager
 brew vnu
 brew w3m
@@ -242,6 +243,7 @@ cask atom
 cask teamviewer
 cask qlmarkdown
 cask configure-application-dock-tile
+cask betterzip
 cask jupyter-notebook-ql
 cask unetbootin
 cask xrg
@@ -296,6 +298,7 @@ cask league-of-legends
 cask google-japanese-ime
 cask key-codes
 cask quicklook-csv
+cask mendeley
 cask java
 cask waterfox
 cask controlplane
@@ -319,14 +322,9 @@ tap rcmdnk/rcmdnkpac
 brew rcmdnk-sshrc
 brew screenutf8 --utf8
 
-# Other Homebrew packages
-brew gmp@4
-brew isl@0.12
-
 # Cask applications
 cask adobe-illustrator-cc
 cask betterzipql
-cask mendeley-desktop
 
 # App Store applications
 appstore 451732904 App Language Chooser (1.0)
