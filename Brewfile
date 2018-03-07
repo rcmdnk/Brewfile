@@ -34,7 +34,6 @@ brew dash
 brew dcadec
 brew docbook
 brew doxygen
-brew emacs --with-cocoa
 brew faac
 brew fdk-aac
 brew fdupes
@@ -255,6 +254,7 @@ cask inkscape
 cask appcleaner
 cask karabiner-elements
 cask qlvideo
+cask emacs
 cask suspicious-package
 cask simplefloatingclock
 cask dupscanub
