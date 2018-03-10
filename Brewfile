@@ -74,14 +74,12 @@ brew icu4c
 brew imagemagick
 brew imlib2
 brew iperf3
-brew ipython@5
 brew isl
 brew jbig2dec
 brew jemalloc
 brew jp2a
 brew jpeg
 brew jq
-brew jupyter
 brew lame
 brew lastpass-cli
 brew latex2rtf
@@ -139,7 +137,6 @@ brew makedepend
 brew mas
 brew maven
 brew md5sha1sum
-brew mercurial
 brew midnight-commander
 brew mosh
 brew mpfr
@@ -176,10 +173,7 @@ brew pv
 brew py2cairo
 brew pyenv
 brew pyenv-virtualenv
-brew pygobject
-brew pygtk --with-libglade
 brew python
-brew python@2
 brew ranger
 brew readline
 brew reattach-to-user-namespace
@@ -202,7 +196,6 @@ brew spidermonkey
 brew sqlite
 brew tcl-tk
 brew tesseract
-brew texi2html
 brew thefuck
 brew theora
 brew tig
@@ -311,6 +304,8 @@ cask skitch
 tap caskroom/fonts
 cask font-hack-nerd-font
 
+tap beeftornado/rmtree
+
 tap rcmdnk/file
 brew brew-file
 
@@ -319,6 +314,7 @@ cask font-migu1m
 cask menubargmail
 
 tap rcmdnk/rcmdnkpac
+brew parse-plist
 brew rcmdnk-sshrc
 brew screenutf8 --utf8
 
@@ -333,7 +329,7 @@ appstore 458998390 Farensius (2.0.2)
 appstore 682658836 GarageBand (10.2.0)
 appstore 408981434 iMovie (10.1.8)
 appstore 409183694 Keynote (7.3.1)
-appstore 539883307 LINE (5.6.0)
+appstore 539883307 LINE (5.6.1)
 appstore 409203825 Numbers (4.3.1)
 appstore 409201541 Pages (6.3.1)
 appstore 487505968 Photobricks (1.6)
