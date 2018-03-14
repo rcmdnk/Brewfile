@@ -174,6 +174,7 @@ brew py2cairo
 brew pyenv
 brew pyenv-virtualenv
 brew python
+brew python@2
 brew ranger
 brew readline
 brew reattach-to-user-namespace
@@ -262,7 +263,6 @@ cask macs-fan-control
 cask cathode
 cask cooviewer
 cask free-ruler
-cask mono-mdk
 cask docker
 cask adobe-creative-cloud
 cask libreoffice
@@ -318,7 +318,7 @@ brew parse-plist
 brew rcmdnk-sshrc
 brew screenutf8 --utf8
 
-# Cask applications
+# Other Cask applications
 cask adobe-illustrator-cc
 cask betterzipql
 
@@ -335,6 +335,7 @@ appstore 409201541 Pages (6.3.1)
 appstore 487505968 Photobricks (1.6)
 appstore 568494494 Pocket (1.7.1)
 appstore 560851219 Should I Sleep (1.8.4)
+appstore 1349670778 snipping-tool (1.0.1)
 appstore 495705418 Volume Reset (1.3)
 appstore 495945638 Wake Up Time (1.4)
 appstore 497799835 Xcode (9.2)
