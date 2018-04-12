@@ -2,6 +2,8 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew autoconf
+brew automake
 brew bash
 brew bash-completion
 brew bdw-gc
@@ -135,7 +137,6 @@ cask qlimagesize
 cask qlmarkdown
 cask qlprettypatch
 cask qlstephen
-cask qlvideo
 cask quicklook-csv
 cask quicklook-json
 cask quicklookase
@@ -146,6 +147,7 @@ cask teamviewer
 cask the-unarchiver
 cask timer
 cask unetbootin
+cask vidyo
 cask vlc
 cask xquartz
 cask xrg
@@ -166,15 +168,15 @@ brew screenutf8 --utf8
 
 # App Store applications
 appstore 451732904 App Language Chooser (1.0)
-appstore 458998390 Farensius (2.0.2)
-appstore 408981434 iMovie (10.1.8)
-appstore 409183694 Keynote (7.3.1)
-appstore 539883307 LINE (5.6.1)
-appstore 409203825 Numbers (4.3.1)
-appstore 409201541 Pages (6.3.1)
+appstore 408981434 iMovie (10.1.9)
+appstore 409183694 Keynote (8.0)
+appstore 539883307 LINE (5.7.0)
+appstore 715768417 Microsoft Remote Desktop (8.0.27325)
+appstore 409203825 Numbers (5.0)
+appstore 409201541 Pages (7.0)
 appstore 568494494 Pocket (1.7.1)
-appstore 560851219 Should I Sleep (1.8.4)
-appstore 1349670778 snipping-tool (1.0.1)
+appstore 1349670778 snipping-tool (1.1)
 appstore 495705418 Volume Reset (1.3)
 appstore 495945638 Wake Up Time (1.4)
-appstore 497799835 Xcode (9.2)
+appstore 1059074180 WeatherBug (1.0.2)
+appstore 497799835 Xcode (9.3)
