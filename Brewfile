@@ -104,7 +104,6 @@ cask adobe-acrobat-reader
 cask adobe-creative-cloud
 cask appcleaner
 cask bettertouchtool
-cask betterzip
 cask caffeine
 cask cathode
 cask clipy
@@ -132,6 +131,7 @@ cask league-of-legends
 cask licecap
 cask mactex
 cask macvim
+cask onyx
 cask qlcolorcode
 cask qlimagesize
 cask qlmarkdown
