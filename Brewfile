@@ -21,6 +21,7 @@ brew dash
 brew fftw
 brew fontconfig
 brew freetype
+brew fzf
 brew gcc
 brew gd
 brew gdbm
@@ -67,6 +68,7 @@ brew mysql
 brew neovim
 brew node
 brew oniguruma
+brew openssh
 brew openssl
 brew pandoc
 brew pcre
@@ -77,6 +79,7 @@ brew pkg-config
 brew protobuf
 brew python
 brew python@2
+brew qt
 brew readline
 brew root
 brew ruby
@@ -174,7 +177,7 @@ appstore 539883307 LINE (5.7.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
 appstore 409203825 Numbers (5.0)
 appstore 409201541 Pages (7.0)
-appstore 568494494 Pocket (1.7.2)
+appstore 568494494 Pocket (1.7.3)
 appstore 1349670778 snipping-tool (1.1)
 appstore 495705418 Volume Reset (1.3)
 appstore 495945638 Wake Up Time (1.4)
