@@ -19,6 +19,7 @@ brew cscope
 brew ctags
 brew dash
 brew fftw
+brew figlet
 brew fontconfig
 brew freetype
 brew fzf
@@ -26,6 +27,7 @@ brew gcc
 brew gd
 brew gdbm
 brew gettext
+brew ghostscript
 brew ghq
 brew git
 brew gmp
@@ -54,6 +56,7 @@ brew libunistring
 brew libuv
 brew libvterm
 brew libyaml
+brew little-cms2
 brew lua
 brew lua@5.1
 brew luajit
@@ -66,6 +69,7 @@ brew msgpack
 brew multitail
 brew mysql
 brew neovim
+brew no-more-secrets
 brew node
 brew oniguruma
 brew openssh
@@ -89,6 +93,7 @@ brew socat
 brew source-highlight
 brew sphinx-doc
 brew sqlite
+brew telnet
 brew thefuck
 brew tig
 brew tmux
@@ -172,12 +177,12 @@ brew screenutf8 --utf8
 # App Store applications
 appstore 451732904 App Language Chooser (1.0)
 appstore 408981434 iMovie (10.1.9)
-appstore 409183694 Keynote (8.0)
+appstore 409183694 Keynote (8.0.1)
 appstore 539883307 LINE (5.7.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
-appstore 409203825 Numbers (5.0)
-appstore 409201541 Pages (7.0)
-appstore 568494494 Pocket (1.7.5)
+appstore 409203825 Numbers (5.0.1)
+appstore 409201541 Pages (7.0.1)
+appstore 568494494 Pocket (1.7.8)
 appstore 1349670778 snipping-tool (1.1)
 appstore 495705418 Volume Reset (1.3)
 appstore 495945638 Wake Up Time (1.4)
