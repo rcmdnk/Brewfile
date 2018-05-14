@@ -69,6 +69,7 @@ brew msgpack
 brew multitail
 brew mysql
 brew neovim
+brew nkf
 brew no-more-secrets
 brew node
 brew oniguruma
