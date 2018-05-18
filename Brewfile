@@ -18,6 +18,7 @@ brew coreutils
 brew cscope
 brew ctags
 brew dash
+brew davix
 brew fftw
 brew figlet
 brew fontconfig
@@ -60,6 +61,7 @@ brew little-cms2
 brew lua
 brew lua@5.1
 brew luajit
+brew lz4
 brew m-cli
 brew mackup
 brew mas
@@ -75,6 +77,7 @@ brew node
 brew oniguruma
 brew openssh
 brew openssl
+brew ossp-uuid
 brew pandoc
 brew pcre
 brew peco
@@ -94,6 +97,7 @@ brew socat
 brew source-highlight
 brew sphinx-doc
 brew sqlite
+brew tbb
 brew telnet
 brew thefuck
 brew tig
