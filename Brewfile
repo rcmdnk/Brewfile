@@ -112,7 +112,7 @@ brew xz
 brew zsh
 brew zsh-completions
 
-tap caskroom/cask
+tap homebrew/cask
 cask adobe-acrobat-reader
 cask adobe-creative-cloud
 cask appcleaner
