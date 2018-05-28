@@ -165,6 +165,8 @@ cask vlc
 cask xquartz
 cask xrg
 
+tap caskroom/cask
+
 tap beeftornado/rmtree
 
 tap rcmdnk/file
