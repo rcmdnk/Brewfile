@@ -72,6 +72,7 @@ brew multitail
 brew mysql
 brew neovim
 brew nkf
+brew nmap
 brew no-more-secrets
 brew node
 brew oniguruma
