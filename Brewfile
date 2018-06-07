@@ -86,6 +86,7 @@ brew perl
 brew pixman
 brew pkg-config
 brew protobuf
+brew pssh
 brew python
 brew python@2
 brew qt
@@ -115,56 +116,31 @@ brew zsh-completions
 
 tap homebrew/cask
 cask adobe-acrobat-reader
-cask adobe-creative-cloud
 cask appcleaner
-cask bettertouchtool
 cask caffeine
-cask cathode
 cask clipy
-cask configure-application-dock-tile
 cask controlplane
-cask cooviewer
 cask docker
-cask dropbox
 cask dupscanub
-cask evernote
 cask firefox
-cask flip4mac
 cask geektool
-cask google-chrome
 cask google-japanese-ime
-cask horndis
 cask hyperswitch
-cask imageoptim
 cask iterm2
-cask java
 cask jupyter-notebook-ql
-cask karabiner-elements
 cask keycastr
-cask league-of-legends
 cask licecap
-cask mactex
 cask macvim
 cask onyx
-cask qlcolorcode
 cask qlimagesize
-cask qlmarkdown
 cask qlprettypatch
-cask qlstephen
 cask quicklook-csv
-cask quicklook-json
 cask quicklookase
-cask silverlight
 cask simplefloatingclock
-cask skype
 cask teamviewer
-cask the-unarchiver
 cask timer
-cask unetbootin
 cask vidyo
-cask vlc
 cask xquartz
-cask xrg
 
 tap caskroom/cask
 
@@ -181,6 +157,33 @@ tap rcmdnk/rcmdnkpac
 brew parse-plist
 brew rcmdnk-sshrc
 brew screenutf8 --utf8
+
+# Other Cask applications
+cask adobe-creative-cloud
+cask bettertouchtool
+cask cathode
+cask configure-application-dock-tile
+cask cooviewer
+cask dropbox
+cask evernote
+cask flip4mac
+cask google-chrome
+cask horndis
+cask imageoptim
+cask java
+cask karabiner-elements
+cask league-of-legends
+cask mactex
+cask qlcolorcode
+cask qlmarkdown
+cask qlstephen
+cask quicklook-json
+cask silverlight
+cask skype
+cask the-unarchiver
+cask unetbootin
+cask vlc
+cask xrg
 
 # App Store applications
 appstore 451732904 App Language Chooser (1.0)
