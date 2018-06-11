@@ -142,8 +142,6 @@ cask timer
 cask vidyo
 cask xquartz
 
-tap caskroom/cask
-
 tap beeftornado/rmtree
 
 tap rcmdnk/file
