@@ -19,6 +19,7 @@ brew cscope
 brew ctags
 brew dash
 brew davix
+brew docker
 brew fftw
 brew figlet
 brew fontconfig
@@ -43,6 +44,7 @@ brew isl
 brew jemalloc
 brew jpeg
 brew jq
+brew kubernetes-cli
 brew latex2rtf
 brew lesspipe
 brew libevent
@@ -124,13 +126,13 @@ cask docker
 cask dupscanub
 cask firefox
 cask geektool
-cask google-japanese-ime
-cask hyperswitch
-cask iterm2
-cask jupyter-notebook-ql
-cask keycastr
-cask licecap
-cask macvim
+cask google-cloud-sdk
+cask horndis
+cask imageoptim
+cask java
+cask karabiner-elements
+cask league-of-legends
+cask mactex
 cask onyx
 cask qlimagesize
 cask qlprettypatch
@@ -166,12 +168,13 @@ cask dropbox
 cask evernote
 cask flip4mac
 cask google-chrome
-cask horndis
-cask imageoptim
-cask java
-cask karabiner-elements
-cask league-of-legends
-cask mactex
+cask google-japanese-ime
+cask hyperswitch
+cask iterm2
+cask jupyter-notebook-ql
+cask keycastr
+cask licecap
+cask macvim
 cask qlcolorcode
 cask qlmarkdown
 cask qlstephen
@@ -186,14 +189,14 @@ cask xrg
 # App Store applications
 appstore 451732904 App Language Chooser (1.0)
 appstore 408981434 iMovie (10.1.9)
-appstore 409183694 Keynote (8.0.1)
+appstore 409183694 Keynote (8.1)
 appstore 539883307 LINE (5.8.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
-appstore 409203825 Numbers (5.0.1)
-appstore 409201541 Pages (7.0.1)
+appstore 409203825 Numbers (5.1)
+appstore 409201541 Pages (7.1)
 appstore 568494494 Pocket (1.7.9)
 appstore 1349670778 snipping-tool (1.2.2)
 appstore 495705418 Volume Reset (1.3)
 appstore 495945638 Wake Up Time (1.4)
 appstore 1059074180 WeatherBug (1.0.2)
-appstore 497799835 Xcode (9.4)
+appstore 497799835 Xcode (9.4.1)
