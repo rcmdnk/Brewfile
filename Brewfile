@@ -77,6 +77,7 @@ brew nkf
 brew nmap
 brew no-more-secrets
 brew node
+brew numpy
 brew oniguruma
 brew openssh
 brew openssl
