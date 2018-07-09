@@ -44,7 +44,6 @@ brew isl
 brew jemalloc
 brew jpeg
 brew jq
-brew kubernetes-cli
 brew latex2rtf
 brew lesspipe
 brew libevent
