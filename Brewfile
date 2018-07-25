@@ -8,6 +8,7 @@ brew bash
 brew bash-completion
 brew bdw-gc
 brew boost
+brew brew-pip
 brew ccat
 brew checkstyle
 brew clang-format
@@ -19,7 +20,6 @@ brew cscope
 brew ctags
 brew dash
 brew davix
-brew docker
 brew fftw
 brew figlet
 brew fontconfig
@@ -158,6 +158,9 @@ tap rcmdnk/rcmdnkpac
 brew parse-plist
 brew rcmdnk-sshrc
 brew screenutf8 --utf8
+
+# Other pip packages
+pip gcalcli
 
 # Other Cask applications
 cask adobe-creative-cloud
