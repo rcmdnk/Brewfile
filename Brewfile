@@ -15,6 +15,7 @@ brew clang-format
 brew cmake
 brew cmatrix
 brew colordiff
+brew cookiecutter
 brew coreutils
 brew cscope
 brew ctags
