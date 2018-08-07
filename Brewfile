@@ -6,6 +6,7 @@ brew autoconf
 brew automake
 brew bash
 brew bash-completion
+brew bats
 brew bdw-gc
 brew boost
 brew brew-pip
