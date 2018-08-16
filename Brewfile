@@ -27,6 +27,8 @@ brew fftw
 brew figlet
 brew fontconfig
 brew freetype
+brew fzf
+brew fzy
 brew gcc
 brew gd
 brew gdbm
@@ -85,6 +87,7 @@ brew openssl
 brew ossp-uuid
 brew pandoc
 brew pcre
+brew peco
 brew perl
 brew pixman
 brew pkg-config
