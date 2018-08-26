@@ -117,6 +117,7 @@ brew webp
 brew wget
 brew xrootd
 brew xz
+brew zplug
 brew zsh
 brew zsh-completions
 
