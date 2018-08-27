@@ -103,6 +103,7 @@ brew shellcheck
 brew sl
 brew socat
 brew source-highlight
+brew spark
 brew sphinx-doc
 brew sqlite
 brew tbb
