@@ -163,7 +163,7 @@ cask menubargmail
 tap rcmdnk/rcmdnkpac
 brew parse-plist
 brew rcmdnk-sshrc
-brew screenutf8 --utf8
+brew screenutf8
 
 # Other pip packages
 pip gcalcli
