@@ -7,6 +7,7 @@ brew autojump
 brew automake
 brew bash
 brew bash-completion
+brew bat
 brew bats
 brew bdw-gc
 brew boost
