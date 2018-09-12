@@ -148,9 +148,8 @@ cask quicklookase
 cask simplefloatingclock
 cask teamviewer
 cask timer
-cask vidyo
-cask vlc
-cask xrg
+cask virtualbox
+cask xquartz
 
 tap beeftornado/rmtree
 
@@ -194,8 +193,8 @@ cask silverlight
 cask skype
 cask the-unarchiver
 cask unetbootin
-cask virtualbox
-cask xquartz
+cask vlc
+cask xrg
 
 # App Store applications
 appstore 451732904 App Language Chooser (1.0)
