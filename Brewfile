@@ -88,6 +88,7 @@ brew openssl
 brew ossp-uuid
 brew pandoc
 brew pcre
+brew pcre2
 brew peco
 brew perl
 brew pixman
