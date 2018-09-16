@@ -10,6 +10,7 @@ brew bash-completion
 brew bat
 brew bats
 brew bdw-gc
+brew bonnie++
 brew boost
 brew brew-pip
 brew ccat
@@ -206,7 +207,7 @@ appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 409203825 Numbers (5.1)
 appstore 409201541 Pages (7.1)
 appstore 568494494 Pocket (1.7.9)
-appstore 1349670778 snipping-tool (1.2.2)
+appstore 1349670778 snipping-tool (1.3)
 appstore 495705418 Volume Reset (1.3)
 appstore 495945638 Wake Up Time (1.4)
 appstore 1059074180 WeatherBug (1.0.2)
