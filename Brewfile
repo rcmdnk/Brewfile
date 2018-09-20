@@ -150,8 +150,9 @@ cask quicklookase
 cask simplefloatingclock
 cask teamviewer
 cask timer
-cask virtualbox
-cask xquartz
+cask unetbootin
+cask vlc
+cask xrg
 
 tap beeftornado/rmtree
 
@@ -194,21 +195,21 @@ cask quicklook-json
 cask silverlight
 cask skype
 cask the-unarchiver
-cask unetbootin
-cask vlc
-cask xrg
+cask trailer
+cask virtualbox
+cask xquartz
 
 # App Store applications
 appstore 451732904 App Language Chooser (1.0)
 appstore 408981434 iMovie (10.1.9)
-appstore 409183694 Keynote (8.1)
-appstore 539883307 LINE (5.9.3)
+appstore 409183694 Keynote (8.2)
+appstore 539883307 LINE (5.10.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
-appstore 409203825 Numbers (5.1)
-appstore 409201541 Pages (7.1)
+appstore 409203825 Numbers (5.2)
+appstore 409201541 Pages (7.2)
 appstore 568494494 Pocket (1.7.9)
 appstore 1349670778 snipping-tool (1.3)
 appstore 495705418 Volume Reset (1.3)
 appstore 495945638 Wake Up Time (1.4)
 appstore 1059074180 WeatherBug (1.0.2)
-appstore 497799835 Xcode (9.4.1)
+appstore 497799835 Xcode (10.0)
