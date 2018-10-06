@@ -121,6 +121,7 @@ brew webp
 brew wget
 brew xrootd
 brew xz
+brew yank
 brew zplug
 brew zsh
 brew zsh-completions
@@ -204,7 +205,7 @@ cask xquartz
 appstore 451732904 App Language Chooser (1.0)
 appstore 408981434 iMovie (10.1.9)
 appstore 409183694 Keynote (8.2)
-appstore 539883307 LINE (5.10.0)
+appstore 539883307 LINE (5.10.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 409203825 Numbers (5.2)
 appstore 409201541 Pages (7.2)
