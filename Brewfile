@@ -63,6 +63,7 @@ brew libtool
 brew libunistring
 brew libuv
 brew libvterm
+brew libxml2
 brew libyaml
 brew little-cms2
 brew lua
@@ -77,6 +78,7 @@ brew mpfr
 brew msgpack
 brew multitail
 brew mysql
+brew ncurses
 brew neovim
 brew nkf
 brew nmap
@@ -84,6 +86,8 @@ brew no-more-secrets
 brew node
 brew numpy
 brew oniguruma
+brew openblas
+brew openjpeg
 brew openssh
 brew openssl
 brew ossp-uuid
@@ -210,8 +214,8 @@ appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 409203825 Numbers (5.2)
 appstore 409201541 Pages (7.2)
 appstore 568494494 Pocket (1.8.1)
-appstore 1349670778 snipping-tool (1.3)
+appstore 1349670778 snipping-tool (1.3.1)
 appstore 495705418 Volume Reset (1.3)
 appstore 495945638 Wake Up Time (1.4)
 appstore 1059074180 WeatherBug (1.0.2)
-appstore 497799835 Xcode (10.0)
+appstore 497799835 Xcode (10.1)
