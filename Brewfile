@@ -209,7 +209,7 @@ cask xquartz
 appstore 451732904 App Language Chooser (1.0)
 appstore 408981434 iMovie (10.1.10)
 appstore 409183694 Keynote (8.3)
-appstore 539883307 LINE (5.11.1)
+appstore 539883307 LINE (5.11.2)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 409203825 Numbers (5.3)
 appstore 409201541 Pages (7.3)
