@@ -119,7 +119,7 @@ brew thefuck
 brew tig
 brew tmux
 brew unibilium
-brew vim --with-lua
+brew vim
 brew w3m
 brew webp
 brew wget
