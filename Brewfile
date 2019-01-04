@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew adns
 brew autoconf
 brew autojump
 brew automake
@@ -38,7 +39,10 @@ brew gettext
 brew ghostscript
 brew ghq
 brew git
+brew git-crypt
 brew gmp
+brew gnupg
+brew gnutls
 brew go
 brew graphviz
 brew gsl
@@ -52,15 +56,21 @@ brew jpeg
 brew jq
 brew latex2rtf
 brew lesspipe
+brew libassuan
 brew libevent
 brew libffi
+brew libgcrypt
+brew libgpg-error
 brew libidn2
+brew libksba
 brew libmpc
 brew libpng
+brew libtasn1
 brew libtermkey
 brew libtiff
 brew libtool
 brew libunistring
+brew libusb
 brew libuv
 brew libvterm
 brew libxml2
@@ -80,10 +90,12 @@ brew multitail
 brew mysql
 brew ncurses
 brew neovim
+brew nettle
 brew nkf
 brew nmap
 brew no-more-secrets
 brew node
+brew npth
 brew numpy
 brew oniguruma
 brew openblas
@@ -91,11 +103,13 @@ brew openjpeg
 brew openssh
 brew openssl
 brew ossp-uuid
+brew p11-kit
 brew pandoc
 brew pcre
 brew pcre2
 brew peco
 brew perl
+brew pinentry
 brew pixman
 brew pkg-config
 brew protobuf
@@ -104,6 +118,7 @@ brew python
 brew python@2
 brew qt
 brew readline
+brew redpen
 brew root
 brew ruby
 brew shellcheck
@@ -118,6 +133,7 @@ brew telnet
 brew thefuck
 brew tig
 brew tmux
+brew trash
 brew unibilium
 brew vim
 brew w3m
