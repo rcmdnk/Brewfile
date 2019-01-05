@@ -134,6 +134,7 @@ brew thefuck
 brew tig
 brew tmux
 brew trash
+brew travis
 brew unibilium
 brew vim
 brew w3m
