@@ -40,17 +40,20 @@ brew ghostscript
 brew ghq
 brew git
 brew git-crypt
+brew glib
 brew gmp
 brew gnupg
 brew gnutls
 brew go
 brew graphviz
 brew gsl
+brew gts
 brew highlight
 brew hub
 brew icu4c
 brew imagemagick
 brew isl
+brew jasper
 brew jemalloc
 brew jpeg
 brew jq
@@ -64,6 +67,7 @@ brew libgpg-error
 brew libidn2
 brew libksba
 brew libmpc
+brew libomp
 brew libpng
 brew libtasn1
 brew libtermkey
@@ -90,6 +94,7 @@ brew multitail
 brew mysql
 brew ncurses
 brew neovim
+brew netpbm
 brew nettle
 brew nkf
 brew nmap
@@ -98,6 +103,7 @@ brew node
 brew npth
 brew numpy
 brew oniguruma
+brew open-mpi
 brew openblas
 brew openjpeg
 brew openssh
@@ -226,7 +232,7 @@ cask xrg
 appstore 451732904 App Language Chooser (1.0)
 appstore 408981434 iMovie (10.1.10)
 appstore 409183694 Keynote (8.3)
-appstore 539883307 LINE (5.12.0)
+appstore 539883307 LINE (5.12.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 409203825 Numbers (5.3)
 appstore 409201541 Pages (7.3)
