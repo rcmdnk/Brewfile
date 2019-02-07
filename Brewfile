@@ -153,6 +153,8 @@ brew zplug
 brew zsh
 brew zsh-completions
 
+tap homebrew/bundle
+
 tap homebrew/cask
 cask adobe-acrobat-reader
 cask appcleaner
@@ -194,7 +196,7 @@ cask menubargmail
 tap rcmdnk/rcmdnkpac
 brew parse-plist
 brew rcmdnk-sshrc
-brew screenutf8
+brew screenutf8 --utf8
 
 # Other pip packages
 pip gcalcli
