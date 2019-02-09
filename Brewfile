@@ -51,6 +51,7 @@ brew gts
 brew highlight
 brew hub
 brew icu4c
+brew ilmbase
 brew imagemagick
 brew isl
 brew jasper
@@ -60,10 +61,12 @@ brew jq
 brew latex2rtf
 brew lesspipe
 brew libassuan
+brew libde265
 brew libevent
 brew libffi
 brew libgcrypt
 brew libgpg-error
+brew libheif
 brew libidn2
 brew libksba
 brew libmpc
@@ -105,6 +108,7 @@ brew numpy
 brew oniguruma
 brew open-mpi
 brew openblas
+brew openexr
 brew openjpeg
 brew openssh
 brew openssl
@@ -146,6 +150,7 @@ brew vim
 brew w3m
 brew webp
 brew wget
+brew x265
 brew xrootd
 brew xz
 brew yank
