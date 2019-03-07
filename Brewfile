@@ -170,24 +170,25 @@ cask docker
 cask dupscanub
 cask firefox
 cask geektool
-cask google-cloud-sdk
-cask horndis
-cask hyperswitch
-cask iterm2
-cask jupyter-notebook-ql
-cask keycastr
-cask licecap
-cask macvim
+cask google-chrome
+cask google-japanese-ime
+cask hyper
+cask imageoptim
+cask java
+cask karabiner-elements
+cask league-of-legends
+cask mactex
 cask onyx
-cask qlmarkdown
-cask qlstephen
-cask quicklook-json
-cask silverlight
-cask skype
-cask the-unarchiver
-cask trailer
-cask virtualbox
-cask xquartz
+cask qlimagesize
+cask qlprettypatch
+cask quicklook-csv
+cask quicklookase
+cask simplefloatingclock
+cask teamviewer
+cask timer
+cask unetbootin
+cask vlc
+cask xrg
 
 tap beeftornado/rmtree
 
@@ -215,36 +216,36 @@ cask cooviewer
 cask dropbox
 cask evernote
 cask flip4mac
-cask google-chrome
-cask google-japanese-ime
-cask hyper
-cask imageoptim
-cask java
-cask karabiner-elements
-cask league-of-legends
-cask mactex
+cask google-backup-and-sync
+cask google-cloud-sdk
+cask horndis
+cask hyperswitch
+cask iterm2
+cask jupyter-notebook-ql
+cask keycastr
+cask licecap
+cask macvim
 cask qlcolorcode
-cask qlimagesize
-cask qlprettypatch
-cask quicklook-csv
-cask quicklookase
-cask simplefloatingclock
-cask teamviewer
-cask timer
-cask unetbootin
-cask vlc
-cask xrg
+cask qlmarkdown
+cask qlstephen
+cask quicklook-json
+cask silverlight
+cask skype
+cask the-unarchiver
+cask trailer
+cask virtualbox
+cask xquartz
 
 # App Store applications
 appstore 451732904 App Language Chooser (1.0)
 appstore 408981434 iMovie (10.1.10)
 appstore 409183694 Keynote (8.3)
-appstore 539883307 LINE (5.13.1)
+appstore 539883307 LINE (5.14.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 409203825 Numbers (5.3)
 appstore 409201541 Pages (7.3)
-appstore 568494494 Pocket (1.8.1)
-appstore 1349670778 snipping-tool (1.3.1)
+appstore 568494494 Pocket (1.8.2)
+appstore 1349670778 snipping-tool (1.4.1)
 appstore 495705418 Volume Reset (1.3)
 appstore 495945638 Wake Up Time (1.4)
 appstore 1059074180 WeatherBug (1.0.2)
