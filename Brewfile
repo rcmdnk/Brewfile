@@ -131,6 +131,7 @@ brew readline
 brew redpen
 brew root
 brew ruby
+brew shared-mime-info
 brew shellcheck
 brew sl
 brew socat
@@ -145,6 +146,7 @@ brew tig
 brew tmux
 brew trash
 brew travis
+brew unbound
 brew unibilium
 brew vim
 brew w3m
@@ -238,9 +240,9 @@ cask xquartz
 
 # App Store applications
 appstore 451732904 App Language Chooser (1.0)
-appstore 408981434 iMovie (10.1.10)
+appstore 408981434 iMovie (10.1.11)
 appstore 409183694 Keynote (8.3)
-appstore 539883307 LINE (5.14.0)
+appstore 539883307 LINE (5.15.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 409203825 Numbers (5.3)
 appstore 409201541 Pages (7.3)
