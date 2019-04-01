@@ -141,6 +141,7 @@ brew spark
 brew sphinx-doc
 brew sqlite
 brew sshfs
+brew st
 brew tbb
 brew telnet
 brew thefuck
@@ -195,6 +196,9 @@ cask virtualbox
 cask xquartz
 
 tap beeftornado/rmtree
+
+tap cjbassi/gotop
+brew gotop
 
 tap rcmdnk/file
 brew brew-file
