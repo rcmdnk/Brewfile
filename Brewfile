@@ -15,6 +15,7 @@ brew bdw-gc
 brew bonnie++
 brew boost
 brew brew-pip
+brew cairo
 brew ccat
 brew checkstyle
 brew clang-format
@@ -105,6 +106,8 @@ brew nmap
 brew no-more-secrets
 brew node
 brew npth
+brew nspr
+brew nss
 brew numpy
 brew oniguruma
 brew open-mpi
@@ -123,6 +126,7 @@ brew perl
 brew pinentry
 brew pixman
 brew pkg-config
+brew poppler
 brew protobuf
 brew pssh
 brew python
