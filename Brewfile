@@ -61,6 +61,7 @@ brew jemalloc
 brew jpeg
 brew jq
 brew latex2rtf
+brew ldns
 brew lesspipe
 brew libassuan
 brew libde265
@@ -250,7 +251,7 @@ cask vlc
 cask xrg
 
 # App Store applications
-appstore 497799835 com.apple.dt.Xcode (10.2)
+appstore 497799835 com.apple.dt.Xcode (10.2.1)
 appstore 408981434 com.apple.iMovieApp (10.1.11)
 appstore 409183694 com.apple.iWork.Keynote (9.0.1)
 appstore 409203825 com.apple.iWork.Numbers (6.0)
@@ -262,4 +263,4 @@ appstore 1349670778 com.mathpix.snipping-tool (1.4.1)
 appstore 715768417 com.microsoft.rdc.mac (8.0.30030)
 appstore 568494494 com.readitlater.PocketMac (1.8.2)
 appstore 495945638 com.rockysandstudio.WakeUpTime (1.4)
-appstore 539883307 jp.naver.line.mac (5.15.0)
+appstore 539883307 jp.naver.line.mac (5.16.0)
