@@ -151,7 +151,6 @@ brew tbb
 brew telnet
 brew thefuck
 brew tig
-brew tmux
 brew trash
 brew travis
 brew unbound
@@ -216,6 +215,7 @@ tap rcmdnk/rcmdnkpac
 brew parse-plist
 brew rcmdnk-sshrc
 brew screenutf8 --utf8
+brew smenu
 
 # Other pip packages
 pip gcalcli
@@ -253,7 +253,7 @@ cask xrg
 # App Store applications
 appstore 497799835 com.apple.dt.Xcode (10.2.1)
 appstore 408981434 com.apple.iMovieApp (10.1.11)
-appstore 409183694 com.apple.iWork.Keynote (9.0.1)
+appstore 409183694 com.apple.iWork.Keynote (9.0.2)
 appstore 409203825 com.apple.iWork.Numbers (6.0)
 appstore 409201541 com.apple.iWork.Pages (8.0)
 appstore 495705418 com.AverydeGruchy.Volume-Reset (1.3)
@@ -263,4 +263,4 @@ appstore 1349670778 com.mathpix.snipping-tool (1.4.1)
 appstore 715768417 com.microsoft.rdc.mac (8.0.30030)
 appstore 568494494 com.readitlater.PocketMac (1.8.2)
 appstore 495945638 com.rockysandstudio.WakeUpTime (1.4)
-appstore 539883307 jp.naver.line.mac (5.16.0)
+appstore 539883307 jp.naver.line.mac (5.16.2)
