@@ -252,7 +252,7 @@ cask xrg
 
 # App Store applications
 appstore 451732904 App Language Chooser (1.0)
-appstore 408981434 iMovie (10.1.11)
+appstore 408981434 iMovie (10.1.12)
 appstore 409183694 Keynote (9.0.2)
 appstore 539883307 LINE (5.16.2)
 appstore 1349670778 Mathpix Snipping Tool (1.4.1)
