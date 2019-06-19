@@ -90,6 +90,7 @@ brew lua
 brew lua@5.1
 brew luajit
 brew lz4
+brew lzo
 brew m-cli
 brew mackup
 brew mas
