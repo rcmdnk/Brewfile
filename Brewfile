@@ -255,7 +255,7 @@ cask xrg
 appstore 451732904 App Language Chooser (1.0)
 appstore 408981434 iMovie (10.1.12)
 appstore 409183694 Keynote (9.0.2)
-appstore 539883307 LINE (5.17.1)
+appstore 539883307 LINE (5.17.2)
 appstore 1349670778 Mathpix Snipping Tool (1.4.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 409203825 Numbers (6.0)
