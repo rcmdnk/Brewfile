@@ -126,6 +126,7 @@ brew pcre2
 brew peco
 brew perl
 brew pinentry
+brew pinentry-mac
 brew pixman
 brew pkg-config
 brew poppler
