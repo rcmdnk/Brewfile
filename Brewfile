@@ -52,6 +52,7 @@ brew gsl
 brew gts
 brew highlight
 brew hub
+brew hwloc
 brew icu4c
 brew ilmbase
 brew imagemagick
@@ -176,7 +177,6 @@ cask adobe-acrobat-reader
 cask appcleaner
 cask caffeine
 cask clipy
-cask controlplane
 cask docker
 cask dupscanub
 cask firefox
@@ -227,6 +227,7 @@ cask adobe-creative-cloud
 cask bettertouchtool
 cask cathode
 cask configure-application-dock-tile
+cask controlplane
 cask cooviewer
 cask dropbox
 cask evernote
@@ -256,13 +257,14 @@ cask xrg
 appstore 451732904 App Language Chooser (1.0)
 appstore 408981434 iMovie (10.1.12)
 appstore 409183694 Keynote (9.1)
-appstore 539883307 LINE (5.17.2)
-appstore 1349670778 Mathpix Snipping Tool (1.4.1)
+appstore 539883307 LINE (5.18.2)
+appstore 1349670778 Mathpix Snipping Tool (2.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 409203825 Numbers (6.1)
 appstore 409201541 Pages (8.1)
 appstore 568494494 Pocket (1.8.2)
+appstore 425955336 Skitch (2.8.4)
 appstore 495705418 Volume Reset (1.3)
 appstore 495945638 Wake Up Time (1.4)
 appstore 1059074180 WeatherBug (1.0.2)
-appstore 497799835 Xcode (10.2.1)
+appstore 497799835 Xcode (10.3)
