@@ -178,8 +178,8 @@ cask appcleaner
 cask caffeine
 cask clipy
 cask docker
-cask dupscanub
-cask firefox
+cask evernote
+cask flip4mac
 cask geektool
 cask google-chrome
 cask google-japanese-ime
@@ -229,9 +229,8 @@ cask cathode
 cask configure-application-dock-tile
 cask controlplane
 cask cooviewer
-cask dropbox
-cask evernote
-cask flip4mac
+cask dupscanub
+cask firefox
 cask google-backup-and-sync
 cask google-cloud-sdk
 cask horndis
@@ -257,7 +256,7 @@ cask xrg
 appstore 451732904 App Language Chooser (1.0)
 appstore 408981434 iMovie (10.1.12)
 appstore 409183694 Keynote (9.1)
-appstore 539883307 LINE (5.18.2)
+appstore 539883307 LINE (5.18.3)
 appstore 1349670778 Mathpix Snipping Tool (2.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 409203825 Numbers (6.1)
