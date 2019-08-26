@@ -177,6 +177,7 @@ cask adobe-acrobat-reader
 cask appcleaner
 cask caffeine
 cask clipy
+cask controlplane
 cask docker
 cask evernote
 cask flip4mac
@@ -227,7 +228,6 @@ cask adobe-creative-cloud
 cask bettertouchtool
 cask cathode
 cask configure-application-dock-tile
-cask controlplane
 cask cooviewer
 cask dupscanub
 cask firefox
