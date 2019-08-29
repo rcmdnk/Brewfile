@@ -119,6 +119,7 @@ brew openexr
 brew openjpeg
 brew openssh
 brew openssl
+brew openssl@1.1
 brew ossp-uuid
 brew p11-kit
 brew pandoc
@@ -197,10 +198,11 @@ cask qlstephen
 cask quicklook-json
 cask silverlight
 cask skype
-cask the-unarchiver
-cask trailer
-cask virtualbox
-cask xquartz
+cask teamviewer
+cask timer
+cask unetbootin
+cask vlc
+cask xrg
 
 tap beeftornado/rmtree
 
@@ -246,11 +248,11 @@ cask qlprettypatch
 cask quicklook-csv
 cask quicklookase
 cask simplefloatingclock
-cask teamviewer
-cask timer
-cask unetbootin
-cask vlc
-cask xrg
+cask slack
+cask the-unarchiver
+cask trailer
+cask virtualbox
+cask xquartz
 
 # App Store applications
 appstore 451732904 App Language Chooser (1.0)
