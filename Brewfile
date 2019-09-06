@@ -192,10 +192,11 @@ cask karabiner-elements
 cask league-of-legends
 cask mactex
 cask onyx
-cask qlcolorcode
-cask qlmarkdown
-cask qlstephen
-cask quicklook-json
+cask osxfuse
+cask qlimagesize
+cask qlprettypatch
+cask quicklook-csv
+cask quicklookase
 cask silverlight
 cask skype
 cask teamviewer
@@ -242,11 +243,12 @@ cask jupyter-notebook-ql
 cask keycastr
 cask licecap
 cask macvim
-cask osxfuse
-cask qlimagesize
-cask qlprettypatch
-cask quicklook-csv
-cask quicklookase
+cask optimage
+cask qlcolorcode
+cask qlmarkdown
+cask qlstephen
+cask quicklook-json
+cask sampler
 cask simplefloatingclock
 cask slack
 cask the-unarchiver
@@ -258,8 +260,8 @@ cask xquartz
 appstore 451732904 App Language Chooser (1.0)
 appstore 408981434 iMovie (10.1.12)
 appstore 409183694 Keynote (9.1)
-appstore 539883307 LINE (5.18.3)
-appstore 1349670778 Mathpix Snipping Tool (2.0)
+appstore 539883307 LINE (5.19.0)
+appstore 1349670778 Mathpix Snipping Tool (2.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 409203825 Numbers (6.1)
 appstore 409201541 Pages (8.1)
