@@ -175,9 +175,9 @@ tap homebrew/bundle
 
 tap homebrew/cask
 cask adobe-acrobat-reader
-cask appcleaner
-cask caffeine
-cask clipy
+cask android-platform-tools
+cask bettertouchtool
+cask cathode
 cask controlplane
 cask docker
 cask evernote
@@ -228,8 +228,9 @@ pip gcalcli
 
 # Other Cask applications
 cask adobe-creative-cloud
-cask bettertouchtool
-cask cathode
+cask appcleaner
+cask caffeine
+cask clipy
 cask configure-application-dock-tile
 cask cooviewer
 cask dupscanub
