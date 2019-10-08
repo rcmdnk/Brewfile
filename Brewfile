@@ -263,7 +263,7 @@ cask xquartz
 
 # App Store applications
 appstore 451732904 App Language Chooser (1.0)
-appstore 408981434 iMovie (10.1.12)
+appstore 408981434 iMovie (10.1.13)
 appstore 409183694 Keynote (9.2)
 appstore 539883307 LINE (5.19.0)
 appstore 1349670778 Mathpix Snipping Tool (2.1)
@@ -275,4 +275,4 @@ appstore 425955336 Skitch (2.8.4)
 appstore 495705418 Volume Reset (1.3)
 appstore 495945638 Wake Up Time (1.4)
 appstore 1059074180 WeatherBug (1.0.2)
-appstore 497799835 Xcode (11.0)
+appstore 497799835 Xcode (11.1)
