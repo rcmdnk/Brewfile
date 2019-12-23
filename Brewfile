@@ -17,6 +17,7 @@ brew boost
 brew brew-pip
 brew cairo
 brew ccat
+brew cfitsio
 brew checkstyle
 brew clang-format
 brew cmake
@@ -32,6 +33,7 @@ brew fftw
 brew figlet
 brew fontconfig
 brew freetype
+brew fribidi
 brew fzf
 brew fzy
 brew gcc
@@ -47,9 +49,11 @@ brew gmp
 brew gnupg
 brew gnutls
 brew go
+brew graphite2
 brew graphviz
 brew gsl
 brew gts
+brew harfbuzz
 brew highlight
 brew hub
 brew hwloc
@@ -118,11 +122,11 @@ brew openblas
 brew openexr
 brew openjpeg
 brew openssh
-brew openssl
 brew openssl@1.1
 brew ossp-uuid
 brew p11-kit
 brew pandoc
+brew pango
 brew pcre
 brew pcre2
 brew peco
@@ -133,6 +137,7 @@ brew pixman
 brew pkg-config
 brew poppler
 brew protobuf
+brew protobuf@3.7
 brew pssh
 brew python
 brew python@2
@@ -140,6 +145,7 @@ brew qt
 brew readline
 brew redpen
 brew root
+brew rrdtool
 brew ruby
 brew shared-mime-info
 brew shellcheck
@@ -194,21 +200,38 @@ cask java
 cask karabiner-elements
 cask league-of-legends
 cask mactex
-cask onyx
-cask osxfuse
-cask qlimagesize
-cask qlprettypatch
-cask quicklook-csv
-cask quicklookase
-cask silverlight
-cask skype
-cask teamviewer
-cask timer
-cask unetbootin
-cask vlc
-cask xrg
+cask miniconda
+cask optimage
+cask qlcolorcode
+cask qlmarkdown
+cask qlstephen
+cask quicklook-json
+cask sampler
+cask simplefloatingclock
+cask slack
+cask the-unarchiver
+cask trailer
+cask virtualbox
+cask xquartz
 
 tap beeftornado/rmtree
+
+tap caskroom/cask
+cask adobe-creative-cloud
+cask caffeine
+cask dupscanub
+cask google-backup-and-sync
+cask horndis
+cask iterm2
+cask keycastr
+cask macvim
+cask onyx
+cask qlimagesize
+cask quicklook-csv
+cask silverlight
+cask teamviewer
+cask unetbootin
+cask xrg
 
 tap cjbassi/gotop
 brew gotop
@@ -223,56 +246,42 @@ cask menubargmail
 tap rcmdnk/rcmdnkpac
 brew parse-plist
 brew rcmdnk-sshrc
-brew screenutf8 --utf8
+brew screenutf8
 brew smenu
 
 # Other pip packages
 pip gcalcli
 
 # Other Cask applications
-cask adobe-creative-cloud
 cask appcleaner
-cask caffeine
 cask clipy
 cask configure-application-dock-tile
 cask cooviewer
-cask dupscanub
 cask firefox
 cask font-consolas-for-powerline
-cask google-backup-and-sync
 cask google-cloud-sdk
-cask horndis
 cask hyperswitch
-cask iterm2
 cask jupyter-notebook-ql
-cask keycastr
 cask licecap
-cask macvim
-cask optimage
-cask qlcolorcode
-cask qlmarkdown
-cask qlstephen
-cask quicklook-json
-cask sampler
-cask simplefloatingclock
-cask slack
-cask the-unarchiver
-cask trailer
-cask virtualbox
-cask xquartz
+cask osxfuse
+cask qlprettypatch
+cask quicklookase
+cask skype
+cask timer
+cask vlc
 
 # App Store applications
 appstore 451732904 App Language Chooser (1.0)
-appstore 408981434 iMovie (10.1.13)
-appstore 409183694 Keynote (9.2)
-appstore 539883307 LINE (5.19.0)
+appstore 408981434 iMovie (10.1.14)
+appstore 409183694 Keynote (9.2.1)
+appstore 539883307 LINE (5.21.2)
 appstore 1349670778 Mathpix Snipping Tool (2.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
-appstore 409203825 Numbers (6.2)
-appstore 409201541 Pages (8.2)
-appstore 568494494 Pocket (1.8.4)
+appstore 409203825 Numbers (6.2.1)
+appstore 409201541 Pages (8.2.1)
+appstore 568494494 Pocket (1.8.5)
 appstore 425955336 Skitch (2.8.4)
 appstore 495705418 Volume Reset (1.3)
 appstore 495945638 Wake Up Time (1.4)
 appstore 1059074180 WeatherBug (1.0.2)
-appstore 497799835 Xcode (11.1)
+appstore 497799835 Xcode (11.3)
