@@ -141,6 +141,7 @@ brew protobuf@3.7
 brew pssh
 brew python
 brew python@2
+brew python@3.8
 brew qt
 brew readline
 brew redpen
@@ -206,13 +207,13 @@ cask qlcolorcode
 cask qlmarkdown
 cask qlstephen
 cask quicklook-json
-cask sampler
-cask simplefloatingclock
-cask slack
-cask the-unarchiver
-cask trailer
-cask virtualbox
-cask xquartz
+cask silverlight
+cask skype
+cask teamviewer
+cask timer
+cask unetbootin
+cask vlc
+cask xrg
 
 tap beeftornado/rmtree
 
@@ -228,10 +229,9 @@ cask macvim
 cask onyx
 cask qlimagesize
 cask quicklook-csv
-cask silverlight
-cask teamviewer
-cask unetbootin
-cask xrg
+cask simplefloatingclock
+cask the-unarchiver
+cask virtualbox
 
 tap cjbassi/gotop
 brew gotop
@@ -266,9 +266,10 @@ cask licecap
 cask osxfuse
 cask qlprettypatch
 cask quicklookase
-cask skype
-cask timer
-cask vlc
+cask sampler
+cask slack
+cask trailer
+cask xquartz
 
 # App Store applications
 appstore 451732904 App Language Chooser (1.0)
