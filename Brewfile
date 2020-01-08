@@ -197,10 +197,10 @@ cask google-chrome
 cask google-japanese-ime
 cask hyper
 cask imageoptim
-cask java
-cask karabiner-elements
-cask league-of-legends
-cask mactex
+cask jupyter-notebook-ql
+cask keycastr
+cask licecap
+cask macvim
 cask miniconda
 cask optimage
 cask qlcolorcode
@@ -224,8 +224,7 @@ cask dupscanub
 cask google-backup-and-sync
 cask horndis
 cask iterm2
-cask keycastr
-cask macvim
+cask league-of-legends
 cask onyx
 cask qlimagesize
 cask quicklook-csv
@@ -261,8 +260,8 @@ cask firefox
 cask font-consolas-for-powerline
 cask google-cloud-sdk
 cask hyperswitch
-cask jupyter-notebook-ql
-cask licecap
+cask karabiner-elements
+cask mactex
 cask osxfuse
 cask qlprettypatch
 cask quicklookase
