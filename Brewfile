@@ -49,6 +49,7 @@ brew gmp
 brew gnupg
 brew gnutls
 brew go
+brew gotop
 brew graphite2
 brew graphviz
 brew gsl
@@ -209,6 +210,7 @@ cask hyper
 cask hyperswitch
 cask imageoptim
 cask iterm2
+cask java
 cask jupyter-notebook-ql
 cask karabiner-elements
 cask keycastr
@@ -247,7 +249,6 @@ tap beeftornado/rmtree
 tap caskroom/cask
 
 tap cjbassi/gotop
-brew gotop
 
 tap rcmdnk/file
 brew brew-file
