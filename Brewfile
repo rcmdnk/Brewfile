@@ -141,7 +141,6 @@ brew protobuf
 brew protobuf@3.7
 brew pssh
 brew python
-brew python@2
 brew python@3.8
 brew qt
 brew readline
@@ -262,6 +261,9 @@ brew parse-plist
 brew rcmdnk-sshrc
 brew screenutf8
 brew smenu
+
+# Other Homebrew packages
+brew python@2
 
 # Other pip packages
 pip gcalcli
