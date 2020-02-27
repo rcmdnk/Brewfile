@@ -70,9 +70,11 @@ brew latex2rtf
 brew ldns
 brew lesspipe
 brew libassuan
+brew libcbor
 brew libde265
 brew libevent
 brew libffi
+brew libfido2
 brew libgcrypt
 brew libgpg-error
 brew libheif
@@ -121,6 +123,7 @@ brew oniguruma
 brew open-mpi
 brew openblas
 brew openexr
+brew openjdk
 brew openjpeg
 brew openssh
 brew openssl@1.1
@@ -277,7 +280,7 @@ cask sampler
 appstore 451732904 App Language Chooser (1.0)
 appstore 408981434 iMovie (10.1.14)
 appstore 409183694 Keynote (9.2.1)
-appstore 539883307 LINE (5.21.3)
+appstore 539883307 LINE (5.22.0)
 appstore 1349670778 Mathpix Snipping Tool (2.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 409203825 Numbers (6.2.1)
