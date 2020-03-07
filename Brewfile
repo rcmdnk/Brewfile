@@ -180,6 +180,7 @@ brew yank
 brew zplug
 brew zsh
 brew zsh-completions
+brew zstd
 
 tap homebrew/bundle
 
