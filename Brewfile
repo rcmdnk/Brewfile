@@ -233,6 +233,7 @@ cask qlstephen
 cask quicklook-csv
 cask quicklook-json
 cask quicklookase
+cask raspberry-pi-imager
 cask silverlight
 cask simplefloatingclock
 cask skype
@@ -253,6 +254,9 @@ tap caskroom/cask
 
 tap cjbassi/gotop
 
+## Direct install
+brew python@2
+
 tap rcmdnk/file
 brew brew-file
 
@@ -265,9 +269,6 @@ brew parse-plist
 brew rcmdnk-sshrc
 brew screenutf8
 brew smenu
-
-# Other Homebrew packages
-brew python@2
 
 # Other pip packages
 pip gcalcli
