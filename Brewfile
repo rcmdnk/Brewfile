@@ -11,6 +11,7 @@ brew bash
 brew bash-completion
 brew bat
 brew bats-core
+brew bazel
 brew bdw-gc
 brew bonnie++
 brew boost
@@ -188,6 +189,9 @@ tap homebrew/cask-fonts
 cask font-cascadia
 cask font-consolas-for-powerline
 
+tap homebrew/cask-versions
+cask adoptopenjdk8
+
 tap homebrew/cask
 cask adobe-acrobat-reader
 cask adobe-creative-cloud
@@ -195,7 +199,6 @@ cask android-platform-tools
 cask appcleaner
 cask bettertouchtool
 cask caffeine
-cask cathode
 cask clipy
 cask controlplane
 cask docker
@@ -254,9 +257,6 @@ tap caskroom/cask
 
 tap cjbassi/gotop
 
-## Direct install
-brew python@2
-
 tap rcmdnk/file
 brew brew-file
 
@@ -270,20 +270,22 @@ brew rcmdnk-sshrc
 brew screenutf8
 brew smenu
 
+# Other Homebrew packages
+brew python@2
+
 # Other pip packages
 pip gcalcli
 
 # Other Cask applications
+cask cathode
 cask configure-application-dock-tile
 cask cooviewer
 cask sampler
 
 # App Store applications
 appstore 451732904 App Language Chooser (1.0)
-appstore 408981434 iMovie (10.1.14)
 appstore 409183694 Keynote (9.2.1)
-appstore 539883307 LINE (5.22.0)
-appstore 1349670778 Mathpix Snipping Tool (2.1)
+appstore 539883307 LINE (5.23.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 409203825 Numbers (6.2.1)
 appstore 409201541 Pages (8.2.1)
@@ -292,4 +294,4 @@ appstore 425955336 Skitch (2.8.4)
 appstore 495705418 Volume Reset (1.3)
 appstore 495945638 Wake Up Time (1.4)
 appstore 1059074180 WeatherBug (1.0.2)
-appstore 497799835 Xcode (11.3.1)
+appstore 497799835 Xcode (11.4)
