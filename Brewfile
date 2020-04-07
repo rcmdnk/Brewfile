@@ -284,11 +284,11 @@ cask sampler
 
 # App Store applications
 appstore 451732904 App Language Chooser (1.0)
-appstore 409183694 Keynote (9.2.1)
+appstore 409183694 Keynote (10.0)
 appstore 539883307 LINE (5.23.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
-appstore 409203825 Numbers (6.2.1)
-appstore 409201541 Pages (8.2.1)
+appstore 409203825 Numbers (10.0)
+appstore 409201541 Pages (10.0)
 appstore 568494494 Pocket (1.8.5)
 appstore 425955336 Skitch (2.8.4)
 appstore 495705418 Volume Reset (1.3)
