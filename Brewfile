@@ -45,6 +45,7 @@ brew ghostscript
 brew ghq
 brew git
 brew git-crypt
+brew gl2ps
 brew glib
 brew gmp
 brew gnupg
