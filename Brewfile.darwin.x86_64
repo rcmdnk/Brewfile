@@ -1,0 +1,18 @@
+
+# tap repositories and their packages
+
+tap homebrew/core
+
+tap homebrew/bundle
+
+tap homebrew/cask-versions
+
+tap homebrew/cask
+
+tap heroku/brew
+
+tap rcmdnk/file
+
+tap rcmdnk/rcmdnkcask
+
+tap rcmdnk/rcmdnkpac
