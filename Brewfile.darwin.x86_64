@@ -233,6 +233,7 @@ tap homebrew/bundle
 tap homebrew/cask-versions
 
 tap homebrew/cask
+cask edfbrowser
 cask hyperswitch
 cask image2icon
 cask iterm2
@@ -260,6 +261,7 @@ brew screenutf8
 # Below applications were installed by Cask,
 # but do not have corresponding casks.
 
+#cask edfbrowser
 #cask hyperswitch
 #cask image2icon
 #cask iterm2
