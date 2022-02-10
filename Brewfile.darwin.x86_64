@@ -183,7 +183,6 @@ brew peco
 brew perl
 brew pixman
 brew pkg-config
-brew poetry
 brew poppler
 brew protobuf
 brew python@3.10
