@@ -86,6 +86,7 @@ brew latex2rtf
 brew leptonica
 brew libarchive
 brew libass
+brew libavif
 brew libb2
 brew libbluray
 brew libcbor
@@ -101,6 +102,7 @@ brew libidn
 brew libidn2
 brew liblqr
 brew libmaxminddb
+brew libmng
 brew libmpc
 brew libnghttp2
 brew libogg
