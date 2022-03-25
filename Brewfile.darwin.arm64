@@ -10,7 +10,15 @@ tap homebrew/cask-versions
 tap homebrew/cask
 cask docker
 
+tap heroku/brew
+
 tap rcmdnk/file
 
 tap rcmdnk/rcmdnkcask
 
+tap rcmdnk/rcmdnkpac
+
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask docker

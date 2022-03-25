@@ -2,10 +2,6 @@
 # tap repositories and their packages
 
 tap homebrew/core
-brew hdf5
-brew openssl@3
-brew szip
-brew zlib
 brew embulk
 brew openjdk@8
 
@@ -22,3 +18,8 @@ tap rcmdnk/file
 tap rcmdnk/rcmdnkcask
 
 tap rcmdnk/rcmdnkpac
+
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask zoom
