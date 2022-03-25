@@ -175,7 +175,6 @@ brew open-mpi
 brew openblas
 brew opencore-amr
 brew openexr
-brew openjdk@8
 brew openjpeg
 brew openldap
 brew openssl@1.1
