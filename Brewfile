@@ -34,7 +34,6 @@ brew docbook
 brew docbook-xsl
 brew docker
 brew double-conversion
-brew embulk
 brew ffmpeg
 brew fftw
 brew fish
@@ -267,7 +266,6 @@ cask ngrok
 cask notion
 cask slack
 cask wireshark
-cask zoom
 
 tap heroku/brew
 brew heroku
