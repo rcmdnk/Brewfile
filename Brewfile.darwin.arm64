@@ -14,9 +14,3 @@ tap rcmdnk/file
 
 tap rcmdnk/rcmdnkcask
 
-tap rcmdnk/rcmdnkpac
-
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask docker
