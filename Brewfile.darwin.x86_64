@@ -10,6 +10,7 @@ tap homebrew/bundle
 tap homebrew/cask-versions
 
 tap homebrew/cask
+cask zoom
 
 tap heroku/brew
 
