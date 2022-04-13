@@ -9,6 +9,7 @@ tap homebrew/cask-versions
 
 tap homebrew/cask
 cask docker
+cask firefox
 
 tap heroku/brew
 
@@ -22,6 +23,7 @@ tap rcmdnk/rcmdnkpac
 # but do not have corresponding casks.
 
 #cask docker
+#cask firefox
 
 # App Store applications
 appstore 409183694   Keynote     (12.0)
