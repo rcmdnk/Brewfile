@@ -282,7 +282,6 @@ brew screenutf8
 
 # App Store applications
 appstore 682658836   GarageBand  (10.4.6)
-appstore 408981434   iMovie      (10.3.1)
 
 # Main file
 main ./Brewfile.$PLATFORM.$HOSTTYPE

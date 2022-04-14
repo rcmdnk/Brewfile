@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew libraw
 
 tap homebrew/bundle
 
@@ -26,6 +27,7 @@ tap rcmdnk/rcmdnkpac
 #cask firefox
 
 # App Store applications
+appstore 408981434   iMovie      (10.3.2)
 appstore 409183694   Keynote     (12.0)
 appstore 409203825   Numbers     (12.0)
 appstore 409201541   Pages       (12.0)
