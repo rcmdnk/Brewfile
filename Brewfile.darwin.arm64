@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew jpeg-turbo
 brew libraw
 
 tap homebrew/bundle
