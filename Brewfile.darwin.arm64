@@ -18,6 +18,7 @@ tap heroku/brew
 tap rcmdnk/file
 
 tap rcmdnk/rcmdnkcask
+cask menubargmail
 
 tap rcmdnk/rcmdnkpac
 
@@ -26,6 +27,7 @@ tap rcmdnk/rcmdnkpac
 
 #cask docker
 #cask firefox
+#cask menubargmail
 
 # App Store applications
 appstore 408981434   iMovie      (10.3.3)
