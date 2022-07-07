@@ -3,8 +3,6 @@
 
 tap homebrew/core
 brew embulk
-brew jpeg-turbo
-brew libraw
 brew openjdk@8
 
 tap homebrew/bundle
@@ -12,7 +10,6 @@ tap homebrew/bundle
 tap homebrew/cask-versions
 
 tap homebrew/cask
-cask zoom
 
 tap heroku/brew
 
@@ -21,14 +18,3 @@ tap rcmdnk/file
 tap rcmdnk/rcmdnkcask
 
 tap rcmdnk/rcmdnkpac
-
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask zoom
-
-# App Store applications
-appstore 408981434   iMovie      (10.3.3)
-appstore 409183694   Keynote     (12.1)
-appstore 409203825   Numbers     (12.1)
-appstore 409201541   Pages       (12.1)

@@ -80,6 +80,7 @@ brew jasper
 brew jbig2dec
 brew jemalloc
 brew jpeg
+brew jpeg-turbo
 brew jpeg-xl
 brew jq
 brew lame
@@ -111,6 +112,7 @@ brew libomp
 brew libpng
 brew libproxy
 brew libpthread-stubs
+brew libraw
 brew librist
 brew librsvg
 brew libsamplerate
@@ -253,6 +255,7 @@ cask caffeine
 cask chatwork
 cask clipy
 cask edfbrowser
+cask firefox
 cask google-japanese-ime
 cask hyperswitch
 cask image2icon
@@ -274,14 +277,12 @@ tap rcmdnk/file
 brew brew-file
 
 tap rcmdnk/rcmdnkcask
+cask menubargmail
 cask vem
 
 tap rcmdnk/rcmdnkpac
 brew parse-plist
 brew screenutf8
-
-# App Store applications
-appstore 682658836   GarageBand  (10.4.6)
 
 # Main file
 main ./Brewfile.$PLATFORM.$HOSTTYPE

@@ -2,8 +2,6 @@
 # tap repositories and their packages
 
 tap homebrew/core
-brew jpeg-turbo
-brew libraw
 
 tap homebrew/bundle
 
@@ -11,14 +9,12 @@ tap homebrew/cask-versions
 
 tap homebrew/cask
 cask docker
-cask firefox
 
 tap heroku/brew
 
 tap rcmdnk/file
 
 tap rcmdnk/rcmdnkcask
-cask menubargmail
 
 tap rcmdnk/rcmdnkpac
 
@@ -26,11 +22,9 @@ tap rcmdnk/rcmdnkpac
 # but do not have corresponding casks.
 
 #cask docker
-#cask firefox
-#cask menubargmail
 
 # App Store applications
-appstore 408981434   iMovie      (10.3.3)
-appstore 409183694   Keynote     (12.1)
-appstore 409203825   Numbers     (12.1)
-appstore 409201541   Pages       (12.1)
+appstore 408981434   iMovie   (10.3.3)
+appstore 409183694   Keynote  (12.1)
+appstore 409203825   Numbers  (12.1)
+appstore 409201541   Pages    (12.1)
