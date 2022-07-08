@@ -3,6 +3,9 @@
 
 tap homebrew/core
 brew bat
+brew libavif
+brew libmng
+brew python@3.9
 
 tap homebrew/bundle
 
