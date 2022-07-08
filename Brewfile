@@ -71,7 +71,6 @@ brew latex2rtf
 brew leptonica
 brew libarchive
 brew libass
-brew libavif
 brew libb2
 brew libbluray
 brew libcbor
@@ -84,7 +83,6 @@ brew libgpg-error
 brew libheif
 brew liblqr
 brew libmaxminddb
-brew libmng
 brew libogg
 brew libomp
 brew libproxy
@@ -138,7 +136,6 @@ brew poppler
 brew pre-commit
 brew pyenv
 brew python@3.8
-brew python@3.9
 brew qt
 brew qt@5
 brew rrdtool
