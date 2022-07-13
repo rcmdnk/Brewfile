@@ -13,6 +13,7 @@ tap homebrew/cask-versions
 
 tap homebrew/cask
 cask docker
+cask licecap
 
 tap heroku/brew
 
@@ -27,6 +28,7 @@ brew ec2
 # but do not have corresponding casks.
 
 #cask docker
+#cask licecap
 
 # App Store applications
 appstore 408981434   iMovie   (10.3.3)
