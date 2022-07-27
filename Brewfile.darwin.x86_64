@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew awscli
 brew brotli
 brew embulk
 brew fontconfig
@@ -57,7 +58,6 @@ brew pcre2
 brew pixman
 brew pkg-config
 brew protobuf
-brew python@3.10
 brew rav1e
 brew rtmpdump
 brew rubberband
@@ -87,7 +87,6 @@ tap homebrew/bundle
 tap homebrew/cask-versions
 
 tap homebrew/cask
-cask zoom
 
 tap heroku/brew
 
@@ -97,13 +96,3 @@ tap rcmdnk/rcmdnkcask
 
 tap rcmdnk/rcmdnkpac
 
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask zoom
-
-# App Store applications
-appstore 408981434   iMovie   (10.3.3)
-appstore 409183694   Keynote  (12.1)
-appstore 409203825   Numbers  (12.1)
-appstore 409201541   Pages    (12.1)

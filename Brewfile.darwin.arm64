@@ -5,15 +5,19 @@ tap homebrew/core
 brew bat
 brew libavif
 brew libmng
+brew python@3.10
 brew python@3.9
 
 tap homebrew/bundle
 
 tap homebrew/cask-versions
 
+tap homebrew/services
+
 tap homebrew/cask
 cask docker
 cask licecap
+cask zoom
 
 tap heroku/brew
 
@@ -22,13 +26,13 @@ tap rcmdnk/file
 tap rcmdnk/rcmdnkcask
 
 tap rcmdnk/rcmdnkpac
-brew ec2
 
 # Below applications were installed by Cask,
 # but do not have corresponding casks.
 
 #cask docker
 #cask licecap
+#cask zoom
 
 # App Store applications
 appstore 408981434   iMovie   (10.3.3)

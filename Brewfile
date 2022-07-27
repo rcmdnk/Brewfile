@@ -6,7 +6,6 @@ brew aom
 brew assimp
 brew autoconf
 brew automake
-brew awscli
 brew bash
 brew bash-completion
 brew bash-snippets
@@ -135,7 +134,6 @@ brew perl
 brew poppler
 brew pre-commit
 brew pyenv
-brew python@3.8
 brew qt
 brew qt@5
 brew rrdtool
