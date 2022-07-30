@@ -16,6 +16,7 @@ tap homebrew/services
 
 tap homebrew/cask
 cask docker
+cask licecap
 cask zoom
 
 tap heroku/brew
@@ -30,6 +31,7 @@ tap rcmdnk/rcmdnkpac
 # but do not have corresponding casks.
 
 #cask docker
+#cask licecap
 #cask zoom
 
 # App Store applications
