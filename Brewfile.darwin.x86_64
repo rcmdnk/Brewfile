@@ -40,6 +40,7 @@ brew lzo
 brew m4
 brew mpfr
 brew ncurses
+brew neovim
 brew netpbm
 brew nettle
 brew oniguruma
@@ -93,6 +94,7 @@ tap homebrew/cask
 tap heroku/brew
 
 tap rcmdnk/file
+brew brew-file
 
 tap rcmdnk/rcmdnkcask
 
