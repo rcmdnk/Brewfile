@@ -3,8 +3,10 @@
 
 tap homebrew/core
 brew bat
+brew gcc
 brew libavif
 brew libmng
+brew neovim
 brew python@3.10
 brew python@3.9
 

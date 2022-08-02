@@ -119,7 +119,6 @@ brew mosh
 brew msgpack
 brew mypy
 brew mysql
-brew neovim
 brew nghttp2
 brew ninja
 brew node
@@ -183,7 +182,6 @@ brew heroku
 brew heroku-node
 
 tap rcmdnk/file
-brew brew-file
 
 tap rcmdnk/rcmdnkcask
 cask menubargmail
