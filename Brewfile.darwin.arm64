@@ -2,13 +2,6 @@
 # tap repositories and their packages
 
 tap homebrew/core
-brew bat
-brew gcc
-brew libavif
-brew libmng
-brew neovim
-brew python@3.10
-brew python@3.9
 
 tap homebrew/bundle
 
@@ -17,9 +10,6 @@ tap homebrew/cask-versions
 tap homebrew/services
 
 tap homebrew/cask
-cask docker
-cask licecap
-cask zoom
 
 tap heroku/brew
 
@@ -28,6 +18,20 @@ tap rcmdnk/file
 tap rcmdnk/rcmdnkcask
 
 tap rcmdnk/rcmdnkpac
+
+# Other Homebrew packages
+brew bat
+brew gcc
+brew libavif
+brew libmng
+brew neovim
+brew python@3.10
+brew python@3.9
+
+# Other Cask applications
+cask docker
+cask licecap
+cask zoom
 
 # Below applications were installed by Cask,
 # but do not have corresponding casks.
