@@ -94,7 +94,6 @@ tap homebrew/cask
 tap heroku/brew
 
 tap rcmdnk/file
-brew brew-file
 
 tap rcmdnk/rcmdnkcask
 
