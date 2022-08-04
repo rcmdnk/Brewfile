@@ -2,6 +2,22 @@
 # tap repositories and their packages
 
 tap homebrew/core
+
+tap homebrew/bundle
+
+tap homebrew/cask-versions
+
+tap homebrew/cask
+
+tap heroku/brew
+
+tap rcmdnk/file
+
+tap rcmdnk/rcmdnkcask
+
+tap rcmdnk/rcmdnkpac
+
+# Other Homebrew packages
 brew aom
 brew assimp
 brew autoconf
@@ -57,6 +73,8 @@ brew gsl
 brew gts
 brew guile
 brew harfbuzz
+brew heroku
+brew heroku-node
 brew hub
 brew hunspell
 brew hwloc
@@ -127,6 +145,7 @@ brew nss
 brew numpy
 brew optipng
 brew pandoc
+brew parse-plist
 brew pdf2svg
 brew peco
 brew perl
@@ -138,6 +157,7 @@ brew qt@5
 brew rrdtool
 brew ruby
 brew rust
+brew screenutf8
 brew shellcheck
 brew sl
 brew socat
@@ -151,12 +171,8 @@ brew vim
 brew wget
 brew xrootd
 
-tap homebrew/bundle
-
-tap homebrew/cask-versions
+# Other Cask applications
 cask adoptopenjdk8
-
-tap homebrew/cask
 cask bettertouchtool
 cask brave-browser
 cask caffeine
@@ -170,26 +186,14 @@ cask image2icon
 cask iterm2
 cask karabiner-elements
 cask mactex
+cask menubargmail
 cask miniconda
 cask miro
 cask ngrok
 cask notion
 cask slack
-cask wireshark
-
-tap heroku/brew
-brew heroku
-brew heroku-node
-
-tap rcmdnk/file
-
-tap rcmdnk/rcmdnkcask
-cask menubargmail
 cask vem
-
-tap rcmdnk/rcmdnkpac
-brew parse-plist
-brew screenutf8
+cask wireshark
 
 # Main file
 main ./Brewfile.$PLATFORM.$HOSTTYPE
