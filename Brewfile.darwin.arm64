@@ -29,13 +29,6 @@ tap rcmdnk/rcmdnkcask
 
 tap rcmdnk/rcmdnkpac
 
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask docker
-#cask licecap
-#cask zoom
-
 # App Store applications
 appstore 408981434   iMovie   (10.3.3)
 appstore 409183694   Keynote  (12.1)
