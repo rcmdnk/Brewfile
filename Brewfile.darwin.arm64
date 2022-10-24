@@ -25,6 +25,7 @@ cask zoom
 tap heroku/brew
 
 tap rcmdnk/file
+brew brew-file
 
 tap rcmdnk/rcmdnkcask
 
