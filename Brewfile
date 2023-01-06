@@ -29,17 +29,14 @@ brew dbus
 brew deno
 brew docbook
 brew docbook-xsl
-brew docker
 brew double-conversion
 brew ffmpeg
 brew fftw
 brew fish
 brew flac
-brew flake8
 brew frei0r
 brew fribidi
 brew fzf
-brew gcutil
 brew gd
 brew gdk-pixbuf
 brew ghq
@@ -124,14 +121,12 @@ brew ninja
 brew node
 brew nspr
 brew nss
-brew numpy
 brew optipng
 brew pandoc
 brew pdf2svg
 brew peco
 brew perl
 brew poppler
-brew pre-commit
 brew pyenv
 brew qt
 brew qt@5
@@ -146,7 +141,6 @@ brew sphinx-doc
 brew tbb
 brew tcl-tk
 brew terraform
-brew terraforming
 brew vim
 brew wget
 brew xrootd
@@ -180,8 +174,6 @@ cask wireshark
 tap heroku/brew
 brew heroku
 brew heroku-node
-
-tap rcmdnk/file
 
 tap rcmdnk/rcmdnkcask
 cask menubargmail

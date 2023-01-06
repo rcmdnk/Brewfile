@@ -4,7 +4,6 @@
 tap homebrew/core
 brew awscli
 brew bat
-brew checkov
 brew gcc
 brew libavif
 brew libmng
@@ -13,6 +12,8 @@ brew nodenv
 brew packer
 brew python@3.10
 brew python@3.9
+brew six
+brew terraformer
 brew tflint
 
 tap homebrew/bundle
@@ -22,7 +23,6 @@ tap homebrew/cask-versions
 tap homebrew/services
 
 tap homebrew/cask
-cask docker
 cask licecap
 cask zoom
 
