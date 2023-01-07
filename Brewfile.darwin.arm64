@@ -16,15 +16,15 @@ brew six
 brew terraformer
 brew tflint
 
+tap homebrew/cask
+cask licecap
+cask zoom
+
 tap homebrew/bundle
 
 tap homebrew/cask-versions
 
 tap homebrew/services
-
-tap homebrew/cask
-cask licecap
-cask zoom
 
 tap heroku/brew
 

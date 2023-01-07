@@ -145,11 +145,6 @@ brew vim
 brew wget
 brew xrootd
 
-tap homebrew/bundle
-
-tap homebrew/cask-versions
-cask adoptopenjdk8
-
 tap homebrew/cask
 cask bettertouchtool
 cask brave-browser
@@ -170,6 +165,11 @@ cask ngrok
 cask notion
 cask slack
 cask wireshark
+
+tap homebrew/bundle
+
+tap homebrew/cask-versions
+cask adoptopenjdk8
 
 tap heroku/brew
 brew heroku
