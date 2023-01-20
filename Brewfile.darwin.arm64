@@ -20,8 +20,6 @@ cask notion
 cask slack
 cask zoom
 
-tap rcmdnk/file
-
 tap rcmdnk/rcmdnkcask
 cask vem
 

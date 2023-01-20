@@ -51,9 +51,6 @@ brew wget
 
 tap homebrew/cask
 
-tap rcmdnk/file
-brew brew-file
-
 tap rcmdnk/rcmdnkcask
 
 tap rcmdnk/rcmdnkpac
