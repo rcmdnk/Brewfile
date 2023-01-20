@@ -2,96 +2,8 @@
 # tap repositories and their packages
 
 tap homebrew/core
-brew awscli
-brew brotli
-brew embulk
-brew fontconfig
-brew freetype
-brew gcc
-brew gettext
-brew ghostscript
-brew giflib
-brew glib
-brew gmp
-brew imath
-brew isl
-brew jbig2dec
-brew jpeg
-brew jpeg-xl
-brew libffi
-brew libidn
-brew libidn2
-brew libmpc
-brew libnghttp2
-brew libpng
-brew libpthread-stubs
-brew libssh2
-brew libtiff
-brew libunistring
-brew libvmaf
-brew libx11
-brew libxau
-brew libxcb
-brew libxdmcp
-brew libxext
-brew libxrender
-brew little-cms2
-brew lzo
-brew m4
-brew mpfr
-brew ncurses
-brew neovim
-brew netpbm
-brew nettle
-brew oniguruma
-brew open-mpi
-brew openblas
-brew opencore-amr
-brew openexr
-brew openjdk@8
-brew openjpeg
-brew openldap
-brew opus
-brew p11-kit
-brew pango
-brew pcre
-brew pcre2
-brew pixman
-brew pkg-config
-brew protobuf
-brew python@3.10
-brew python@3.8
-brew rav1e
-brew rtmpdump
-brew rubberband
-brew sdl2
-brew shared-mime-info
-brew six
-brew snappy
-brew speex
-brew srt
-brew tesseract
-brew theora
-brew tree-sitter
-brew unbound
-brew unibilium
-brew webp
-brew x264
-brew x265
-brew xmlto
-brew xorgproto
-brew xvid
-brew zeromq
-brew zimg
-brew zstd
-
-tap homebrew/bundle
-
-tap homebrew/cask-versions
 
 tap homebrew/cask
-
-tap heroku/brew
 
 tap rcmdnk/file
 
@@ -100,7 +12,10 @@ tap rcmdnk/rcmdnkcask
 tap rcmdnk/rcmdnkpac
 
 # App Store applications
-appstore 408981434   iMovie   (10.3.5)
-appstore 409183694   Keynote  (12.2.1)
-appstore 409203825   Numbers  (12.2.1)
-appstore 409201541   Pages    (12.2.1)
+appstore 408981434   iMovie                    (10.3.5)
+appstore 409183694   Keynote                   (12.2.1)
+appstore 1295203466  Microsoft Remote Desktop  (10.8.0)
+appstore 409203825   Numbers                   (12.2.1)
+appstore 409201541   Pages                     (12.2.1)
+appstore 425424353   The Unarchiver            (4.3.5)
+appstore 497799835   Xcode                     (14.2)

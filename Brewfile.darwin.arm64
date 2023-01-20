@@ -2,42 +2,38 @@
 # tap repositories and their packages
 
 tap homebrew/core
-brew awscli
-brew bat
-brew docker
-brew gcc
-brew libavif
-brew libmng
-brew neovim
-brew nodenv
-brew packer
-brew python@3.10
-brew python@3.9
-brew six
-brew terraformer
-brew tflint
 
 tap homebrew/cask
+cask bettertouchtool
+cask caffeine
+cask clipy
+cask firefox
+cask google-japanese-ime
+cask hyperswitch
+cask image2icon
+cask iterm2
+cask karabiner-elements
 cask licecap
+cask mactex
+cask miniconda
+cask notion
+cask slack
 cask zoom
 
-tap homebrew/bundle
-
-tap homebrew/cask-versions
-
-tap homebrew/services
-
-tap heroku/brew
-
 tap rcmdnk/file
-brew brew-file
 
 tap rcmdnk/rcmdnkcask
+cask vem
 
 tap rcmdnk/rcmdnkpac
+brew parse-plist
+brew screenutf8
 
 # App Store applications
-appstore 408981434   iMovie   (10.3.5)
-appstore 409183694   Keynote  (12.2.1)
-appstore 409203825   Numbers  (12.2.1)
-appstore 409201541   Pages    (12.2.1)
+appstore 408981434   iMovie                    (10.3.5)
+appstore 409183694   Keynote                   (12.2.1)
+appstore 1295203466  Microsoft Remote Desktop  (10.8.0)
+appstore 409203825   Numbers                   (12.2.1)
+appstore 409201541   Pages                     (12.2.1)
+appstore 425424353   The Unarchiver            (4.3.5)
+appstore 497799835   Xcode                     (14.2)
