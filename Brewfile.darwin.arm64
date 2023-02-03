@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew tig
 
 tap homebrew/cask
 cask bettertouchtool
@@ -19,6 +20,9 @@ cask miniconda
 cask notion
 cask slack
 cask zoom
+
+tap rcmdnk/file
+brew brew-file
 
 tap rcmdnk/rcmdnkcask
 cask vem
