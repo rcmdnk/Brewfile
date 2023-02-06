@@ -5,6 +5,8 @@ tap homebrew/core
 
 tap homebrew/cask
 
+tap rcmdnk/file
+
 tap rcmdnk/rcmdnkcask
 
 tap rcmdnk/rcmdnkpac

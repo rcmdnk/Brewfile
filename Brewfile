@@ -38,6 +38,7 @@ brew packer
 brew pandoc
 brew perl
 brew python@3.10
+brew python@3.11
 brew ruby
 brew rust
 brew shellcheck
@@ -47,12 +48,11 @@ brew socat
 brew spark
 brew vim
 brew wget
-brew xz
+
+tap homebrew/cask
 
 tap rcmdnk/file
 brew brew-file
-
-tap homebrew/cask
 
 tap rcmdnk/rcmdnkcask
 
