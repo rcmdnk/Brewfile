@@ -49,11 +49,15 @@ brew vim
 brew wget
 brew xz
 
+tap rcmdnk/file
+brew brew-file
+
 tap homebrew/cask
 
 tap rcmdnk/rcmdnkcask
 
 tap rcmdnk/rcmdnkpac
+brew screenutf8
 
 # Main file
 main ./Brewfile.$PLATFORM.$HOSTTYPE
