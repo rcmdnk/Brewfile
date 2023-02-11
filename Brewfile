@@ -47,6 +47,7 @@ brew socat
 brew spark
 brew vim
 brew wget
+brew xz
 
 tap homebrew/cask
 
