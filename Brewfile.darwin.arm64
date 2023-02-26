@@ -21,6 +21,8 @@ cask microsoft-remote-desktop
 cask miniconda
 cask notion
 cask slack
+cask tailscale
+cask visual-studio-code
 cask zoom
 
 tap rcmdnk/file
