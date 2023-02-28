@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew gh
+brew python@3.8
 brew tig
 
 tap homebrew/cask
