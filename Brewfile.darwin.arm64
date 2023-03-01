@@ -26,6 +26,8 @@ cask tailscale
 cask visual-studio-code
 cask zoom
 
+tap homebrew/aliases
+
 tap rcmdnk/file
 
 tap rcmdnk/rcmdnkcask
