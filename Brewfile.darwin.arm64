@@ -25,7 +25,6 @@ cask slack
 cask tailscale
 cask visual-studio-code
 cask zoom
-cask elgato-stream-deck
 
 tap homebrew/aliases
 
