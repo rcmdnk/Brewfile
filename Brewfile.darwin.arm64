@@ -19,7 +19,6 @@ cask image2icon
 cask iterm2
 cask karabiner-elements
 cask licecap
-cask mactex
 cask microsoft-remote-desktop
 cask miniconda
 cask notion
@@ -27,8 +26,6 @@ cask slack
 cask tailscale
 cask visual-studio-code
 cask zoom
-
-tap homebrew/command-not-found
 
 tap rcmdnk/file
 
