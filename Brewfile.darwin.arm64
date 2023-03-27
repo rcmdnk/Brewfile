@@ -2,10 +2,18 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew bat
+brew dust
+brew fd
 brew gh
+brew grex
+brew imagemagick
+brew poetry
+brew procs
 brew python@3.11
 brew python@3.8
 brew python@3.9
+brew ripgrep
 brew tig
 
 tap homebrew/cask
@@ -22,6 +30,7 @@ cask licecap
 cask microsoft-remote-desktop
 cask miniconda
 cask notion
+cask raycast
 cask slack
 cask tailscale
 cask visual-studio-code
