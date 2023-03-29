@@ -17,12 +17,12 @@ brew ripgrep
 brew tig
 
 tap homebrew/cask
+cask alt-tab
 cask bettertouchtool
 cask caffeine
 cask clipy
 cask firefox
 cask google-japanese-ime
-cask hyperswitch
 cask image2icon
 cask iterm2
 cask karabiner-elements

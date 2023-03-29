@@ -1,7 +1,6 @@
 
 # tap repositories and their packages
 
-
 tap homebrew/core
 brew awscli
 brew bash
