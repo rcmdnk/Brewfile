@@ -5,6 +5,7 @@ tap homebrew/core
 brew bat
 brew dust
 brew fd
+brew flock
 brew gh
 brew grex
 brew imagemagick
