@@ -37,6 +37,7 @@ cask raycast
 cask slack
 cask tailscale
 cask visual-studio-code
+cask warp
 cask zoom
 
 tap rcmdnk/file
