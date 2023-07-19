@@ -37,6 +37,7 @@ brew nodenv
 brew packer
 brew pandoc
 brew perl
+brew python@3.11
 brew python@3.10
 brew ruby
 brew rust
@@ -58,6 +59,13 @@ tap rcmdnk/rcmdnkcask
 
 tap rcmdnk/rcmdnkpac
 brew screenutf8
+
+# App Store applications
+appstore 408981434 iMovie (10.3.6)
+appstore 409183694 Keynote (13.1)
+appstore 409203825 Numbers (13.1)
+appstore 409201541 Pages (13.1)
+appstore 497799835 Xcode (14.3.1)
 
 # Main file
 main ./Brewfile.$PLATFORM.$HOSTTYPE

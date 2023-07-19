@@ -2,7 +2,6 @@
 # tap repositories and their packages
 
 tap homebrew/core
-brew python@3.11
 
 tap homebrew/cask
 
@@ -11,12 +10,3 @@ tap rcmdnk/file
 tap rcmdnk/rcmdnkcask
 
 tap rcmdnk/rcmdnkpac
-
-# App Store applications
-appstore 408981434   iMovie                    (10.3.5)
-appstore 409183694   Keynote                   (12.2.1)
-appstore 1295203466  Microsoft Remote Desktop  (10.8.1)
-appstore 409203825   Numbers                   (12.2.1)
-appstore 409201541   Pages                     (12.2.1)
-appstore 425424353   The Unarchiver            (4.3.5)
-appstore 497799835   Xcode                     (14.2)
