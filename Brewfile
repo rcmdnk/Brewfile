@@ -37,8 +37,8 @@ brew nodenv
 brew packer
 brew pandoc
 brew perl
-brew python@3.11
 brew python@3.10
+brew python@3.11
 brew ruby
 brew rust
 brew shellcheck
