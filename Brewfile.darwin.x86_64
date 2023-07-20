@@ -2,6 +2,13 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew bat
+brew dust
+brew gh
+brew imagemagick
+brew poetry
+brew python@3.8
+brew python@3.9
 
 tap homebrew/cask
 
@@ -10,3 +17,6 @@ tap rcmdnk/file
 tap rcmdnk/rcmdnkcask
 
 tap rcmdnk/rcmdnkpac
+
+# App Store applications
+appstore 408981434 iMovie (10.3.7)
