@@ -1,0 +1,56 @@
+# Cask applications
+
+# Apps installed by cask in homebrew/cask
+cask alt-tab # /Applications/AltTab.app
+cask bettertouchtool # /Applications/BetterTouchTool.app
+cask caffeine # /Applications/Caffeine.app
+cask clipy # /Applications/Clipy.app
+cask firefox # /Applications/Firefox.app
+cask image2icon # /Applications/Image2Icon.app
+cask iterm2 # /Applications/iTerm.app
+cask karabiner-elements # /Applications/Karabiner-Elements.app
+cask licecap # /Applications/LICEcap.app
+cask microsoft-edge # /Applications/Microsoft Edge.app
+cask microsoft-office # /Applications/Microsoft Excel.app
+#cask microsoft-office # /Applications/Microsoft OneNote.app
+#cask microsoft-office # /Applications/Microsoft Outlook.app
+#cask microsoft-office # /Applications/Microsoft PowerPoint.app
+#cask microsoft-office # /Applications/Microsoft Word.app
+#cask microsoft-office # /Applications/OneDrive.app
+cask microsoft-remote-desktop # /Applications/Microsoft Remote Desktop.app
+cask notion # /Applications/Notion.app
+cask raycast # /Applications/Raycast.app
+cask slack # /Applications/Slack.app
+cask tailscale # /Applications/Tailscale.app
+cask the-unarchiver # /Applications/The Unarchiver.app
+cask visual-studio-code # /Applications/Visual Studio Code.app
+cask warp # /Applications/Warp.app
+
+# Cask is found, but no applications are found (could be fonts, system settings, or installed in other directory.)
+cask microsoft-auto-update
+cask zoom
+
+# Apps installed directly instead of by cask
+#cask google-chrome # /Applications/Google Chrome.app
+#cask google-drive # /Applications/Google Drive.app
+
+# Apps installed by brew in homebrew/core
+
+# Apps installed from AppStore
+appstore 409183694 Keynote (13.1) # /Applications/Keynote.app
+appstore 409203825 Numbers (13.1) # /Applications/Numbers.app
+appstore 409201541 Pages (13.1) # /Applications/Pages.app
+appstore 497799835 Xcode (14.3.1) # /Applications/Xcode.app
+appstore 408981434 iMovie (10.3.6) # /Applications/iMovie.app
+
+# Apps installed but no casks are available
+# (System applications or directory installed.)
+# /Applications/Company Portal.app
+# /Applications/Google Docs.app
+# /Applications/Google Sheets.app
+# /Applications/Google Slides.app
+# /Applications/JamfProtect.app
+# /Applications/Karabiner-EventViewer.app
+# /Applications/Safari.app
+# /Applications/Self Service.app
+# /Applications/TeX
