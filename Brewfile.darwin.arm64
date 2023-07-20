@@ -46,3 +46,6 @@ tap rcmdnk/rcmdnkcask
 cask vem
 
 tap rcmdnk/rcmdnkpac
+
+# App Store applications
+appstore 408981434 iMovie (10.3.7)
