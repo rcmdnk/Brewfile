@@ -2,50 +2,9 @@
 # tap repositories and their packages
 
 tap homebrew/core
-brew bat
-brew dust
-brew fd
-brew flock
-brew gh
-brew grex
-brew imagemagick
-brew poetry
-brew procs
-brew python@3.8
-brew python@3.9
-brew ripgrep
-brew rustfmt
-brew tig
+brew virtualenv
 
 tap homebrew/cask
-cask alt-tab
-cask bettertouchtool
-cask caffeine
-cask clipy
-cask firefox
-cask google-japanese-ime
-cask image2icon
-cask iterm2
-cask karabiner-elements
-cask licecap
-cask microsoft-edge
-cask microsoft-office
-cask microsoft-remote-desktop
-cask notion
-cask raycast
-cask slack
-cask tailscale
-cask the-unarchiver
-cask visual-studio-code
-cask warp
-cask zoom
-
-tap rcmdnk/file
-
-tap rcmdnk/rcmdnkcask
-cask vem
-
-tap rcmdnk/rcmdnkpac
 
 # App Store applications
-appstore 408981434 iMovie (10.3.7)
+appstore 408981434 iMovie (10.3.8)
