@@ -2,9 +2,94 @@
 # tap repositories and their packages
 
 tap homebrew/core
-brew virtualenv
+brew awscli
+brew bash
+brew bash-completion
+brew bat
+brew berkeley-db
+brew ccat
+brew cmake
+brew colordiff
+brew ctags
+brew curl
+brew deno
+brew docker
+brew dust
+brew fd
+brew flock
+brew gh
+brew ghq
+brew git
+brew git-secrets
+brew go
+brew grex
+brew hub
+brew imagemagick
+brew jq
+brew latex2rtf
+brew libtermkey
+brew libuv
+brew libvterm
+brew libyaml
+brew lua
+brew luv
+brew m-cli
+brew mas
+brew mosh
+brew msgpack
+brew neovim
+brew node
+brew nodenv
+brew packer
+brew pandoc
+brew perl
+brew poetry
+brew procs
+brew python@3.8
+brew python@3.9
+brew ripgrep
+brew ruby
+brew rust
+brew shellcheck
+brew sl
+brew socat
+brew spark
+brew tig
+brew vim
+brew wget
+brew xz
 
 tap homebrew/cask
+cask alt-tab
+cask bettertouchtool
+cask caffeine
+cask clipy
+cask firefox
+cask google-japanese-ime
+cask image2icon
+cask iterm2
+cask karabiner-elements
+cask licecap
+cask microsoft-edge
+cask microsoft-office
+cask microsoft-remote-desktop
+cask notion
+cask raycast
+cask slack
+cask tailscale
+cask the-unarchiver
+cask visual-studio-code
+cask warp
+cask zoom
+
+tap rcmdnk/file
+brew brew-file
+
+tap rcmdnk/rcmdnkcask
+cask vem
+
+tap rcmdnk/rcmdnkpac
+brew screenutf8
 
 # App Store applications
 appstore 408981434 iMovie (10.3.8)
