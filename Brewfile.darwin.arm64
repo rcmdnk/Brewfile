@@ -43,6 +43,7 @@ brew nodenv
 brew packer
 brew pandoc
 brew perl
+brew pipgrip
 brew poetry
 brew procs
 brew python@3.8
