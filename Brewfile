@@ -13,7 +13,6 @@ tap homebrew/cask
 appstore 409183694 Keynote (13.1)
 appstore 409203825 Numbers (13.1)
 appstore 409201541 Pages (13.1)
-appstore 497799835 Xcode (14.3.1)
 
 # Main file
 main ./Brewfile.$PLATFORM.$HOSTTYPE
