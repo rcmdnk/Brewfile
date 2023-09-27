@@ -95,4 +95,7 @@ brew screenutf8
 
 # App Store applications
 appstore 408981434 iMovie (10.3.9)
+appstore 409183694 Keynote (13.2)
+appstore 409203825 Numbers (13.2)
+appstore 409201541 Pages (13.2)
 appstore 497799835 Xcode (15.0)
