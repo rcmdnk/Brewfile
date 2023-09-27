@@ -55,6 +55,7 @@ brew shellcheck
 brew sl
 brew socat
 brew spark
+brew terraform
 brew tig
 brew vim
 brew wget
