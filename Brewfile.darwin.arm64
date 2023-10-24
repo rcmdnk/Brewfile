@@ -15,7 +15,6 @@ brew curl
 brew deno
 brew docker
 brew dust
-brew fd
 brew flock
 brew gh
 brew ghq
