@@ -61,6 +61,7 @@ brew wget
 brew xz
 
 tap homebrew/cask
+cask accessmenubarapps
 cask alt-tab
 cask bettertouchtool
 cask caffeine
