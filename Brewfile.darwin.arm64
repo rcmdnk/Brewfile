@@ -75,6 +75,7 @@ cask licecap
 cask microsoft-edge
 cask microsoft-office
 cask microsoft-remote-desktop
+cask miniconda
 cask notion
 cask raycast
 cask slack
