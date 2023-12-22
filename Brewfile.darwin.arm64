@@ -39,6 +39,7 @@ brew msgpack
 brew neovim
 brew node
 brew nodenv
+brew optipng
 brew packer
 brew pandoc
 brew perl
@@ -55,6 +56,7 @@ brew sl
 brew socat
 brew spark
 brew terraform
+brew tflint
 brew tig
 brew vim
 brew wget
