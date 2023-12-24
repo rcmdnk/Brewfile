@@ -7,6 +7,7 @@ brew bash
 brew bash-completion
 brew bat
 brew berkeley-db
+brew buildkit
 brew ccat
 brew cmake
 brew colordiff
@@ -14,6 +15,7 @@ brew ctags
 brew curl
 brew deno
 brew docker
+brew docker-buildx
 brew dust
 brew flock
 brew gh
@@ -30,6 +32,7 @@ brew libtermkey
 brew libuv
 brew libvterm
 brew libyaml
+brew lima
 brew lua
 brew luv
 brew m-cli
