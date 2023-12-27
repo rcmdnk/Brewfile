@@ -90,6 +90,8 @@ cask visual-studio-code
 cask warp
 cask zoom
 
+tap homebrew/bundle
+
 tap rcmdnk/file
 brew brew-file
 
