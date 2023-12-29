@@ -9,6 +9,7 @@ brew bat
 brew berkeley-db
 brew buildkit
 brew ccat
+brew checkov
 brew cmake
 brew colordiff
 brew ctags
@@ -26,6 +27,7 @@ brew go
 brew grex
 brew hub
 brew imagemagick
+brew infracost
 brew jq
 brew latex2rtf
 brew libtermkey
@@ -48,6 +50,7 @@ brew pandoc
 brew perl
 brew pipgrip
 brew poetry
+brew pre-commit
 brew procs
 brew python@3.8
 brew python@3.9
@@ -59,8 +62,14 @@ brew sl
 brew socat
 brew spark
 brew terraform
+brew terraform-docs
+brew terragrunt
+brew terrascan
 brew tflint
+brew tfsec
+brew tfupdate
 brew tig
+brew trivy
 brew vim
 brew wget
 brew xz
@@ -91,6 +100,9 @@ cask warp
 cask zoom
 
 tap homebrew/bundle
+
+tap minamijoyo/hcledit
+brew hcledit
 
 tap rcmdnk/file
 brew brew-file
