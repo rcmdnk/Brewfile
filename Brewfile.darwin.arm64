@@ -49,6 +49,7 @@ brew packer
 brew pandoc
 brew perl
 brew pipgrip
+brew plantuml
 brew poetry
 brew pre-commit
 brew procs
@@ -94,6 +95,7 @@ cask notion
 cask raycast
 cask slack
 cask tailscale
+cask temurin
 cask the-unarchiver
 cask visual-studio-code
 cask warp
