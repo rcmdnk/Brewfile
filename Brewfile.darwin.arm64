@@ -53,6 +53,9 @@ brew plantuml
 brew poetry
 brew pre-commit
 brew procs
+brew python-distlib
+brew python-filelock
+brew python-platformdirs
 brew python@3.8
 brew python@3.9
 brew ripgrep
@@ -62,16 +65,17 @@ brew shellcheck
 brew sl
 brew socat
 brew spark
-brew terraform
 brew terraform-docs
 brew terragrunt
 brew terrascan
+brew tfenv
 brew tflint
 brew tfsec
 brew tfupdate
 brew tig
 brew trivy
 brew vim
+brew virtualenv
 brew wget
 brew xz
 
