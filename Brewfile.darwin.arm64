@@ -9,6 +9,7 @@ brew bat
 brew berkeley-db
 brew buildkit
 brew ccat
+brew cfssl
 brew checkov
 brew cmake
 brew colordiff
