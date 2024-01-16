@@ -99,6 +99,7 @@ cask microsoft-remote-desktop
 cask miniconda
 cask notion
 cask raycast
+cask session-manager-plugin
 cask slack
 cask tailscale
 cask temurin
