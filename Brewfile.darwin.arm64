@@ -4,9 +4,10 @@
 tap homebrew/core
 brew awscli
 brew bash
-brew bash-completion
+brew bash-completion@2
 brew bat
 brew berkeley-db
+brew brew-cask-completion
 brew buildkit
 brew ccat
 brew cfssl
@@ -50,6 +51,7 @@ brew optipng
 brew packer
 brew pandoc
 brew perl
+brew pip-completion
 brew pipgrip
 brew plantuml
 brew poetry
@@ -62,6 +64,7 @@ brew python@3.8
 brew python@3.9
 brew ripgrep
 brew ruby
+brew ruby-completion
 brew rust
 brew shellcheck
 brew sl
@@ -80,6 +83,7 @@ brew vim
 brew virtualenv
 brew wget
 brew xz
+brew zsh-completions
 
 tap homebrew/cask
 cask accessmenubarapps
