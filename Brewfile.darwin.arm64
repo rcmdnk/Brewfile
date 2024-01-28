@@ -27,7 +27,6 @@ brew git
 brew git-secrets
 brew go
 brew grex
-brew hub
 brew imagemagick
 brew infracost
 brew jq
