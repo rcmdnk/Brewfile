@@ -29,6 +29,7 @@ brew go
 brew grex
 brew imagemagick
 brew infracost
+brew jj
 brew jq
 brew latex2rtf
 brew libtermkey
