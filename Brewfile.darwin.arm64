@@ -58,15 +58,14 @@ brew poetry
 brew pre-commit
 brew procs
 brew pyenv
-brew python-distlib
 brew python-filelock
-brew python-platformdirs
 brew python@3.8
 brew python@3.9
 brew ripgrep
 brew ruby
 brew ruby-completion
 brew rust
+brew rye
 brew shellcheck
 brew sl
 brew socat
@@ -127,6 +126,10 @@ cask vem
 
 tap rcmdnk/rcmdnkpac
 brew screenutf8
+
+# Other Homebrew packages
+brew python-distlib
+brew python-platformdirs
 
 # App Store applications
 appstore 408981434 iMovie (10.4)
