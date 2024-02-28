@@ -54,7 +54,6 @@ brew perl
 brew pip-completion
 brew pipgrip
 brew plantuml
-brew poetry
 brew pre-commit
 brew procs
 brew pyenv
