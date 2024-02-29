@@ -9,6 +9,7 @@ brew bat
 brew berkeley-db
 brew brew-cask-completion
 brew buildkit
+brew ccache
 brew ccat
 brew cfssl
 brew checkov
@@ -58,6 +59,8 @@ brew pre-commit
 brew procs
 brew pyenv
 brew python-filelock
+brew python-tk@3.11
+brew python-tk@3.12
 brew python@3.8
 brew python@3.9
 brew ripgrep
