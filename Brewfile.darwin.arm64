@@ -58,7 +58,6 @@ brew plantuml
 brew pre-commit
 brew procs
 brew pyenv
-brew python-filelock
 brew python-tk@3.11
 brew python-tk@3.12
 brew python@3.8
@@ -131,6 +130,7 @@ brew screenutf8
 
 # Other Homebrew packages
 brew python-distlib
+brew python-filelock
 brew python-platformdirs
 
 # App Store applications
