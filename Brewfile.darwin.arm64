@@ -104,6 +104,7 @@ cask microsoft-office
 cask microsoft-remote-desktop
 cask miniconda
 cask notion
+cask obsidian
 cask raycast
 cask session-manager-plugin
 cask slack
