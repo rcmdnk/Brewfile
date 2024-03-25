@@ -129,6 +129,9 @@ cask vem
 tap rcmdnk/rcmdnkpac
 brew screenutf8
 
+tap ynqa/tap
+brew jnv
+
 # Other Homebrew packages
 brew python-distlib
 brew python-filelock
