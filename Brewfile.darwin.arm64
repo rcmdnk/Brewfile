@@ -15,6 +15,7 @@ brew cfssl
 brew checkov
 brew cmake
 brew colordiff
+brew cryptography
 brew ctags
 brew curl
 brew deno
@@ -31,6 +32,7 @@ brew grex
 brew imagemagick
 brew infracost
 brew jj
+brew jnv
 brew jq
 brew latex2rtf
 brew libtermkey
@@ -40,6 +42,7 @@ brew libyaml
 brew lima
 brew lua
 brew luv
+brew lz4
 brew m-cli
 brew mas
 brew mosh
@@ -60,6 +63,8 @@ brew procs
 brew pyenv
 brew python-tk@3.11
 brew python-tk@3.12
+brew python@3.10
+brew python@3.11
 brew python@3.8
 brew python@3.9
 brew ripgrep
@@ -68,6 +73,7 @@ brew ruby-completion
 brew rust
 brew rye
 brew shellcheck
+brew six
 brew sl
 brew socat
 brew spark
@@ -130,7 +136,6 @@ tap rcmdnk/rcmdnkpac
 brew screenutf8
 
 tap ynqa/tap
-brew jnv
 
 # Other Homebrew packages
 brew python-distlib
@@ -139,7 +144,7 @@ brew python-platformdirs
 
 # App Store applications
 appstore 408981434 iMovie (10.4)
-appstore 409183694 Keynote (13.2)
-appstore 409203825 Numbers (13.2)
-appstore 409201541 Pages (13.2)
+appstore 409183694 Keynote (14.0)
+appstore 409203825 Numbers (14.0)
+appstore 409201541 Pages (14.0)
 appstore 497799835 Xcode (15.3)
