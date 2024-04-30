@@ -94,6 +94,7 @@ brew zsh-completions
 tap homebrew/cask
 cask accessmenubarapps
 cask alt-tab
+cask amitv87-pip
 cask bettertouchtool
 cask caffeine
 cask clipy
