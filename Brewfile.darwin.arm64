@@ -135,6 +135,7 @@ tap rcmdnk/rcmdnkcask
 cask vem
 
 tap rcmdnk/rcmdnkpac
+brew chatgpt-prompt-wrapper
 brew screenutf8
 
 tap ynqa/tap
