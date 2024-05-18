@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew automake
 brew awscli
 brew bash
 brew bash-completion@2
@@ -71,6 +72,7 @@ brew ruby
 brew ruby-completion
 brew rust
 brew rye
+brew screen
 brew shellcheck
 brew six
 brew sl
@@ -119,6 +121,7 @@ cask slack
 cask tailscale
 cask temurin
 cask the-unarchiver
+cask vimr
 cask visual-studio-code
 cask warp
 cask zoom
@@ -136,7 +139,6 @@ cask vem
 
 tap rcmdnk/rcmdnkpac
 brew chatgpt-prompt-wrapper
-brew screenutf8
 
 tap ynqa/tap
 
