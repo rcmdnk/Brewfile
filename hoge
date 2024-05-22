@@ -12,7 +12,6 @@ brew brew-cask-completion
 brew buildkit
 brew ccache
 brew ccat
-brew certifi
 brew cfssl
 brew cmake
 brew colordiff
@@ -43,6 +42,7 @@ brew libyaml
 brew lima
 brew lua
 brew luv
+brew lz4
 brew m-cli
 brew mas
 brew mosh
@@ -94,7 +94,6 @@ brew zsh-completions
 
 tap homebrew/cask
 cask accessmenubarapps
-cask alacritty
 cask alt-tab
 cask amitv87-pip
 cask bettertouchtool
