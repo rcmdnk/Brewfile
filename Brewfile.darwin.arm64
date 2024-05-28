@@ -70,7 +70,7 @@ brew python@3.9
 brew ripgrep
 brew ruby
 brew ruby-completion
-brew rust
+brew rustup-init
 brew rye
 brew shellcheck
 brew six
@@ -128,6 +128,9 @@ cask zoom
 
 tap homebrew/bundle
 
+tap fujiwara/tap
+brew awslim
+
 tap minamijoyo/hcledit
 brew hcledit
 
@@ -138,7 +141,6 @@ tap rcmdnk/rcmdnkcask
 cask vem
 
 tap rcmdnk/rcmdnkpac
-brew chatgpt-prompt-wrapper
 brew screenutf8
 
 tap ynqa/tap
