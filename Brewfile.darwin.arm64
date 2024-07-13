@@ -14,6 +14,7 @@ brew ccache
 brew ccat
 brew certifi
 brew cfssl
+brew checkov
 brew cmake
 brew colordiff
 brew cryptography
@@ -58,6 +59,7 @@ brew perl
 brew pip-completion
 brew pipgrip
 brew plantuml
+brew poetry
 brew pre-commit
 brew procs
 brew pyenv
@@ -104,6 +106,7 @@ cask firefox
 cask google-japanese-ime
 cask hhkb-studio
 cask image2icon
+cask inkscape
 cask iterm2
 cask karabiner-elements
 cask keyboard-cleaner
@@ -153,10 +156,11 @@ brew python-filelock
 brew python-platformdirs
 
 # App Store applications
+appstore 768053424 Gapplin (2.3.0)
 appstore 408981434 iMovie (10.4.1)
 appstore 409183694 Keynote (14.1)
 appstore 409203825 Numbers (14.1)
 appstore 409201541 Pages (14.1)
-appstore 1091675654 Shapr3D (5.642.0)
+appstore 1091675654 Shapr3D (5.650.0)
 appstore 1435885139 STLMaster (1.0.5)
 appstore 497799835 Xcode (15.4)
