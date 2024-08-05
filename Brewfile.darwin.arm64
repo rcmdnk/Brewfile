@@ -72,7 +72,8 @@ brew python@3.9
 brew ripgrep
 brew ruby
 brew ruby-completion
-brew rustup-init
+brew rust
+brew rustup
 brew rye
 brew shellcheck
 brew six
@@ -161,6 +162,6 @@ appstore 408981434 iMovie (10.4.1)
 appstore 409183694 Keynote (14.1)
 appstore 409203825 Numbers (14.1)
 appstore 409201541 Pages (14.1)
-appstore 1091675654 Shapr3D (5.650.0)
+appstore 1091675654 Shapr3D (5.681.0)
 appstore 1435885139 STLMaster (1.0.5)
 appstore 497799835 Xcode (15.4)
