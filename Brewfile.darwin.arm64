@@ -48,6 +48,7 @@ brew m-cli
 brew mas
 brew mosh
 brew msgpack
+brew mysql
 brew neovim
 brew node
 brew nodenv
