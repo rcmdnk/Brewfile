@@ -6,6 +6,5 @@ brew lz4
 
 tap homebrew/cask
 
-
 # Main file
 main ./Brewfile.$PLATFORM.$HOSTTYPE
