@@ -137,9 +137,6 @@ tap homebrew/bundle
 
 tap homebrew/services
 
-tap fujiwara/tap
-brew awslim
-
 tap minamijoyo/hcledit
 brew hcledit
 
