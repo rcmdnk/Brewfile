@@ -24,6 +24,7 @@ brew deno
 brew docker
 brew docker-buildx
 brew dust
+brew fish
 brew flock
 brew gh
 brew ghq
@@ -76,6 +77,7 @@ brew ruby-completion
 brew rust
 brew rustup
 brew rye
+brew screen
 brew shellcheck
 brew six
 brew sl
@@ -147,7 +149,6 @@ cask vem
 
 tap rcmdnk/rcmdnkpac
 brew chatgpt-prompt-wrapper
-brew screenutf8
 
 tap ynqa/tap
 
