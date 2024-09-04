@@ -45,6 +45,7 @@ brew libyaml
 brew lima
 brew lua
 brew luv
+brew lz4
 brew m-cli
 brew mas
 brew mosh
@@ -138,6 +139,8 @@ tap homebrew/bundle
 
 tap homebrew/services
 
+tap hashicorp/tap
+
 tap minamijoyo/hcledit
 brew hcledit
 
@@ -149,8 +152,6 @@ cask vem
 
 tap rcmdnk/rcmdnkpac
 brew chatgpt-prompt-wrapper
-
-tap ynqa/tap
 
 # Other Homebrew packages
 brew python-distlib
