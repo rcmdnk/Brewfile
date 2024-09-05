@@ -45,7 +45,6 @@ brew libyaml
 brew lima
 brew lua
 brew luv
-brew lz4
 brew m-cli
 brew mas
 brew mosh
