@@ -9,6 +9,7 @@ brew imagemagick
 brew poetry
 brew python@3.8
 brew python@3.9
+brew lz4
 
 tap homebrew/cask
 

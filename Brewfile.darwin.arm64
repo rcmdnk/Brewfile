@@ -35,6 +35,7 @@ brew grex
 brew imagemagick
 brew infracost
 brew jj
+brew lz4
 brew jnv
 brew jq
 brew latex2rtf
