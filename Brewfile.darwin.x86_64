@@ -10,6 +10,7 @@ brew lz4
 brew poetry
 brew python@3.8
 brew python@3.9
+brew screen
 
 tap homebrew/cask
 
