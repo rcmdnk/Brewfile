@@ -168,13 +168,3 @@ appstore 1587335166 Pipper (1.4)
 appstore 1091675654 Shapr3D (5.721.0)
 appstore 1435885139 STLMaster (1.0.5)
 appstore 497799835 Xcode (16.0)
-
-# Whalebrew images
-whalebrew whalebrew/wget
-
-# VSCode extensions
-vscode eamodio.gitlens
-vscode ms-python.debugpy
-vscode ms-python.python
-vscode ms-python.vscode-pylance
-vscode vscodevim.vim
