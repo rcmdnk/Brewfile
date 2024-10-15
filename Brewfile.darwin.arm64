@@ -70,6 +70,7 @@ brew python-tk@3.11
 brew python-tk@3.12
 brew python@3.10
 brew python@3.11
+brew python@3.13
 brew python@3.8
 brew python@3.9
 brew ripgrep
