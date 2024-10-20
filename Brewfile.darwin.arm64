@@ -50,9 +50,7 @@ brew zsh-completions
 
 tap homebrew/cask
 cask accessmenubarapps
-cask alacritty
 cask alt-tab
-cask amitv87-pip
 cask bettertouchtool
 cask caffeine
 cask clipy
@@ -70,17 +68,13 @@ cask microsoft-remote-desktop
 cask miniconda
 cask notion
 cask obsidian
-cask raycast
-cask scroll-reverser
 cask session-manager-plugin
 cask slack
 cask tailscale
-cask temurin
 cask the-unarchiver
 cask unnaturalscrollwheels
 cask vimr
 cask visual-studio-code
-cask warp
 cask zoom
 
 tap homebrew/bundle
