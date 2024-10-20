@@ -4,40 +4,19 @@
 tap homebrew/core
 brew automake
 brew awscli
-brew bat
-brew berkeley-db
-brew brew-cask-completion
 brew buildkit
-brew ccache
-brew certifi
-brew cfssl
-brew checkov
 brew cmake
 brew colordiff
-brew cryptography
-brew ctags
-brew curl
-brew deno
 brew docker
 brew docker-buildx
 brew dust
 brew fish
 brew flock
-brew git-secrets
-brew grex
 brew infracost
-brew jj
 brew jnv
 brew latex2rtf
-brew libtermkey
-brew libuv
-brew libvterm
-brew libyaml
 brew lima
 brew lua
-brew luv
-brew lz4
-brew m-cli
 brew mas
 brew mosh
 brew msgpack
@@ -47,21 +26,14 @@ brew openjdk
 brew optipng
 brew packer
 brew pandoc
-brew perl
 brew pip-completion
-brew pipgrip
 brew plantuml
 brew procs
-brew python-tk@3.11
-brew python-tk@3.12
 brew python@3.10
 brew python@3.11
-brew python@3.8
 brew python@3.9
 brew ripgrep
 brew ruby-completion
-brew rye
-brew six
 brew socat
 brew spark
 brew terraform-docs
@@ -73,10 +45,7 @@ brew tfsec
 brew tfupdate
 brew tig
 brew trivy
-brew virtualenv
-brew wget
 brew whalebrew
-brew xz
 brew zsh-completions
 
 tap homebrew/cask
@@ -128,10 +97,7 @@ tap rcmdnk/file
 tap rcmdnk/rcmdnkcask
 cask vem
 
-# Other Homebrew packages
-brew python-distlib
-brew python-filelock
-brew python-platformdirs
+tap rcmdnk/rcmdnkpac
 
 # App Store applications
 appstore 768053424 Gapplin (2.3.0)
