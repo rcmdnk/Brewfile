@@ -4,14 +4,11 @@
 tap homebrew/core
 brew automake
 brew awscli
-brew bash
-brew bash-completion@2
 brew bat
 brew berkeley-db
 brew brew-cask-completion
 brew buildkit
 brew ccache
-brew ccat
 brew certifi
 brew cfssl
 brew checkov
@@ -26,17 +23,11 @@ brew docker-buildx
 brew dust
 brew fish
 brew flock
-brew gh
-brew ghq
-brew git
 brew git-secrets
-brew go
 brew grex
-brew imagemagick
 brew infracost
 brew jj
 brew jnv
-brew jq
 brew latex2rtf
 brew libtermkey
 brew libuv
@@ -51,8 +42,6 @@ brew mas
 brew mosh
 brew msgpack
 brew mysql
-brew neovim
-brew node
 brew nodenv
 brew openjdk
 brew optipng
@@ -62,25 +51,16 @@ brew perl
 brew pip-completion
 brew pipgrip
 brew plantuml
-brew poetry
-brew pre-commit
 brew procs
-brew pyenv
 brew python-tk@3.11
 brew python-tk@3.12
 brew python@3.10
 brew python@3.11
-brew python@3.13
 brew python@3.8
 brew python@3.9
 brew ripgrep
-brew ruby
 brew ruby-completion
-brew rust
-brew rustup
 brew rye
-brew screen
-brew shellcheck
 brew six
 brew socat
 brew spark
@@ -93,7 +73,6 @@ brew tfsec
 brew tfupdate
 brew tig
 brew trivy
-brew vim
 brew virtualenv
 brew wget
 brew whalebrew
@@ -145,13 +124,9 @@ tap minamijoyo/hcledit
 brew hcledit
 
 tap rcmdnk/file
-brew brew-file
 
 tap rcmdnk/rcmdnkcask
 cask vem
-
-tap rcmdnk/rcmdnkpac
-brew chatgpt-prompt-wrapper
 
 # Other Homebrew packages
 brew python-distlib

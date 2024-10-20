@@ -7,7 +7,6 @@ brew dust
 brew gh
 brew imagemagick
 brew lz4
-brew poetry
 brew python@3.8
 brew python@3.9
 brew screen
@@ -15,12 +14,7 @@ brew whalebrew
 
 tap homebrew/cask
 
-tap rcmdnk/file
-brew brew-file
 
-tap rcmdnk/rcmdnkcask
-
-tap rcmdnk/rcmdnkpac
 
 # App Store applications
 appstore 768053424 Gapplin (2.3.0)

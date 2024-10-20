@@ -1,0 +1,10 @@
+
+# tap repositories and their packages
+
+tap homebrew/core
+
+tap rcmdnk/file
+
+tap rcmdnk/rcmdnkcask
+
+tap rcmdnk/rcmdnkpac
