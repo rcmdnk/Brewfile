@@ -56,7 +56,6 @@ cask caffeine
 cask clipy
 cask google-japanese-ime
 cask hhkb-studio
-cask image2icon
 cask inkscape
 cask iterm2
 cask karabiner-elements
@@ -71,9 +70,7 @@ cask obsidian
 cask session-manager-plugin
 cask slack
 cask tailscale
-cask the-unarchiver
 cask unnaturalscrollwheels
-cask vimr
 cask visual-studio-code
 cask zoom
 
