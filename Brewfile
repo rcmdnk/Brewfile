@@ -14,7 +14,6 @@ brew imagemagick
 brew jq
 brew neovim
 brew node
-brew pipgrip
 brew poetry
 brew pre-commit
 brew pyenv
