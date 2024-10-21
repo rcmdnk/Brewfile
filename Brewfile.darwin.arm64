@@ -63,7 +63,6 @@ cask keyboard-cleaner
 cask licecap
 cask microsoft-edge
 cask microsoft-office
-cask microsoft-remote-desktop
 cask miniconda
 cask notion
 cask obsidian
@@ -72,6 +71,7 @@ cask slack
 cask tailscale
 cask unnaturalscrollwheels
 cask visual-studio-code
+cask windows-app
 cask zoom
 
 tap homebrew/bundle
