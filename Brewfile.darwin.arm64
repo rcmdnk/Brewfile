@@ -20,9 +20,6 @@ brew optipng
 brew packer
 brew plantuml
 brew procs
-brew python@3.10
-brew python@3.11
-brew python@3.9
 brew ruby-completion
 brew socat
 brew spark

@@ -13,8 +13,7 @@ brew neovim
 brew node
 brew poetry
 brew pyenv
-brew python@3.12
-brew python@3.13
+brew ripgrep
 brew ruby
 brew rust
 brew screen
