@@ -2,35 +2,23 @@
 # tap repositories and their packages
 
 tap homebrew/core
-brew automake
 brew bash
 brew bash-completion@2
 brew ccat
-brew cmake
-brew colordiff
-brew dust
 brew gcc@11
 brew gh
 brew go
 brew imagemagick
-brew jnv
-brew lua
 brew neovim
 brew node
-brew nodenv
-brew pandoc
-brew pip-completion
 brew poetry
 brew pyenv
 brew python@3.12
 brew python@3.13
-brew ripgrep
 brew ruby
 brew rust
 brew screen
 brew shellcheck
-brew tig
-brew utf8proc --HEAD
 brew vim
 
 tap rcmdnk/file
