@@ -2,14 +2,17 @@
 # tap repositories and their packages
 
 tap homebrew/core
-brew ghq
-brew git
-brew jq
-brew pipgrip
-brew pre-commit
-brew rustup
+brew automake
+brew cmake
+brew colordiff
+brew dust
+brew jnv
+brew nodenv
+brew pandoc
+brew pip-completion
+brew tig
+brew utf8proc --HEAD
 
 tap rcmdnk/file
 
 tap rcmdnk/rcmdnkpac
-brew chatgpt-prompt-wrapper
