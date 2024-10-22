@@ -2,47 +2,28 @@
 # tap repositories and their packages
 
 tap homebrew/core
-brew automake
 brew awscli
 brew buildkit
-brew cmake
-brew colordiff
 brew docker
 brew docker-buildx
-brew dust
 brew fish
 brew flock
-brew ghq
-brew git
 brew infracost
-brew jnv
-brew jq
 brew latex2rtf
 brew lima
-brew lua
 brew mas
 brew mosh
 brew msgpack
 brew mysql
-brew neovim
-brew node
-brew nodenv
 brew openjdk
 brew optipng
 brew packer
-brew pandoc
-brew pip-completion
-brew pipgrip
 brew plantuml
-brew pre-commit
 brew procs
-brew pyenv
 brew python@3.10
 brew python@3.11
 brew python@3.9
-brew ripgrep
 brew ruby-completion
-brew rustup
 brew socat
 brew spark
 brew terraform-docs
@@ -52,7 +33,6 @@ brew tfenv
 brew tflint
 brew tfsec
 brew tfupdate
-brew tig
 brew trivy
 brew whalebrew
 brew zsh-completions
@@ -98,7 +78,6 @@ tap rcmdnk/rcmdnkcask
 cask vem
 
 tap rcmdnk/rcmdnkpac
-brew chatgpt-prompt-wrapper
 
 # App Store applications
 appstore 768053424 Gapplin (2.3.0)
