@@ -2,9 +2,12 @@
 # tap repositories and their packages
 
 tap homebrew/core
+
 tap homebrew/cask
 
+tap rcmdnk/file
 
+tap rcmdnk/rcmdnkpac
 
 # App Store applications
 appstore 768053424 Gapplin (2.3.0)
