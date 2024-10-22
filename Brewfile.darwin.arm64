@@ -12,8 +12,11 @@ brew docker-buildx
 brew dust
 brew fish
 brew flock
+brew ghq
+brew git
 brew infracost
 brew jnv
+brew jq
 brew latex2rtf
 brew lima
 brew lua
@@ -21,19 +24,25 @@ brew mas
 brew mosh
 brew msgpack
 brew mysql
+brew neovim
+brew node
 brew nodenv
 brew openjdk
 brew optipng
 brew packer
 brew pandoc
 brew pip-completion
+brew pipgrip
 brew plantuml
+brew pre-commit
 brew procs
+brew pyenv
 brew python@3.10
 brew python@3.11
 brew python@3.9
 brew ripgrep
 brew ruby-completion
+brew rustup
 brew socat
 brew spark
 brew terraform-docs
@@ -89,6 +98,7 @@ tap rcmdnk/rcmdnkcask
 cask vem
 
 tap rcmdnk/rcmdnkpac
+brew chatgpt-prompt-wrapper
 
 # App Store applications
 appstore 768053424 Gapplin (2.3.0)
@@ -100,9 +110,6 @@ appstore 1587335166 Pipper (1.4)
 appstore 1091675654 Shapr3D (5.730.0)
 appstore 1435885139 STLMaster (1.0.5)
 appstore 497799835 Xcode (16.0)
-
-# Whalebrew images
-whalebrew whalebrew/wget
 
 # VSCode extensions
 vscode eamodio.gitlens

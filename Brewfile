@@ -9,8 +9,10 @@ brew gcc@11
 brew gh
 brew go
 brew imagemagick
-brew lz4
 brew poetry
+brew python@3.12
+brew python@3.13
+brew ruby
 brew rust
 brew screen
 brew shellcheck
