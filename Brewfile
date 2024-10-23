@@ -7,7 +7,7 @@ brew bash
 brew bash-completion@2
 brew cmake
 brew ccat
-brew colordirr
+brew colordiff
 brew dust
 brew gcc@11
 brew gh
