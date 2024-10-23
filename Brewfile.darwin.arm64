@@ -15,7 +15,7 @@ brew mas
 brew mosh
 brew msgpack
 brew mysql
-brew nodenv
+brew nodeenv
 brew openjdk
 brew optipng
 brew packer
@@ -53,6 +53,7 @@ cask microsoft-office
 cask miniconda
 cask notion
 cask obsidian
+cask raspberry-pi-imager
 cask session-manager-plugin
 cask slack
 cask tailscale
