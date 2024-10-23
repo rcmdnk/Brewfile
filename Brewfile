@@ -5,8 +5,8 @@ tap homebrew/core
 brew automake
 brew bash
 brew bash-completion@2
-brew cmake
 brew ccat
+brew cmake
 brew colordiff
 brew dust
 brew gcc@11
@@ -17,7 +17,6 @@ brew jnv
 brew lua
 brew neovim
 brew node
-brew nodeenv
 brew pandoc
 brew pip-completion
 brew poetry

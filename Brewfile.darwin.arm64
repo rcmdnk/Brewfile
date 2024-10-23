@@ -15,6 +15,7 @@ brew mas
 brew mosh
 brew msgpack
 brew mysql
+brew nodenv
 brew openjdk
 brew optipng
 brew packer
