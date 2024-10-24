@@ -8,9 +8,9 @@ brew ccat
 brew gcc@11
 brew gh
 brew ghq
-brew jnv
 brew go
 brew imagemagick
+brew jnv
 brew lua
 brew neovim
 brew node
