@@ -8,6 +8,7 @@ brew docker
 brew docker-buildx
 brew fish
 brew flock
+brew ghq
 brew infracost
 brew latex2rtf
 brew lima
