@@ -7,6 +7,8 @@ brew bash-completion@2
 brew ccat
 brew gcc@11
 brew gh
+brew ghq
+brew jnv
 brew go
 brew imagemagick
 brew lua

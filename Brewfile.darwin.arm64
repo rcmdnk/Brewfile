@@ -2,18 +2,13 @@
 # tap repositories and their packages
 
 tap homebrew/core
-brew automake
 brew awscli
 brew buildkit
-brew cmake
-brew colordiff
 brew docker
 brew docker-buildx
-brew dust
 brew fish
 brew flock
 brew infracost
-brew jnv
 brew latex2rtf
 brew lima
 brew mas
@@ -24,11 +19,8 @@ brew nodeenv
 brew openjdk
 brew optipng
 brew packer
-brew pandoc
-brew pip-completion
 brew plantuml
 brew procs
-brew ripgrep
 brew ruby-completion
 brew socat
 brew spark
@@ -39,9 +31,7 @@ brew tfenv
 brew tflint
 brew tfsec
 brew tfupdate
-brew tig
 brew trivy
-brew utf8proc --HEAD
 brew whalebrew
 brew zsh-completions
 
