@@ -2,10 +2,6 @@
 # tap repositories and their packages
 
 tap homebrew/core
-brew git
-brew jq
-brew pre-commit
-brew rustup
 
 tap homebrew/cask
 

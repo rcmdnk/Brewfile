@@ -2,16 +2,6 @@
 # tap repositories and their packages
 
 tap homebrew/core
-brew automake
-brew cmake
-brew colordiff
-brew dust
-brew jnv
-brew nodenv
-brew pandoc
-brew pip-completion
-brew tig
-brew utf8proc --HEAD
 
 tap rcmdnk/file
 
