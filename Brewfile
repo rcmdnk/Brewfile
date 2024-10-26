@@ -11,12 +11,11 @@ brew ghq
 brew go
 brew imagemagick
 brew jnv
-brew lua
+brew lz4
 brew neovim
 brew node
 brew poetry
 brew pyenv
-brew ruby
 brew rust
 brew screen
 brew shellcheck
