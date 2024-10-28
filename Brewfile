@@ -6,6 +6,7 @@ brew automake
 brew bash
 brew bash-completion@2
 brew ccat
+brew cmake
 brew colordiff
 brew dust
 brew gcc@11
@@ -33,6 +34,7 @@ brew rust
 brew rustup
 brew screen
 brew shellcheck
+brew spark
 brew tig
 brew utf8proc --HEAD
 brew vim

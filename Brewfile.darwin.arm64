@@ -4,7 +4,6 @@
 tap homebrew/core
 brew awscli
 brew buildkit
-brew cmake
 brew docker
 brew docker-buildx
 brew fish
@@ -21,7 +20,6 @@ brew packer
 brew plantuml
 brew procs
 brew socat
-brew spark
 brew terraform-docs
 brew terragrunt
 brew terrascan
