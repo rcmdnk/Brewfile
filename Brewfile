@@ -24,7 +24,6 @@ brew nodeenv
 brew nodenv
 brew pandoc
 brew pip-completion
-brew pipgrip
 brew poetry
 brew pre-commit
 brew pyenv
