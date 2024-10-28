@@ -12,7 +12,6 @@ brew docker-buildx
 brew dust
 brew fish
 brew flock
-brew git
 brew infracost
 brew jq
 brew latex2rtf
