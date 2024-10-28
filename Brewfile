@@ -6,6 +6,7 @@ brew bash
 brew bash-completion@2
 brew ccat
 brew gcc@11
+brew git
 brew gh
 brew ghq
 brew go
