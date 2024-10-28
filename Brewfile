@@ -17,7 +17,6 @@ brew go
 brew imagemagick
 brew jnv
 brew jq
-brew lua
 brew mysql
 brew neovim
 brew node
@@ -25,6 +24,7 @@ brew nodeenv
 brew nodenv
 brew pandoc
 brew pip-completion
+brew pipgrip
 brew poetry
 brew pre-commit
 brew pyenv
