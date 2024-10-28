@@ -2,15 +2,6 @@
 # tap repositories and their packages
 
 tap homebrew/core
-brew automake
-brew cmake
-brew colordiff
-brew dust
-brew pandoc
-brew pip-completion
-brew ripgrep
-brew tig
-brew utf8proc --HEAD
 
 tap homebrew/cask
 
