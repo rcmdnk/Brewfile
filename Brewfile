@@ -38,6 +38,8 @@ brew spark
 brew tig
 brew utf8proc --HEAD
 brew vim
+brew uv
+brew wget
 brew zsh-completions
 
 tap rcmdnk/file
