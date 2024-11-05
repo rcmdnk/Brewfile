@@ -37,8 +37,8 @@ brew socat
 brew spark
 brew tig
 brew utf8proc --HEAD
-brew vim
 brew uv
+brew vim
 brew wget
 brew zsh-completions
 

@@ -26,8 +26,6 @@ brew tflint
 brew tfsec
 brew tfupdate
 brew trivy
-brew uv
-brew wget
 brew whalebrew
 
 tap homebrew/cask
