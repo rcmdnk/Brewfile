@@ -16,6 +16,7 @@ brew msgpack
 brew openjdk
 brew optipng
 brew packer
+brew pkgconf
 brew plantuml
 brew procs
 brew terraform-docs
@@ -73,7 +74,7 @@ tap rcmdnk/rcmdnkpac
 
 # App Store applications
 appstore 768053424 Gapplin (2.3.0)
-appstore 408981434 iMovie (10.4.2)
+appstore 408981434 iMovie (10.4.3)
 appstore 409183694 Keynote (14.2)
 appstore 409203825 Numbers (14.2)
 appstore 409201541 Pages (14.2)
