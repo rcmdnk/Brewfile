@@ -16,7 +16,6 @@ brew msgpack
 brew openjdk
 brew optipng
 brew packer
-brew pkgconf
 brew plantuml
 brew procs
 brew terraform-docs
