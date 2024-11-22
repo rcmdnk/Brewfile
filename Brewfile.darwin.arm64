@@ -4,6 +4,7 @@
 tap homebrew/core
 brew awscli
 brew buildkit
+brew direnv
 brew docker
 brew docker-buildx
 brew fish
