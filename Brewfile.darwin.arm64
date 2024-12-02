@@ -12,6 +12,7 @@ brew flock
 brew infracost
 brew lima
 brew mas
+brew mise
 brew mosh
 brew msgpack
 brew openjdk
