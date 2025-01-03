@@ -9,6 +9,7 @@ brew ccat
 brew cmake
 brew colordiff
 brew dust
+brew fish
 brew gcc@11
 brew gh
 brew ghq
@@ -26,6 +27,7 @@ brew nodenv
 brew pandoc
 brew pip-completion
 brew pipgrip
+brew pkgconf
 brew poetry
 brew pre-commit
 brew pyenv
