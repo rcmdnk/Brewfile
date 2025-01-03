@@ -8,3 +8,9 @@ tap rcmdnk/file
 tap rcmdnk/rcmdnkcask
 
 tap rcmdnk/rcmdnkpac
+
+# VSCode extensions
+vscode [main 2025-01-03T08:08:54.681Z] update#setState idle
+vscode [main 2025-01-03T08:08:55.565Z] Starting extension host with pid 28452 (fork() took 10 ms).
+vscode [main 2025-01-03T08:09:00.758Z] Waiting for extension host with pid 28452 to exit.
+vscode [main 2025-01-03T08:09:00.812Z] Extension host with pid 28452 exited with code: 0, signal: null.
