@@ -22,7 +22,6 @@ brew latex2rtf
 brew mise
 brew neovim
 brew node
-brew nodeenv
 brew nodenv
 brew pandoc
 brew pip-completion

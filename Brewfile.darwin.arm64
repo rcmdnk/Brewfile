@@ -7,12 +7,10 @@ brew buildkit
 brew direnv
 brew docker
 brew docker-buildx
-brew fish
 brew flock
 brew infracost
 brew lima
 brew mas
-brew mise
 brew mosh
 brew msgpack
 brew openjdk
@@ -20,7 +18,6 @@ brew optipng
 brew packer
 brew plantuml
 brew procs
-brew python@3.13
 brew terraform-docs
 brew terragrunt
 brew terrascan
