@@ -13,6 +13,7 @@ brew lima
 brew mas
 brew mosh
 brew msgpack
+brew nodeenv
 brew openjdk
 brew optipng
 brew packer
