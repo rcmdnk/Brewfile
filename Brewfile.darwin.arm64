@@ -26,7 +26,6 @@ brew tflint
 brew tfsec
 brew tfupdate
 brew trivy
-brew whalebrew
 
 tap homebrew/cask
 cask accessmenubarapps
@@ -93,3 +92,13 @@ vscode ms-vscode-remote.remote-ssh
 vscode ms-vscode-remote.remote-ssh-edit
 vscode ms-vscode.remote-explorer
 vscode vscodevim.vim
+
+# Cursor extensions
+cursor anysphere.pyright
+cursor eamodio.gitlens
+cursor ms-python.debugpy
+cursor ms-python.python
+cursor ms-python.vscode-pylance
+cursor ms-vscode-remote.remote-ssh
+cursor ms-vscode-remote.remote-ssh-edit
+cursor ms-vscode.remote-explorer
