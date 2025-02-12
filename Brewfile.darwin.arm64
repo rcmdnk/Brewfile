@@ -8,6 +8,7 @@ brew direnv
 brew docker
 brew docker-buildx
 brew flock
+brew hcledit
 brew infracost
 brew lima
 brew mas
@@ -62,7 +63,6 @@ tap homebrew/services
 tap hashicorp/tap
 
 tap minamijoyo/hcledit
-brew hcledit
 
 tap rcmdnk/file
 
