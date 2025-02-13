@@ -8,7 +8,7 @@ brew direnv
 brew docker
 brew docker-buildx
 brew flock
-brew hcledit
+brew minamijoyo/hcledit/hcledit
 brew infracost
 brew lima
 brew mas
@@ -16,7 +16,7 @@ brew mosh
 brew msgpack
 brew openjdk
 brew optipng
-brew packer
+brew hashicorp/tap/packer
 brew plantuml
 brew procs
 brew terraform-docs
@@ -65,11 +65,13 @@ tap hashicorp/tap
 tap minamijoyo/hcledit
 
 tap rcmdnk/file
+brew rcmdnk/file/brew-file
 
 tap rcmdnk/rcmdnkcask
-cask vem
+cask rcmdnk/rcmdnkcask/vem
 
 tap rcmdnk/rcmdnkpac
+brew rcmdnk/rcmdnkpac/chatgpt-prompt-wrapper
 
 # App Store applications
 appstore 768053424 Gapplin (2.3.0)
