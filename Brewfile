@@ -47,10 +47,10 @@ brew wget
 brew zsh-completions
 
 tap rcmdnk/file
-brew brew-file
+brew rcmdnk/file/brew-file
 
 tap rcmdnk/rcmdnkpac
-brew chatgpt-prompt-wrapper
+brew rcmdnk/rcmdnkpac/chatgpt-prompt-wrapper
 
 # Main file
 main ./Brewfile.$PLATFORM.$HOSTTYPE

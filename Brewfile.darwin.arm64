@@ -17,7 +17,6 @@ brew mosh
 brew msgpack
 brew openjdk
 brew optipng
-brew packer
 brew plantuml
 brew procs
 brew terraform-docs
@@ -62,13 +61,14 @@ tap homebrew/bundle
 tap homebrew/services
 
 tap hashicorp/tap
+brew hashicorp/tap/packer
 
 tap minamijoyo/hcledit
 
 tap rcmdnk/file
 
 tap rcmdnk/rcmdnkcask
-cask vem
+cask rcmdnk/rcmdnkcask/vem
 
 tap rcmdnk/rcmdnkpac
 
