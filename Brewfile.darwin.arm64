@@ -65,13 +65,11 @@ tap hashicorp/tap
 tap minamijoyo/hcledit
 
 tap rcmdnk/file
-brew brew-file
 
 tap rcmdnk/rcmdnkcask
 cask vem
 
 tap rcmdnk/rcmdnkpac
-brew chatgpt-prompt-wrapper
 
 # App Store applications
 appstore 768053424 Gapplin (2.3.0)

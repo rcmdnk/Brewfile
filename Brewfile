@@ -47,8 +47,10 @@ brew wget
 brew zsh-completions
 
 tap rcmdnk/file
+brew brew-file
 
 tap rcmdnk/rcmdnkpac
+brew chatgpt-prompt-wrapper
 
 # Main file
 main ./Brewfile.$PLATFORM.$HOSTTYPE
