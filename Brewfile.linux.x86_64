@@ -2,9 +2,13 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew git-lfs
+brew llama.cpp
 
 tap rcmdnk/file
 
 tap rcmdnk/rcmdnkcask
 
 tap rcmdnk/rcmdnkpac
+
+tap teamookla/speedtest
