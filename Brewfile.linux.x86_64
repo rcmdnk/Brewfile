@@ -4,6 +4,7 @@
 tap homebrew/core
 brew git-lfs
 brew llama.cpp
+brew nodeenv
 
 tap rcmdnk/file
 
