@@ -12,6 +12,7 @@ brew flock
 brew hcledit
 brew infracost
 brew lima
+brew luarocks
 brew mas
 brew mosh
 brew msgpack
@@ -103,3 +104,4 @@ cursor ms-python.vscode-pylance
 cursor ms-vscode-remote.remote-ssh
 cursor ms-vscode-remote.remote-ssh-edit
 cursor ms-vscode.remote-explorer
+cursor vscodevim.vim
