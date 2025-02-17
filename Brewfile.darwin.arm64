@@ -8,6 +8,7 @@ brew colima
 brew direnv
 brew docker
 brew docker-buildx
+brew ffmpeg
 brew flock
 brew hcledit
 brew infracost
@@ -80,7 +81,7 @@ appstore 409183694 Keynote (14.3)
 appstore 409203825 Numbers (14.3)
 appstore 409201541 Pages (14.3)
 appstore 1587335166 Pipper (1.4.1)
-appstore 1091675654 Shapr3D (5.790.0)
+appstore 1091675654 Shapr3D (5.791.0)
 appstore 1349761776 Snake '97 (7.0)
 appstore 1435885139 STLMaster (1.0.5)
 appstore 497799835 Xcode (16.2)
@@ -93,7 +94,6 @@ vscode ms-python.vscode-pylance
 vscode ms-vscode-remote.remote-ssh
 vscode ms-vscode-remote.remote-ssh-edit
 vscode ms-vscode.remote-explorer
-vscode vscodevim.vim
 
 # Cursor extensions
 cursor anysphere.pyright
@@ -104,4 +104,3 @@ cursor ms-python.vscode-pylance
 cursor ms-vscode-remote.remote-ssh
 cursor ms-vscode-remote.remote-ssh-edit
 cursor ms-vscode.remote-explorer
-cursor vscodevim.vim
