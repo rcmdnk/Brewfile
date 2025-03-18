@@ -28,7 +28,6 @@ brew pip-completion
 brew pipgrip
 brew pkgconf
 brew poetry
-brew pre-commit
 brew pyenv
 brew python@3.13
 brew ruby
