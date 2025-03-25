@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew aider
 brew awscli
 brew buildkit
 brew colima
@@ -10,7 +11,6 @@ brew docker
 brew docker-buildx
 brew ffmpeg
 brew flock
-brew hcledit
 brew infracost
 brew lima
 brew luarocks
@@ -58,14 +58,8 @@ cask visual-studio-code
 cask windows-app
 cask zoom
 
-tap homebrew/bundle
-
-tap homebrew/services
-
 tap hashicorp/tap
 brew hashicorp/tap/packer
-
-tap minamijoyo/hcledit
 
 tap rcmdnk/file
 
