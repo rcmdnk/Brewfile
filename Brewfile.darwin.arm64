@@ -49,6 +49,7 @@ cask microsoft-office
 cask miniconda
 cask notion
 cask obsidian
+cask paw
 cask raspberry-pi-imager
 cask session-manager-plugin
 cask slack

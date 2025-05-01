@@ -14,7 +14,7 @@ brew gcc@11
 brew gh
 brew ghq
 brew git
-brew go
+brew golang --HEAD
 brew imagemagick
 brew jnv
 brew jq
