@@ -11,7 +11,6 @@ brew colordiff
 brew dust
 brew fish
 brew gcc@11
-brew golang
 brew gh
 brew ghq
 brew git
