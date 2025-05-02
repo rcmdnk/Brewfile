@@ -11,10 +11,10 @@ brew colordiff
 brew dust
 brew fish
 brew gcc@11
-brew go
 brew gh
 brew ghq
 brew git
+brew go
 brew imagemagick
 brew jnv
 brew jq
