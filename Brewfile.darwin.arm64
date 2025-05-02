@@ -14,6 +14,7 @@ brew flock
 brew infracost
 brew lima
 brew luarocks
+brew lume
 brew mas
 brew mosh
 brew msgpack
