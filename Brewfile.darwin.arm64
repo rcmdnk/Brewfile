@@ -11,7 +11,7 @@ brew docker
 brew docker-buildx
 brew ffmpeg
 brew flock
-brew go
+brew golang
 brew infracost
 brew lima
 brew luarocks
