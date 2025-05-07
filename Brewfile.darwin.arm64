@@ -18,7 +18,6 @@ brew lume
 brew mas
 brew mosh
 brew msgpack
-brew openjdk
 brew optipng
 brew plantuml
 brew procs
