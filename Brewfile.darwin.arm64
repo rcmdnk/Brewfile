@@ -84,7 +84,6 @@ appstore 497799835 Xcode (16.3)
 
 # VSCode extensions
 vscode eamodio.gitlens
-vscode ms-python.debugpy
 vscode ms-python.python
 vscode ms-python.vscode-pylance
 vscode ms-vscode-remote.remote-ssh
