@@ -2,12 +2,12 @@
 # tap repositories and their packages
 
 tap homebrew/core
-brew aider
 brew git-lfs
 brew llama.cpp
 brew nodeenv
-brew pre-commit
 brew ripgrep
+brew ruby
+brew zsh
 
 tap rcmdnk/file
 
