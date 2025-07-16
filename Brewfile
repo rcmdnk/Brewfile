@@ -30,6 +30,7 @@ brew pkgconf
 brew poetry
 brew pyenv
 brew python@3.13
+brew ruby
 brew ruby-completion
 brew rust
 brew rustup
