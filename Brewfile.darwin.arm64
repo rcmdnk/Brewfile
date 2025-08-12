@@ -5,6 +5,7 @@ tap homebrew/core
 brew aider
 brew awscli
 brew buildkit
+brew codex
 brew colima
 brew direnv
 brew docker
