@@ -88,6 +88,8 @@ appstore 1435885139 STLMaster (1.0.5)
 appstore 497799835 Xcode (16.4)
 
 # VSCode extensions
+vscode github.copilot
+vscode github.copilot-chat
 vscode ms-python.debugpy
 vscode ms-python.python
 vscode ms-python.vscode-pylance
