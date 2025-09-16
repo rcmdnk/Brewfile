@@ -76,7 +76,7 @@ cask rcmdnk/rcmdnkcask/vem
 tap rcmdnk/rcmdnkpac
 
 # App Store applications
-appstore 768053424 Gapplin (2.4.0)
+appstore 768053424 Gapplin (2.5.0)
 appstore 408981434 iMovie (10.4.3)
 appstore 409183694 Keynote (14.4)
 appstore 409203825 Numbers (14.4)
