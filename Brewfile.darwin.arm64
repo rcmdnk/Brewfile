@@ -5,7 +5,6 @@ tap homebrew/core
 brew aider
 brew awscli
 brew buildkit
-brew codex
 brew colima
 brew direnv
 brew docker
@@ -17,7 +16,6 @@ brew infracost
 brew lima
 brew luarocks
 brew lume
-brew marp-cli
 brew mas
 brew mosh
 brew msgpack
