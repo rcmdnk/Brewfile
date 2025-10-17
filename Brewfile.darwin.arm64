@@ -28,6 +28,7 @@ brew python@3.9
 brew terraform-docs
 brew terragrunt
 brew terrascan
+brew texlive
 brew tfenv
 brew tflint
 brew tfsec
@@ -42,6 +43,7 @@ cask caffeine
 cask clipy
 cask cursor
 cask google-japanese-ime
+cask hammerspoon
 cask hhkb-studio
 cask inkscape
 cask iterm2
