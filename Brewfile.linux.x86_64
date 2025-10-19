@@ -6,7 +6,6 @@ brew git-lfs
 brew llama.cpp
 brew nodeenv
 brew ripgrep
-brew ruby
 brew zsh
 
 tap rcmdnk/file
