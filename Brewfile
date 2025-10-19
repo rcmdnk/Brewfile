@@ -21,7 +21,6 @@ brew jq
 brew latex2rtf
 brew mise
 brew neovim
-brew node
 brew nodenv
 brew pandoc
 brew pip-completion
@@ -39,7 +38,6 @@ brew socat
 brew spark
 brew tig
 brew utf8proc --HEAD
-brew uv
 brew vim
 brew wget
 brew zsh-completions
