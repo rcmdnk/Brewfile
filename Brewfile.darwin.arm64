@@ -19,6 +19,7 @@ brew lume
 brew mas
 brew mosh
 brew msgpack
+brew node
 brew optipng
 brew plantuml
 brew pre-commit
@@ -34,6 +35,7 @@ brew tflint
 brew tfsec
 brew tfupdate
 brew trivy
+brew uv
 
 tap homebrew/cask
 cask accessmenubarapps
