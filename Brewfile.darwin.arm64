@@ -24,7 +24,6 @@ brew plantuml
 brew pre-commit
 brew procs
 brew python@3.10
-brew python@3.9
 brew terraform-docs
 brew terragrunt
 brew terrascan
@@ -46,7 +45,6 @@ cask cursor
 cask google-japanese-ime
 cask hammerspoon
 cask hhkb-studio
-cask inkscape
 cask iterm2
 cask karabiner-elements
 cask keyboard-cleaner
@@ -58,7 +56,6 @@ cask notion
 cask obsidian
 cask paw
 cask raspberry-pi-imager
-cask session-manager-plugin
 cask slack
 cask tailscale
 cask unnaturalscrollwheels
@@ -84,10 +81,10 @@ appstore 409183694 Keynote (14.4)
 appstore 409203825 Numbers (14.4)
 appstore 409201541 Pages (14.4)
 appstore 1587335166 Pipper (1.4.1)
-appstore 1091675654 Shapr3D (5.991.0)
+appstore 1091675654 Shapr3D (5.1012.0)
 appstore 1349761776 Snake '97 (7.0)
 appstore 1435885139 STLMaster (1.0.5)
-appstore 497799835 Xcode (26.1.1)
+appstore 497799835 Xcode (26.2)
 
 # VSCode extensions
 vscode github.copilot
