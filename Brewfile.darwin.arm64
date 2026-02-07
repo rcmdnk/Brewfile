@@ -4,6 +4,7 @@
 tap homebrew/core
 brew awscli
 brew buildkit
+brew clive
 brew colima
 brew direnv
 brew docker
@@ -12,6 +13,7 @@ brew ffmpeg
 brew flock
 brew gnupg
 brew infracost
+brew lazygit
 brew lima
 brew luarocks
 brew lume
@@ -33,6 +35,7 @@ brew tflint
 brew tfsec
 brew tfupdate
 brew trivy
+brew ttyd
 brew zellij
 
 tap homebrew/cask
@@ -61,6 +64,7 @@ cask tailscale
 cask unnaturalscrollwheels
 cask visual-studio-code
 cask vscodium
+cask wezterm
 cask windows-app
 cask zoom
 
@@ -76,12 +80,12 @@ tap rcmdnk/rcmdnkpac
 
 # App Store applications
 appstore 768053424 Gapplin (2.5.0)
-appstore 408981434 iMovie (10.4.3)
-appstore 409183694 Keynote (14.4)
-appstore 409203825 Numbers (14.4)
-appstore 409201541 Pages (14.4)
+appstore 408981434 iMovie (10.4.4)
+appstore 409183694 Keynote (14.5)
+appstore 409203825 Numbers (14.5)
+appstore 409201541 Pages (14.5)
 appstore 1587335166 Pipper (1.4.1)
-appstore 1091675654 Shapr3D (5.1012.0)
+appstore 1091675654 Shapr3D (26.0.0)
 appstore 1349761776 Snake '97 (7.0)
 appstore 1435885139 STLMaster (1.0.5)
 appstore 497799835 Xcode (26.2)
