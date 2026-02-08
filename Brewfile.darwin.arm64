@@ -2,79 +2,79 @@
 # tap repositories and their packages
 
 tap homebrew/core
-brew awscli
-brew buildkit
-brew clive
-brew colima
-brew direnv
-brew docker
-brew docker-buildx
-brew ffmpeg
-brew flock
-brew gnupg
-brew infracost
-brew lazygit
-brew lima
-brew luarocks
-brew lume
-brew mas
-brew mosh
-brew msgpack
-brew node
-brew optipng
-brew plantuml
-brew pre-commit
-brew procs
-brew python@3.10
-brew terraform-docs
-brew terragrunt
-brew terrascan
-brew texlive
-brew tfenv
-brew tflint
-brew tfsec
-brew tfupdate
-brew trivy
-brew ttyd
-brew zellij
+brew awscli # Official Amazon AWS command-line interface
+brew buildkit # Concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+brew clive # Automates terminal operations
+brew colima # Container runtimes on MacOS (and Linux) with minimal setup
+brew direnv # Load/unload environment variables based on $PWD
+brew docker # Pack, ship and run any application as a lightweight container
+brew docker-buildx # Docker CLI plugin for extended build capabilities with BuildKit
+brew ffmpeg # Play, record, convert, and stream select audio and video codecs
+brew flock # Lock file during command
+brew gnupg # GNU Privacy Guard (OpenPGP)
+brew infracost # Cost estimates for Terraform
+brew lazygit # Simple terminal UI for git commands
+brew lima # Linux virtual machines
+brew luarocks # Package manager for the Lua programming language
+brew lume # Create and manage Apple Silicon-native virtual machines
+brew mas # Mac App Store command-line interface
+brew mosh # Remote terminal application
+brew msgpack # Library for a binary-based efficient data interchange format
+brew node # Open-source, cross-platform JavaScript runtime environment
+brew optipng # PNG file optimizer
+brew plantuml # Draw UML diagrams
+brew pre-commit # Framework for managing multi-language pre-commit hooks
+brew procs # Modern replacement for ps written in Rust
+brew python@3.10 # Interpreted, interactive, object-oriented programming language
+brew terraform-docs # Tool to generate documentation from Terraform modules
+brew terragrunt # Thin wrapper for Terraform e.g. for locking state
+brew terrascan # Detect compliance and security violations across Infrastructure as Code
+brew texlive # Free software distribution for the TeX typesetting system
+brew tfenv # Terraform version manager inspired by rbenv
+brew tflint # Linter for Terraform files
+brew tfsec # Static analysis security scanner for your terraform code
+brew tfupdate # Update version constraints in your Terraform configurations
+brew trivy # Vulnerability scanner for container images, file systems, and Git repos
+brew ttyd # Command-line tool for sharing terminal over the web
+brew zellij # Pluggable terminal workspace, with terminal multiplexer as the base feature
 
 tap homebrew/cask
-cask accessmenubarapps
-cask alt-tab
-cask bettertouchtool
-cask caffeine
-cask clipy
-cask cursor
-cask google-japanese-ime
-cask hammerspoon
-cask hhkb-studio
-cask iterm2
-cask karabiner-elements
-cask keyboard-cleaner
-cask licecap
-cask microsoft-edge
-cask microsoft-office
-cask miniconda
-cask notion
-cask obsidian
-cask paw
-cask raspberry-pi-imager
-cask slack
-cask tailscale
-cask unnaturalscrollwheels
-cask visual-studio-code
-cask vscodium
-cask wezterm
-cask windows-app
-cask zoom
+cask accessmenubarapps # Instant access for menubar apps
+cask alt-tab # Enable Windows-like alt-tab
+cask bettertouchtool # Tool to customise input devices and automate computer systems
+cask caffeine # Utility that prevents the system from going to sleep
+cask clipy # Clipboard extension app
+cask cursor # Write, edit, and chat about your code with AI
+cask google-japanese-ime # Japanese input software
+cask hammerspoon # Desktop automation application
+cask hhkb-studio # Customize keymap, shortcuts, and gesture pad behavior on HHKB Studio
+cask iterm2 # Terminal emulator as alternative to Apple's Terminal app
+cask karabiner-elements # Keyboard customiser
+cask keyboard-cleaner # Desktop shield and keystroke interceptor
+cask licecap # Animated screen capture application
+cask microsoft-edge # Multi-platform web browser
+cask microsoft-office # Office suite
+cask miniconda # Minimal installer for conda
+cask notion # App to write, plan, collaborate, and get organised
+cask obsidian # Knowledge base that works on top of a local folder of plain text Markdown files
+cask paw #
+cask raspberry-pi-imager # Imaging utility to install operating systems to a microSD card
+cask slack # Team communication and collaboration software
+cask tailscale #
+cask unnaturalscrollwheels # Tool to invert scroll direction for physical scroll wheels
+cask visual-studio-code # Open-source code editor
+cask vscodium # Binary releases of VS Code without MS branding/telemetry/licensing
+cask wezterm # GPU-accelerated cross-platform terminal emulator and multiplexer
+cask windows-app # Connect to Windows
+cask zoom # Video communication and virtual meeting platform
 
 tap hashicorp/tap
-brew hashicorp/tap/packer
+brew hashicorp/tap/packer # Packer
 
 tap rcmdnk/file
 
 tap rcmdnk/rcmdnkcask
-cask rcmdnk/rcmdnkcask/vem
+cask rcmdnk/rcmdnkcask/vem #
 
 tap rcmdnk/rcmdnkpac
 
