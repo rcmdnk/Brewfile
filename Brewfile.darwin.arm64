@@ -23,7 +23,6 @@ brew msgpack # Library for a binary-based efficient data interchange format
 brew node # Open-source, cross-platform JavaScript runtime environment
 brew optipng # PNG file optimizer
 brew plantuml # Draw UML diagrams
-brew pre-commit # Framework for managing multi-language pre-commit hooks
 brew procs # Modern replacement for ps written in Rust
 brew python@3.10 # Interpreted, interactive, object-oriented programming language
 brew terraform-docs # Tool to generate documentation from Terraform modules
