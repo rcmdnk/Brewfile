@@ -1,64 +1,64 @@
 
 # tap repositories and their packages
 
-tap homebrew/core
-brew git-lfs
-brew llama.cpp
-brew node
-brew nodeenv
-brew ripgrep
-brew zsh
+tap 'homebrew/core'
+brew 'git-lfs'
+brew 'llama.cpp'
+brew 'node'
+brew 'nodeenv'
+brew 'ripgrep'
+brew 'zsh'
 
-tap rcmdnk/file
+tap 'rcmdnk/file'
 
-tap rcmdnk/rcmdnkcask
+tap 'rcmdnk/rcmdnkcask'
 
-tap rcmdnk/rcmdnkpac
+tap 'rcmdnk/rcmdnkpac'
 
-tap teamookla/speedtest
+tap 'teamookla/speedtest'
 
 # VSCode extensions
-vscode anysphere.pyright
-vscode github.copilot
-vscode github.copilot-chat
-vscode github.vscode-github-actions
-vscode marus25.cortex-debug
-vscode mcu-debug.debug-tracker-vscode
-vscode mcu-debug.memory-view
-vscode mcu-debug.peripheral-viewer
-vscode mcu-debug.rtos-views
-vscode ms-python.debugpy
-vscode ms-python.python
-vscode ms-python.vscode-pylance
-vscode ms-vscode.cmake-tools
-vscode ms-vscode.cpptools
-vscode ms-vscode.cpptools-extension-pack
-vscode ms-vscode.cpptools-themes
-vscode ms-vscode.vscode-serial-monitor
-vscode njqdev.vscode-python-typehint
-vscode paulober.pico-w-go
-vscode raspberry-pi.raspberry-pi-pico
-vscode twxs.cmake
+vscode 'anysphere.pyright'
+vscode 'github.copilot'
+vscode 'github.copilot-chat'
+vscode 'github.vscode-github-actions'
+vscode 'marus25.cortex-debug'
+vscode 'mcu-debug.debug-tracker-vscode'
+vscode 'mcu-debug.memory-view'
+vscode 'mcu-debug.peripheral-viewer'
+vscode 'mcu-debug.rtos-views'
+vscode 'ms-python.debugpy'
+vscode 'ms-python.python'
+vscode 'ms-python.vscode-pylance'
+vscode 'ms-vscode.cmake-tools'
+vscode 'ms-vscode.cpptools'
+vscode 'ms-vscode.cpptools-extension-pack'
+vscode 'ms-vscode.cpptools-themes'
+vscode 'ms-vscode.vscode-serial-monitor'
+vscode 'njqdev.vscode-python-typehint'
+vscode 'paulober.pico-w-go'
+vscode 'raspberry-pi.raspberry-pi-pico'
+vscode 'twxs.cmake'
 
 # Cursor extensions
-cursor anysphere.pyright
-cursor github.copilot
-cursor github.copilot-chat
-cursor github.vscode-github-actions
-cursor marus25.cortex-debug
-cursor mcu-debug.debug-tracker-vscode
-cursor mcu-debug.memory-view
-cursor mcu-debug.peripheral-viewer
-cursor mcu-debug.rtos-views
-cursor ms-python.debugpy
-cursor ms-python.python
-cursor ms-python.vscode-pylance
-cursor ms-vscode.cmake-tools
-cursor ms-vscode.cpptools
-cursor ms-vscode.cpptools-extension-pack
-cursor ms-vscode.cpptools-themes
-cursor ms-vscode.vscode-serial-monitor
-cursor njqdev.vscode-python-typehint
-cursor paulober.pico-w-go
-cursor raspberry-pi.raspberry-pi-pico
-cursor twxs.cmake
+cursor 'anysphere.pyright'
+cursor 'github.copilot'
+cursor 'github.copilot-chat'
+cursor 'github.vscode-github-actions'
+cursor 'marus25.cortex-debug'
+cursor 'mcu-debug.debug-tracker-vscode'
+cursor 'mcu-debug.memory-view'
+cursor 'mcu-debug.peripheral-viewer'
+cursor 'mcu-debug.rtos-views'
+cursor 'ms-python.debugpy'
+cursor 'ms-python.python'
+cursor 'ms-python.vscode-pylance'
+cursor 'ms-vscode.cmake-tools'
+cursor 'ms-vscode.cpptools'
+cursor 'ms-vscode.cpptools-extension-pack'
+cursor 'ms-vscode.cpptools-themes'
+cursor 'ms-vscode.vscode-serial-monitor'
+cursor 'njqdev.vscode-python-typehint'
+cursor 'paulober.pico-w-go'
+cursor 'raspberry-pi.raspberry-pi-pico'
+cursor 'twxs.cmake'
