@@ -50,9 +50,7 @@ brew 'pip-completion' # Bash completion for Pip
 brew 'pipgrip' # Lightweight pip dependency resolver
 brew 'pkgconf' # Package compiler and linker metadata toolkit
 brew 'plantuml' # Draw UML diagrams
-brew 'poetry' # Python package management tool
 brew 'procs' # Modern replacement for ps written in Rust
-brew 'python@3.10' # Interpreted, interactive, object-oriented programming language
 brew 'python@3.13' # Interpreted, interactive, object-oriented programming language
 brew 'ripgrep' # Search tool like grep and The Silver Searcher
 brew 'ruby' # Powerful, clean, object-oriented scripting language
@@ -84,6 +82,7 @@ brew 'zsh-completions' # Additional completion definitions for zsh
 tap 'homebrew/cask'
 cask 'accessmenubarapps' # Instant access for menubar apps
 cask 'alt-tab' # Enable Windows-like alt-tab
+cask 'antigravity' # AI Coding Agent IDE
 cask 'bettertouchtool' # Tool to customise input devices and automate computer systems
 cask 'caffeine' # Utility that prevents the system from going to sleep
 cask 'clipy' # Clipboard extension app
@@ -121,15 +120,3 @@ cask 'rcmdnk/rcmdnkcask/vem' #
 
 tap 'rcmdnk/rcmdnkpac'
 brew 'rcmdnk/rcmdnkpac/chatgpt-prompt-wrapper' # Python CLI implementation for ChatGPT.
-
-# App Store applications
-mas 'Gapplin (2.5.0)', id: 768053424
-mas 'iMovie (10.4.4)', id: 408981434
-mas 'Keynote (14.5)', id: 409183694
-mas 'Numbers (14.5)', id: 409203825
-mas 'Pages (14.5)', id: 409201541
-mas 'Pipper (1.4.1)', id: 1587335166
-mas 'Shapr3D (26.22.0)', id: 1091675654
-mas 'Snake '97 (7.0)', id: 1349761776
-mas 'STLMaster (1.0.5)', id: 1435885139
-mas 'Xcode (26.2)', id: 497799835
