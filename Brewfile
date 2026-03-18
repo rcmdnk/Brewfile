@@ -120,3 +120,15 @@ cask 'rcmdnk/rcmdnkcask/vem' #
 
 tap 'rcmdnk/rcmdnkpac'
 brew 'rcmdnk/rcmdnkpac/chatgpt-prompt-wrapper' # Python CLI implementation for ChatGPT.
+
+# App Store applications
+mas 'Gapplin (2.5.0)', id: 768053424
+mas 'iMovie (10.4.4)', id: 408981434
+mas 'Keynote (14.5)', id: 409183694
+mas 'Numbers (14.5)', id: 409203825
+mas 'Pages (14.5)', id: 409201541
+mas 'Pipper (1.4.1)', id: 1587335166
+mas 'Shapr3D (26.32.0)', id: 1091675654
+mas 'Snake '97 (7.0)', id: 1349761776
+mas 'STLMaster (1.0.5)', id: 1435885139
+mas 'Xcode (26.3)', id: 497799835
