@@ -40,6 +40,7 @@ brew 'mas' # Mac App Store command-line interface
 brew 'mise' # Polyglot runtime manager (asdf rust clone)
 brew 'mosh' # Remote terminal application
 brew 'msgpack' # Library for a binary-based efficient data interchange format
+brew 'multitime' # Time command execution over multiple executions
 brew 'neovim' # Ambitious Vim-fork focused on extensibility and agility
 brew 'node' # Open-source, cross-platform JavaScript runtime environment
 brew 'nodeenv' # Node.js virtual environment builder
