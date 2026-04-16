@@ -51,7 +51,6 @@ brew 'pip-completion' # Bash completion for Pip
 brew 'pipgrip' # Lightweight pip dependency resolver
 brew 'pkgconf' # Package compiler and linker metadata toolkit
 brew 'plantuml' # Draw UML diagrams
-brew 'pre-commit' # Framework for managing multi-language pre-commit hooks
 brew 'procs' # Modern replacement for ps written in Rust
 brew 'python@3.13' # Interpreted, interactive, object-oriented programming language
 brew 'ripgrep' # Search tool like grep and The Silver Searcher
