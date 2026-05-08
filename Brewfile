@@ -27,7 +27,7 @@ brew 'git-lfs' # Git extension for versioning large files
 brew 'gnupg' # GNU Privacy Guard (OpenPGP)
 brew 'golang' #
 brew 'imagemagick' # Tools and libraries to manipulate images in select formats
-brew 'infracost' # Cost estimates for Terraform
+brew 'infracost' # Cost estimates for Terraform, Terragrunt, and CloudFormation
 brew 'jnv' # Interactive JSON filter using jq
 brew 'jq' # Lightweight and flexible command-line JSON processor
 brew 'latex2rtf' # Translate LaTeX to RTF
