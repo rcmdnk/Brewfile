@@ -68,7 +68,6 @@ brew 'terragrunt' # Thin wrapper for Terraform e.g. for locking state
 brew 'terrascan' # Detect compliance and security violations across Infrastructure as Code
 brew 'texlive' # Free software distribution for the TeX typesetting system
 brew 'tfenv' # Terraform version manager inspired by rbenv
-brew 'tflint' # Linter for Terraform files
 brew 'tfsec' # Static analysis security scanner for your terraform code
 brew 'tfupdate' # Update version constraints in your Terraform configurations
 brew 'tig' # Text interface for Git repositories
@@ -123,6 +122,9 @@ cask 'rcmdnk/rcmdnkcask/vem' #
 
 tap 'rcmdnk/rcmdnkpac'
 brew 'rcmdnk/rcmdnkpac/chatgpt-prompt-wrapper' # Python CLI implementation for ChatGPT.
+
+# Other Homebrew packages
+brew 'tflint' # Linter for Terraform files
 
 # App Store applications
 mas 'Gapplin (2.5.0)', id: 768053424
