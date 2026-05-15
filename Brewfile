@@ -92,6 +92,7 @@ cask 'cursor' # Write, edit, and chat about your code with AI
 cask 'google-japanese-ime' # Japanese input software
 cask 'hammerspoon' # Desktop automation application
 cask 'hhkb-studio' # Customize keymap, shortcuts, and gesture pad behavior on HHKB Studio
+cask 'inkscape' # Vector graphics editor
 cask 'iterm2' # Terminal emulator as alternative to Apple's Terminal app
 cask 'karabiner-elements' # Keyboard customiser
 cask 'keyboard-cleaner' # Desktop shield and keystroke interceptor
