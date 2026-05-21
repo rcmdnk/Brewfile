@@ -83,7 +83,7 @@ brew 'zsh-completions' # Additional completion definitions for zsh
 tap 'homebrew/cask'
 cask 'accessmenubarapps' # Instant access for menubar apps
 cask 'alt-tab' # Enable Windows-like alt-tab
-cask 'antigravity' # AI Coding Agent IDE
+cask 'antigravity' # Agent orchestration platform
 cask 'bettertouchtool' # Tool to customise input devices and automate computer systems
 cask 'caffeine' # Utility that prevents the system from going to sleep
 cask 'claude' # Anthropic's official Claude AI desktop app
