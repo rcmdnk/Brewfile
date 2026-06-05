@@ -81,7 +81,6 @@ brew 'zsh' # UNIX shell (command interpreter)
 brew 'zsh-completions' # Additional completion definitions for zsh
 
 tap 'homebrew/cask'
-cask 'accessmenubarapps' # Instant access for menubar apps
 cask 'alt-tab' # Enable Windows-like alt-tab
 cask 'antigravity' # Agent orchestration platform
 cask 'bettertouchtool' # Tool to customise input devices and automate computer systems
@@ -134,7 +133,7 @@ mas 'Keynote (14.5)', id: 409183694
 mas 'Numbers (14.5)', id: 409203825
 mas 'Pages (14.5)', id: 409201541
 mas 'Pipper (1.4.1)', id: 1587335166
+mas 'RosettaCheck (2.3)', id: 6759349750
 mas 'Shapr3D (26.82.0)', id: 1091675654
-mas 'Snake '97 (7.0)', id: 1349761776
 mas 'STLMaster (1.0.5)', id: 1435885139
 mas 'Xcode (26.3)', id: 497799835
