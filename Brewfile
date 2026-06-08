@@ -112,16 +112,12 @@ cask 'windows-app' # Connect to Windows
 cask 'zoom' # Video communication and virtual meeting platform
 
 tap 'hashicorp/tap'
-brew 'hashicorp/tap/packer' # Packer
 
 tap 'rcmdnk/file'
-brew 'rcmdnk/file/brew-file' # Brewfile manager for Homebrew.
 
 tap 'rcmdnk/rcmdnkcask'
-cask 'rcmdnk/rcmdnkcask/vem' #
 
 tap 'rcmdnk/rcmdnkpac'
-brew 'rcmdnk/rcmdnkpac/chatgpt-prompt-wrapper' # Python CLI implementation for ChatGPT.
 
 # Other Homebrew packages
 brew 'tflint' # Linter for Terraform files
