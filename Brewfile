@@ -134,6 +134,6 @@ mas 'Numbers (14.5)', id: 409203825
 mas 'Pages (14.5)', id: 409201541
 mas 'Pipper (1.4.1)', id: 1587335166
 mas 'RosettaCheck (2.3)', id: 6759349750
-mas 'Shapr3D (26.82.0)', id: 1091675654
+mas 'Shapr3D (26.91.0)', id: 1091675654
 mas 'STLMaster (1.0.5)', id: 1435885139
 mas 'Xcode (26.3)', id: 497799835
