@@ -26,6 +26,8 @@ brew git # Distributed revision control system
 brew git-lfs # Git extension for versioning large files
 brew gnupg # GNU Privacy Guard (OpenPGP)
 brew go # Open source programming language to build simple/reliable/efficient software
+brew googleworkspace-cli # CLI for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more
+brew herdr # Agent multiplexer that lives in your terminal
 brew imagemagick # Tools and libraries to manipulate images in select formats
 brew infracost # Cost estimates for Terraform, Terragrunt, and CloudFormation
 brew jnv # Interactive JSON filter using jq
@@ -85,9 +87,9 @@ cask alt-tab # Enable Windows-like alt-tab
 cask antigravity # Agent orchestration platform
 cask bettertouchtool # Tool to customise input devices and automate computer systems
 cask caffeine # Utility that prevents the system from going to sleep
-cask claude # Anthropic's official Claude AI desktop app
 cask clipy # Clipboard extension app
 cask cursor # Write, edit, and chat about your code with AI
+cask gcloud-cli # Set of tools to manage resources and applications hosted on Google Cloud
 cask google-japanese-ime # Japanese input software
 cask hammerspoon # Desktop automation application
 cask hhkb-studio # Customize keymap, shortcuts, and gesture pad behavior on HHKB Studio
@@ -125,13 +127,3 @@ brew rcmdnk/rcmdnkpac/chatgpt-prompt-wrapper # Python CLI implementation for Cha
 
 # Other Homebrew packages
 brew tflint # Linter for Terraform files
-
-# App Store applications
-appstore 768053424 Gapplin (2.5.0)
-appstore 409183694 Keynote (14.5)
-appstore 409203825 Numbers (14.5)
-appstore 409201541 Pages (14.5)
-appstore 1587335166 Pipper (1.4.1)
-appstore 6759349750 RosettaCheck (2.3.5)
-appstore 1435885139 STLMaster (1.0.5)
-appstore 497799835 Xcode (26.3)
