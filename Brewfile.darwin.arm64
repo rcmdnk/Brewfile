@@ -16,6 +16,7 @@ brew direnv # Load/unload environment variables based on $PWD
 brew docker # Pack, ship and run any application as a lightweight container
 brew docker-buildx # Docker CLI plugin for extended build capabilities with BuildKit
 brew dust # More intuitive version of du in rust
+brew et # Remote terminal with IP roaming
 brew ffmpeg # Play, record, convert, and stream select audio and video codecs
 brew fish # User-friendly command-line shell for UNIX-like operating systems
 brew flock # Lock file during command
