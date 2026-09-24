@@ -56,6 +56,7 @@ brew pkgconf # Package compiler and linker metadata toolkit
 brew plantuml # Draw UML diagrams
 brew procs # Modern replacement for ps written in Rust
 brew python@3.13 # Interpreted, interactive, object-oriented programming language
+brew rclone # Rsync for cloud storage
 brew ripgrep # Search tool like grep and The Silver Searcher
 brew rtk # CLI proxy to minimize LLM token consumption
 brew ruby # Powerful, clean, object-oriented scripting language
