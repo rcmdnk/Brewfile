@@ -92,6 +92,7 @@ cask caffeine # Utility that prevents the system from going to sleep
 cask clipy # Clipboard extension app
 cask cursor # Write, edit, and chat about your code with AI
 cask gcloud-cli # Set of tools to manage resources and applications hosted on Google Cloud
+cask ghostty # Terminal emulator that uses platform-native UI and GPU acceleration
 cask google-japanese-ime # Japanese input software
 cask hammerspoon # Desktop automation application
 cask hhkb-studio # Customize keymap, shortcuts, and gesture pad behavior on HHKB Studio
@@ -108,6 +109,7 @@ cask obsidian # Knowledge base that works on top of a local folder of plain text
 cask rapidapi # HTTP client that helps testing and describing APIs
 cask raspberry-pi-imager # Imaging utility to install operating systems to a microSD card
 cask tailscale-app # Mesh VPN based on WireGuard
+cask terminal-browser # Terminal-based web browser
 cask unnaturalscrollwheels # Tool to invert scroll direction for physical scroll wheels
 cask visual-studio-code # Open-source code editor
 cask vscodium # Binary releases of VS Code without MS branding/telemetry/licensing
