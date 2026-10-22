@@ -56,6 +56,7 @@ brew pkgconf # Package compiler and linker metadata toolkit
 brew plantuml # Draw UML diagrams
 brew procs # Modern replacement for ps written in Rust
 brew python@3.13 # Interpreted, interactive, object-oriented programming language
+brew python@3.15 # Interpreted, interactive, object-oriented programming language
 brew rclone # Rsync for cloud storage
 brew ripgrep # Search tool like grep and The Silver Searcher
 brew rtk # CLI proxy to minimize LLM token consumption
@@ -69,7 +70,6 @@ brew socat # SOcket CAT: netcat on steroids
 brew spark # Sparklines for the shell
 brew terraform-docs # Tool to generate documentation from Terraform modules
 brew terragrunt # Thin wrapper for Terraform e.g. for locking state
-brew terrascan # Detect compliance and security violations across Infrastructure as Code
 brew texlive # Free software distribution for the TeX typesetting system
 brew tfenv # Terraform version manager inspired by rbenv
 brew tfsec # Static analysis security scanner for your terraform code
@@ -85,9 +85,7 @@ brew zsh # UNIX shell (command interpreter)
 brew zsh-completions # Additional completion definitions for zsh
 
 tap homebrew/cask
-cask alt-tab # Enable Windows-like alt-tab
 cask antigravity # Agent orchestration platform
-cask bettertouchtool # Tool to customise input devices and automate computer systems
 cask caffeine # Utility that prevents the system from going to sleep
 cask clipy # Clipboard extension app
 cask cursor # Write, edit, and chat about your code with AI
@@ -108,7 +106,6 @@ cask notion # App to write, plan, collaborate, and get organised
 cask obsidian # Knowledge base that works on top of a local folder of plain text Markdown files
 cask rapidapi # HTTP client that helps testing and describing APIs
 cask raspberry-pi-imager # Imaging utility to install operating systems to a microSD card
-cask tailscale-app # Mesh VPN based on WireGuard
 cask terminal-browser # Terminal-based web browser
 cask unnaturalscrollwheels # Tool to invert scroll direction for physical scroll wheels
 cask visual-studio-code # Open-source code editor
@@ -127,7 +124,13 @@ tap rcmdnk/rcmdnkcask
 cask rcmdnk/rcmdnkcask/vem #
 
 tap rcmdnk/rcmdnkpac
-brew rcmdnk/rcmdnkpac/chatgpt-prompt-wrapper # Python CLI implementation for ChatGPT.
+brew rcmdnk/rcmdnkpac/chatgpt-prompt-wrapper # Python CLI implementation for ChatGPT
 
-# Other Homebrew packages
-brew tflint # Linter for Terraform files
+# App Store applications
+appstore 768053424 Gapplin (2.5.1)
+appstore 409183694 Keynote (14.5)
+appstore 409203825 Numbers (14.5)
+appstore 409201541 Pages (14.5)
+appstore 1587335166 Pipper (1.4.1)
+appstore 6759349750 RosettaCheck (3.4)
+appstore 1435885139 STLMaster (1.0.5)
