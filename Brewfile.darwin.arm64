@@ -117,6 +117,9 @@ cask zoom # Video communication and virtual meeting platform
 tap hashicorp/tap
 brew hashicorp/tap/packer # Packer
 
+tap lambdalisue/cclens
+brew lambdalisue/cclens/cclens # A lens onto your Claude Code usage
+
 tap rcmdnk/file
 brew rcmdnk/file/brew-file # Brewfile manager for Homebrew.
 
